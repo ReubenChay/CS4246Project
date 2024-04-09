@@ -106,6 +106,14 @@ class Board:
         if self.robot_c == self.m - 1 and self.robot_r == self.n - 1 and not self.board[-1][-1].walls[DOWN]:
             return True
         return False
+
+    # may need to reset board to start state
+    def reset(self):
+        pass
+
+    # update board after action taken
+    def step(self, action):
+        pass
     
 import random
 def generate_random_board(n, m):
