@@ -1,7 +1,7 @@
 UP = 0
 DOWN = 1
-LEFT = 2
-RIGHT = 3
+RIGHT = 2
+LEFT = 3
 opp_dir = [DOWN, UP, RIGHT, LEFT]
 delta = [(-1,0), (1,0), (0,1), (0,-1)]
 #card type is denoted by a 4 bit number. 
