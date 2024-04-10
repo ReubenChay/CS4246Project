@@ -2,10 +2,9 @@ UP = 0
 DOWN = 1
 RIGHT = 2
 LEFT = 3
-opp_dir = [DOWN, UP, RIGHT, LEFT]
+opp_dir = [DOWN, UP, LEFT, RIGHT]
 delta = [(-1,0), (1,0), (0,1), (0,-1)]
-#card type is denoted by a 4 bit number. 
-#For example 0101 means a wall in down and a wall in right
+#Card type is denoted by a 4 bit number. For example: 0101 means a wall in down and a wall in left
 class Card:
     def __init__(self, no):
         self.walls = [False, False, False, False]
