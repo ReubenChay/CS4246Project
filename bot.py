@@ -12,6 +12,14 @@ class Card:
             if (no&(1<<idx)) != 0:
                 self.walls[idx] = True
 
+    def walls_to_number(self):
+        # Convert wall configuration back to a number representation for cloning
+        num = 0
+        for idx in range(4):
+            if self.walls[idx]:
+                num |= 1 << idx
+        return num
+
 class Board:
     def __init__(self, card_no):
         self.n = len(card_no)
@@ -19,6 +27,11 @@ class Board:
         self.board = [[Card(card_no[i][j]) for j in range(self.m)] for i in range(self.n)]
         self.robot_r = 0
         self.robot_c = 0
+    
+    def clone(self):
+        # Create a deep copy of the board to ensure simulations do not interfere with actual game state
+        cloned_card_no = [[self.board[i][j].walls_to_number() for j in range(self.m)] for i in range(self.n)]
+        return Board(cloned_card_no)
     
     def in_bound(self, r, c):
         return r in range(0, self.n) and c in range(0, self.m)
@@ -164,9 +177,9 @@ def random_bot(board: Board):
 
 
 
-board_1 = [[0,0,4], [0,0,0], [0,8,8]]
+#board_1 = [[0,0,4], [0,0,0], [0,8,8]]
 
-random_bot(Board(board_1))
+#random_bot(Board(board_1))
 
 # solve from a txt file
 #board = read_from_file("demo_board.txt")
@@ -175,3 +188,155 @@ random_bot(Board(board_1))
 #try solve random maze, most boards are unwinnable actually
 #random_bot(generate_random_board(2,2))
 
+import math
+from collections import defaultdict
+
+class MCTSNode:
+    def __init__(self, board, parent=None, action=None):
+        self.board = board
+        self.parent = parent
+        self.action = action
+        self.children = []
+        self.wins = 0
+        self.visits = 0
+        self.untried_actions = self.get_possible_actions()
+        self.is_terminal = board.claim_victory()
+
+    def get_possible_actions(self):
+        actions = []
+        # Avoid adding the opposite of the last action unless no other options are available
+        last_action = self.parent.action if self.parent else None
+
+        # Movement actions with reversal prevention
+        if self.board.robot_r > 0 and not self.board.board[self.board.robot_r][self.board.robot_c].walls[UP] and last_action != ("move", DOWN):
+            actions.append(("move", UP))
+        if self.board.robot_r < self.board.n - 1 and not self.board.board[self.board.robot_r][self.board.robot_c].walls[DOWN] and last_action != ("move", UP):
+            actions.append(("move", DOWN))
+        if self.board.robot_c > 0 and not self.board.board[self.board.robot_r][self.board.robot_c].walls[LEFT] and last_action != ("move", RIGHT):
+            actions.append(("move", LEFT))
+        if self.board.robot_c < self.board.m - 1 and not self.board.board[self.board.robot_r][self.board.robot_c].walls[RIGHT] and last_action != ("move", LEFT):
+            actions.append(("move", RIGHT))
+        
+        # Add cycling actions with checks for immediate reversals
+        for i in range(self.board.n):
+            if i != self.board.robot_r:
+                actions.append(("cycle_row", i, 1))
+                actions.append(("cycle_row", i, -1))
+        for j in range(self.board.m):
+            if j != self.board.robot_c:
+                actions.append(("cycle_col", j, 1))
+                actions.append(("cycle_col", j, -1))
+        return actions
+
+    def select_child(self):
+        # Select child with highest UCT value
+        c = 2  # exploration constant
+        log_visits = math.log(self.visits)
+        return max(self.children, key=lambda child: child.wins / child.visits + c * math.sqrt(log_visits / child.visits))
+
+    def expand(self):
+        action = self.untried_actions.pop(0)
+        new_board = self.board.clone()
+        if action[0] == "move":
+            new_board.move(action[1])
+        elif action[0] == "cycle_row":
+            new_board.cycle_row(action[1], action[2])
+        elif action[0] == "cycle_col":
+            new_board.cycle_col(action[1], action[2])
+        child_node = MCTSNode(new_board, self, action)
+        self.children.append(child_node)
+        return child_node
+
+    def update(self, result):
+        self.visits += 1
+        self.wins += result
+
+    def backpropagate(self, result):
+        self.visits += 1
+        self.wins += result
+        if self.parent:
+            self.parent.backpropagate(1 - result)  # Propagate the opposite result up
+
+def monte_carlo_tree_search(root, simulations=100):
+    for _ in range(simulations):
+        node = root
+        # Select the best child node until we find an unexpanded node
+        while node.untried_actions == [] and node.children != []:
+            node = node.select_child()
+        
+        # If there are untried actions, expand the node
+        if node.untried_actions != []:
+            node = node.expand()
+        
+        # Perform a random simulation from the new node
+        outcome = simulate_random_game(node)
+        
+        # Backpropagate the result of the simulation
+        node.backpropagate(outcome)
+    
+    # Return the action from the root's children with the highest number of visits
+    return max(root.children, key=lambda c: c.visits).action if root.children else None
+
+def simulate_random_game(node):
+    step_counter = 0  # Add a counter to prevent infinite loops
+    while not node.is_terminal and step_counter < 100:  # Limit steps to prevent infinite loops
+        possible_moves = node.get_possible_actions()
+        if not possible_moves:
+            #print("No more possible moves from this node.")
+            return 0  # Lose if no moves are possible
+        action = random.choice(possible_moves)
+        #print(f"Attempting action: {action}")
+        node = node.expand()  # Assume expand handles simulation from action
+        step_counter += 1
+        node.is_terminal = node.board.claim_victory()  # Update terminal status
+    return 1  # Win if terminal condition is met
+
+
+def run_mcts(board):
+    current_board = board
+    steps = 0
+    while not current_board.claim_victory() and steps < 100:  # Limit to prevent infinite loop
+        #print("Current board state:")
+        print(current_board)
+        root = MCTSNode(current_board)
+        best_action = monte_carlo_tree_search(root, 50)  # Reduced for faster debug cycles
+        if best_action:
+            print(f"Best action determined by MCTS: {best_action}")
+            action_type, *params = best_action
+            execute_action(current_board, action_type, params)
+            steps += 1
+        else:
+            print("No possible actions found or all simulations led to terminal nodes.")
+            break
+
+        print(f"Board after action {steps}:")
+        #print(current_board)
+
+    if current_board.claim_victory():
+        print("Victory achieved!")
+        print(f"Total steps taken: {steps}")
+    else:
+        print("Game ended without victory.")
+        print(current_board)
+
+def execute_action(board, action_type, params):
+    if action_type == "move":
+        if board.move(params[0]):
+            print(f"Moved {['UP', 'DOWN', 'RIGHT', 'LEFT'][params[0]]}")
+        else:
+            print("Move failed")
+    elif action_type == "cycle_row":
+        if board.cycle_row(params[0], params[1]):
+            print(f"Cycled row {params[0]} {'left' if params[1] == 1 else 'right'}")
+        else:
+            print("Cycle row failed")
+    elif action_type == "cycle_col":
+        if board.cycle_col(params[0], params[1]):
+            print(f"Cycled column {params[0]} {'down' if params[1] == 1 else 'up'}")
+        else:
+            print("Cycle column failed")
+
+
+# Example usage:
+board_1 = [[0,0,4], [0,0,0], [0,8,8]]
+run_mcts(Board(board_1))
