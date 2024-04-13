@@ -1,0 +1,35 @@
+# test_board1.txt - 4 total actions
+board.move_right()
+board.move_down()
+board.move_down()
+board.move_right()
+
+# test_board2.txt - 5 total actions
+board.move_down()
+board.cycle_right(2)
+board.move_down()
+board.move_right()
+board.move_right()
+
+# test_board3.txt - 5 total actions
+board.cycle_right(1)
+board.move_down()
+board.move_right()
+board.move_right()
+board.move_down()
+
+# test_board4.txt - 6 total actions
+board.cycle_right(1)
+board.move_down()
+board.move_right()
+board.move_right()
+board.move_right()
+board.move_down()
+
+# test_board5.txt - 6 total actions
+board.cycle_up(1)
+board.move_right()
+board.move_right()
+board.move_down()
+board.move_down()
+board.move_right()
