@@ -85,9 +85,9 @@ class Board:
 
 ## ACTIONS THAT ROBOT CAN DO (true means succeed, false means not succeed)
     def cycle_left(self, r):
-        return self.cycle_row(r, 1)
-    def cycle_right(self, r):
         return self.cycle_row(r, -1)
+    def cycle_right(self, r):
+        return self.cycle_row(r, 1)
     def cycle_down(self, c):
         return self.cycle_col(c, 1)
     def cycle_up(self, c):
