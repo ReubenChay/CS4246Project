@@ -118,7 +118,7 @@ class Maze:
 
         # + delete all actions that make the agent go out of the maze.
         self.action_matrix[(slice(None),) + (self.height - 1,) + (slice(None),) * self.width + (0,)] = 0
-        self.action_matrix[(slice(None),) + (0,) + (slice(None),) * self.width + (0,)] = 0
+        self.action_matrix[(slice(None),) + (0,) + (slice(None),) * self.width + (1,)] = 0
         self.action_matrix[(0,) + (slice(None)) * (self.width + 1) + (2,)] = 0
         self.action_matrix[(self.width - 1,) + (slice(None)) * (self.width + 1) + (3,)] = 0
 
@@ -141,6 +141,10 @@ class Maze:
                 for col in self.height: #col shift at col x - 1
                     if self.walls[i - 1][col][3]:
                         self.action_matrix[(i, j) + (slice(None),) * i + ((j - col) % self.height,) + (slice(None),) * (self.width - i -1) + (2,)] = 0
+
+        for i in range(1, self.width): #bot x
+            self.action_matrix[i, ..., 2 * i + 4] = 0
+            self.action_matrix[i, ..., 2 * i + 5] = 0
 
     def check_available_action(self, state, action):
         """
