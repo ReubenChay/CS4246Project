@@ -62,9 +62,9 @@ class MazeEnvProblem(Problem):
             return (state[0] + 1,) + state[1:]
         index = (action - 4)//2
         if (action - 4)%2:
-            return state[:index + 2] + (state[index + 2] - 1,) + state[index+3:]
+            return state[:index + 2] + ((state[index + 2] - 1) % self.maze.height,) + state[index+3:]
         else:
-            return state[:index + 2] + (state[index + 2] + 1,) + state[index+3:]
+            return state[:index + 2] + ((state[index + 2] + 1) % self.maze.height,) + state[index+3:]
 
 
 
@@ -117,21 +117,30 @@ class Maze:
 
 
         # + delete all actions that make the agent go out of the maze.
-        self.action_matrix[:, self.height - 1, 0] = 0
-        self.action_matrix[:, 0, 1] = 0
-        self.action_matrix[0, :, 2] = 0
-        self.action_matrix[self.width - 1, :, 3] = 0
+        self.action_matrix[(slice(None),) + (self.height - 1,) + (slice(None),) * self.width + (0,)] = 0
+        self.action_matrix[(slice(None),) + (0,) + (slice(None),) * self.width + (0,)] = 0
+        self.action_matrix[(0,) + (slice(None)) * (self.width + 1) + (2,)] = 0
+        self.action_matrix[(self.width - 1,) + (slice(None)) * (self.width + 1) + (3,)] = 0
 
-        # + delete all actions that make the agent move against the walls
-        for wall in self.walls:
-            if wall[0][0] == wall[1][0]:
-                # + for horizon walls, delete the 0 action lower than it and 1 action upper than it.
-                self.action_matrix[wall[0][0], wall[0][1], 0] = 0
-                self.action_matrix[wall[1][0], wall[1][1], 1] = 0
-            elif wall[0][1] == wall[1][1]:
-                # + for vertical walls, delete the 2 action right to it and 3 action left to it.
-                self.action_matrix[wall[0][0], wall[0][1], 3] = 0
-                self.action_matrix[wall[1][0], wall[1][1], 2] = 0
+
+        for i in range(self.width): #bot x
+            for j in range(self.height): #bot y
+                for col in range(self.height): #col shift at col x
+                    for dir in range(4):
+                        if self.walls[i][col][dir]:
+                            self.action_matrix[(i, j) + (slice(None),) * i + ((j - col) % self.height,) + (slice(None),) * (self.width - i -1) + (dir,)] = 0
+
+        for i in range(self.width - 1): #bot x
+            for j in range(self.height): #bot y
+                for col in range(self.height): #col shift at col x + 1
+                    if self.walls[i + 1][col][2]:
+                        self.action_matrix[(i, j) + (slice(None),) * i + ((j - col) % self.height,) + (slice(None),) * (self.width - i -1) + (3,)] = 0
+
+        for i in range(1, self.width): #bot x
+            for j in self.height: #bot y
+                for col in self.height: #col shift at col x - 1
+                    if self.walls[i - 1][col][3]:
+                        self.action_matrix[(i, j) + (slice(None),) * i + ((j - col) % self.height,) + (slice(None),) * (self.width - i -1) + (2,)] = 0
 
     def check_available_action(self, state, action):
         """
