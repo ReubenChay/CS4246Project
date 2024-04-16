@@ -94,13 +94,13 @@ class Maze:
         self.height = height
         self.state_shape = tuple([width] + [height] * (width + 1))
         action_shape = tuple([width] + [height] * (width + 1) + [4 + 2 * width])
-        self.action_matrix = np.ones(action_shape)
+        self.action_matrix = np.zeros(action_shape)
         self.walls = np.zeros((width, height, 4))
-        for i in width:
-            for j in height:
+        for i in range(width):
+            for j in range(height):
                 for idx in range(4):
-                    if (walls[i, j]&(1<<idx)) != 0:
-                        self.walls[i, j, idx] = True
+                    if (walls[i][j]&(1<<idx)) != 0:
+                        self.walls[(i, j, idx)] = True
 
 
         self.generate_action_matrix()
@@ -114,13 +114,15 @@ class Maze:
         2 - moving leftwards
         3 - moving rightwards
         """
-
+        
+        
+        self.action_matrix[..., :4] = 1
 
         # + delete all actions that make the agent go out of the maze.
         self.action_matrix[(slice(None),) + (self.height - 1,) + (slice(None),) * self.width + (0,)] = 0
         self.action_matrix[(slice(None),) + (0,) + (slice(None),) * self.width + (1,)] = 0
-        self.action_matrix[(0,) + (slice(None)) * (self.width + 1) + (2,)] = 0
-        self.action_matrix[(self.width - 1,) + (slice(None)) * (self.width + 1) + (3,)] = 0
+        self.action_matrix[(0,) + (slice(None),) * (self.width + 1) + (2,)] = 0
+        self.action_matrix[(self.width - 1,) + (slice(None),) * (self.width + 1) + (3,)] = 0
 
 
         for i in range(self.width): #bot x
@@ -137,14 +139,18 @@ class Maze:
                         self.action_matrix[(i, j) + (slice(None),) * i + ((j - col) % self.height,) + (slice(None),) * (self.width - i -1) + (3,)] = 0
 
         for i in range(1, self.width): #bot x
-            for j in self.height: #bot y
-                for col in self.height: #col shift at col x - 1
+            for j in range(self.height): #bot y
+                for col in range(self.height): #col shift at col x - 1
                     if self.walls[i - 1][col][3]:
                         self.action_matrix[(i, j) + (slice(None),) * i + ((j - col) % self.height,) + (slice(None),) * (self.width - i -1) + (2,)] = 0
 
+
+        for i in range(self.width - 1): #bot x
+            self.action_matrix[i, ..., 2 * i + 6] = 1
+            self.action_matrix[i, ..., 2 * i + 7] = 1
         for i in range(1, self.width): #bot x
-            self.action_matrix[i, ..., 2 * i + 4] = 0
-            self.action_matrix[i, ..., 2 * i + 5] = 0
+            self.action_matrix[i, ..., 2 * i + 2] = 1
+            self.action_matrix[i, ..., 2 * i + 3] = 1
 
     def check_available_action(self, state, action):
         """

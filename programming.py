@@ -110,7 +110,7 @@ def run(problem, num_steps: int):
     agent = MCTSAgent(problem)
     state = problem.initial
     for _ in range(num_steps):
-        a = agent(state, problem.h)
+        a = agent(state)
         path.append((state, a))
         if a is None:
             break
@@ -118,9 +118,9 @@ def run(problem, num_steps: int):
         state = state_next
     return path
 
-
-maze1 = Maze(width=3, height=3, walls=walls_maze1)
-problem1 = MazeEnvProblem(initial=(0, 0, 0, 0, 0), goal=(2, 2), maze=maze1)
+wall_setup = walls_maze1
+maze1 = Maze(width = len(wall_setup[0]), height = len(wall_setup), walls = wall_setup)
+problem1 = MazeEnvProblem(initial=(0, ) * (maze1.width + 2), goal=(maze1.width -1, maze1.width - 1), maze=maze1)
 
 path = run(problem1, 100)
 print_path(path)
