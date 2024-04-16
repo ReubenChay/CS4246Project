@@ -50,7 +50,7 @@ class MCTSAgent(MCAgent):
             self.backprop(child, self.simulate(child, actions, is_terminal, result, utility))
 
 
-        max_state = max(root.children, key=lambda p: p.N)
+        max_state = max(root.children, key=lambda p: p.U / p.N)
 
         return max_state.act
 
