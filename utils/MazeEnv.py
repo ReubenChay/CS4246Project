@@ -50,21 +50,21 @@ class MazeEnvProblem(Problem):
 
         if action == 0:
             # 0 - moving upwards
-            return (state[0], state[1] + 1) + state[2:]
+            return (state[0], state[1] - 1) + state[2:]
         if action == 1:
             # 1 - moving downwards
-            return (state[0], state[1] - 1) + state[2:]
+            return (state[0], state[1] + 1) + state[2:]
         if action == 2:
-            # 2 - moving leftwards
-            return (state[0] - 1,) + state[1:]
-        if action == 3:
-            # 3 - moving rightwards
+            # 2 - moving rightwards
             return (state[0] + 1,) + state[1:]
+        if action == 3:
+            # 3 - moving leftwards
+            return (state[0] - 1,) + state[1:]
         index = (action - 4)//2
         if (action - 4)%2:
-            return state[:index + 2] + ((state[index + 2] - 1) % self.maze.height,) + state[index+3:]
-        else:
             return state[:index + 2] + ((state[index + 2] + 1) % self.maze.height,) + state[index+3:]
+        else:
+            return state[:index + 2] + ((state[index + 2] - 1) % self.maze.height,) + state[index+3:]
 
 
 
@@ -119,10 +119,10 @@ class Maze:
         self.action_matrix[..., :4] = 1
 
         # + delete all actions that make the agent go out of the maze.
-        self.action_matrix[(slice(None),) + (self.height - 1,) + (slice(None),) * self.width + (0,)] = 0
-        self.action_matrix[(slice(None),) + (0,) + (slice(None),) * self.width + (1,)] = 0
-        self.action_matrix[(0,) + (slice(None),) * (self.width + 1) + (2,)] = 0
-        self.action_matrix[(self.width - 1,) + (slice(None),) * (self.width + 1) + (3,)] = 0
+        self.action_matrix[(slice(None),) + (self.height - 1,) + (slice(None),) * self.width + (1,)] = 0
+        self.action_matrix[(slice(None),) + (0,) + (slice(None),) * self.width + (0,)] = 0
+        self.action_matrix[(0,) + (slice(None),) * (self.width + 1) + (3,)] = 0
+        self.action_matrix[(self.width - 1,) + (slice(None),) * (self.width + 1) + (2,)] = 0
 
 
         for i in range(self.width): #bot x
@@ -136,13 +136,13 @@ class Maze:
             for j in range(self.height): #bot y
                 for col in range(self.height): #col shift at col x + 1
                     if self.walls[i + 1][col][2]:
-                        self.action_matrix[(i, j) + (slice(None),) * i + ((j - col) % self.height,) + (slice(None),) * (self.width - i -1) + (3,)] = 0
+                        self.action_matrix[(i, j) + (slice(None),) * i + ((j - col) % self.height,) + (slice(None),) * (self.width - i -1) + (2,)] = 0
 
         for i in range(1, self.width): #bot x
             for j in range(self.height): #bot y
                 for col in range(self.height): #col shift at col x - 1
                     if self.walls[i - 1][col][3]:
-                        self.action_matrix[(i, j) + (slice(None),) * i + ((j - col) % self.height,) + (slice(None),) * (self.width - i -1) + (2,)] = 0
+                        self.action_matrix[(i, j) + (slice(None),) * i + ((j - col) % self.height,) + (slice(None),) * (self.width - i -1) + (3,)] = 0
 
 
         for i in range(self.width - 1): #bot x
