@@ -111,8 +111,8 @@ class Maze:
 
         0 - moving upwards
         1 - moving downwards
-        2 - moving leftwards
-        3 - moving rightwards
+        2 - moving rightwards
+        3 - moving leftwards
         """
         
         
@@ -131,6 +131,16 @@ class Maze:
                     for dir in range(4):
                         if self.walls[i][col][dir]:
                             self.action_matrix[(i, j) + (slice(None),) * i + ((j - col) % self.height,) + (slice(None),) * (self.width - i -1) + (dir,)] = 0
+
+
+        for i in range(self.width): #bot x
+            for j in range(self.height): #bot y
+                for col in range(self.height): #col shift at col x
+                    if self.walls[i][col][0]:
+                        self.action_matrix[(i, j) + (slice(None),) * i + ((j - col + 1) % self.height,) + (slice(None),) * (self.width - i -1) + (1,)] = 0
+                    if self.walls[i][col][1]:
+                        self.action_matrix[(i, j) + (slice(None),) * i + ((j - col - 1) % self.height,) + (slice(None),) * (self.width - i -1) + (0,)] = 0
+
 
         for i in range(self.width - 1): #bot x
             for j in range(self.height): #bot y
