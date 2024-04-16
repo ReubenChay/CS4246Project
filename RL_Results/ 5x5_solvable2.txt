@@ -1,0 +1,5736 @@
+# ## ## ## ##X#
+ R X  X  X  X X
+# ##X##X##X##X#
+#X##X## ## ##X#
+X XX X   X  X X
+#X##X## ## ##X#
+# ## ## ##X## #
+               
+# ## ## ##X## #
+# ##X## ##X##X#
+   X X   X  X X
+# ##X## ##X##X#
+# ##X## ## ## #
+   X X   X X   
+# ##X## ##X## #
+
+episode  0 score -444.00 average score -444.00 epsilon 1.00
+episode  1 score 9516.00 average score 4536.00 epsilon 0.95
+episode  2 score -324.00 average score 2916.00 epsilon 0.95
+episode  3 score 9696.00 average score 4611.00 epsilon 0.92
+episode  4 score 9604.00 average score 5609.60 epsilon 0.88
+episode  5 score 9608.00 average score 6276.00 epsilon 0.84
+episode  6 score 9945.00 average score 6800.14 epsilon 0.81
+episode  7 score 10023.00 average score 7203.00 epsilon 0.79
+episode  8 score -404.00 average score 6357.78 epsilon 0.79
+episode  9 score 9653.00 average score 6687.30 epsilon 0.76
+episode  10 score -412.00 average score 6041.91 epsilon 0.76
+episode  11 score -412.00 average score 5504.08 epsilon 0.76
+episode  12 score -444.00 average score 5046.54 epsilon 0.76
+episode  13 score -500.00 average score 4650.36 epsilon 0.76
+episode  14 score 9835.00 average score 4996.00 epsilon 0.74
+episode  15 score 9827.00 average score 5297.94 epsilon 0.70
+episode  16 score 9764.00 average score 5560.65 epsilon 0.68
+episode  17 score 9866.00 average score 5799.83 epsilon 0.67
+episode  18 score 9918.00 average score 6016.58 epsilon 0.66
+episode  19 score 10042.00 average score 6217.85 epsilon 0.64
+episode  20 score 9749.00 average score 6386.00 epsilon 0.61
+episode  21 score 9719.00 average score 6537.50 epsilon 0.59
+episode  22 score 9741.00 average score 6676.78 epsilon 0.56
+episode  23 score 9806.00 average score 6807.17 epsilon 0.54
+episode  24 score 9850.00 average score 6928.88 epsilon 0.50
+episode  25 score 9735.00 average score 7036.81 epsilon 0.48
+episode  26 score 9870.00 average score 7141.74 epsilon 0.47
+episode  27 score 9760.00 average score 7235.25 epsilon 0.44
+episode  28 score 9898.00 average score 7327.07 epsilon 0.43
+episode  29 score 10094.00 average score 7419.30 epsilon 0.42
+episode  30 score 9718.00 average score 7493.45 epsilon 0.39
+episode  31 score 9988.00 average score 7571.41 epsilon 0.38
+episode  32 score 9750.00 average score 7637.42 epsilon 0.35
+episode  33 score 9870.00 average score 7703.09 epsilon 0.34
+episode  34 score 9934.00 average score 7766.83 epsilon 0.34
+episode  35 score 10087.00 average score 7831.28 epsilon 0.32
+episode  36 score 9743.00 average score 7882.95 epsilon 0.29
+episode  37 score 10094.00 average score 7941.13 epsilon 0.29
+episode  38 score -356.00 average score 7728.38 epsilon 0.29
+episode  39 score 9847.00 average score 7781.35 epsilon 0.27
+episode  40 score 9802.00 average score 7830.63 epsilon 0.25
+episode  41 score 9798.00 average score 7877.48 epsilon 0.23
+episode  42 score 9945.00 average score 7925.56 epsilon 0.23
+episode  43 score 9848.00 average score 7969.25 epsilon 0.21
+episode  44 score 9720.00 average score 8008.16 epsilon 0.18
+episode  45 score 9720.00 average score 8045.37 epsilon 0.13
+episode  46 score -348.00 average score 7866.79 epsilon 0.13
+episode  47 score 9923.00 average score 7909.62 epsilon 0.13
+episode  48 score 10050.00 average score 7953.31 epsilon 0.12
+episode  49 score 9815.00 average score 7990.54 epsilon 0.10
+episode  50 score 9871.00 average score 8027.41 epsilon 0.07
+episode  51 score 9878.00 average score 8063.00 epsilon 0.06
+episode  52 score -500.00 average score 7901.43 epsilon 0.06
+episode  53 score 9960.00 average score 7939.56 epsilon 0.05
+episode  54 score 9536.00 average score 7968.58 epsilon 0.05
+episode  55 score -340.00 average score 7820.21 epsilon 0.05
+episode  56 score 9642.00 average score 7852.18 epsilon 0.05
+episode  57 score 9776.00 average score 7885.34 epsilon 0.05
+episode  58 score 9927.00 average score 7919.95 epsilon 0.05
+episode  59 score -540.00 average score 7778.95 epsilon 0.05
+episode  60 score 9736.00 average score 7811.03 epsilon 0.05
+episode  61 score 9792.00 average score 7842.98 epsilon 0.05
+episode  62 score 9545.00 average score 7870.00 epsilon 0.05
+episode  63 score 9843.00 average score 7900.83 epsilon 0.05
+episode  64 score 9868.00 average score 7931.09 epsilon 0.05
+episode  65 score 9620.00 average score 7956.68 epsilon 0.05
+episode  66 score -524.00 average score 7830.10 epsilon 0.05
+episode  67 score -444.00 average score 7708.43 epsilon 0.05
+episode  68 score -284.00 average score 7592.59 epsilon 0.05
+episode  69 score 9574.00 average score 7620.90 epsilon 0.05
+episode  70 score -412.00 average score 7507.76 epsilon 0.05
+episode  71 score 9874.00 average score 7540.62 epsilon 0.05
+episode  72 score -468.00 average score 7430.92 epsilon 0.05
+episode  73 score 9542.00 average score 7459.45 epsilon 0.05
+episode  74 score -460.00 average score 7353.85 epsilon 0.05
+episode  75 score 9676.00 average score 7384.41 epsilon 0.05
+episode  76 score 9856.00 average score 7416.51 epsilon 0.05
+episode  77 score 9909.00 average score 7448.46 epsilon 0.05
+episode  78 score 9667.00 average score 7476.54 epsilon 0.05
+episode  79 score 9724.00 average score 7504.64 epsilon 0.05
+episode  80 score -356.00 average score 7407.59 epsilon 0.05
+episode  81 score 9970.00 average score 7438.84 epsilon 0.05
+episode  82 score 10116.00 average score 7471.10 epsilon 0.05
+episode  83 score 9700.00 average score 7497.63 epsilon 0.05
+episode  84 score 9917.00 average score 7526.09 epsilon 0.05
+episode  85 score 9649.00 average score 7550.78 epsilon 0.05
+episode  86 score 9728.00 average score 7575.80 epsilon 0.05
+episode  87 score 9802.00 average score 7601.10 epsilon 0.05
+episode  88 score 9880.00 average score 7626.71 epsilon 0.05
+episode  89 score 10035.00 average score 7653.47 epsilon 0.05
+episode  90 score 9850.00 average score 7677.60 epsilon 0.05
+episode  91 score 9986.00 average score 7702.70 epsilon 0.05
+episode  92 score 9579.00 average score 7722.87 epsilon 0.05
+episode  93 score -364.00 average score 7636.84 epsilon 0.05
+episode  94 score 9902.00 average score 7660.68 epsilon 0.05
+episode  95 score 9512.00 average score 7679.97 epsilon 0.05
+episode  96 score -516.00 average score 7595.47 epsilon 0.05
+episode  97 score 10183.00 average score 7621.88 epsilon 0.05
+episode  98 score -380.00 average score 7541.05 epsilon 0.05
+episode  99 score 9940.00 average score 7565.04 epsilon 0.05
+episode  100 score 9762.00 average score 7667.10 epsilon 0.05
+episode  101 score 9824.00 average score 7670.18 epsilon 0.05
+episode  102 score -532.00 average score 7668.10 epsilon 0.05
+episode  103 score -484.00 average score 7566.30 epsilon 0.05
+episode  104 score 9961.00 average score 7569.87 epsilon 0.05
+episode  105 score 9818.00 average score 7571.97 epsilon 0.05
+episode  106 score -428.00 average score 7468.24 epsilon 0.05
+episode  107 score -300.00 average score 7365.01 epsilon 0.05
+episode  108 score 9960.00 average score 7468.65 epsilon 0.05
+episode  109 score 10020.00 average score 7472.32 epsilon 0.05
+episode  110 score 10084.00 average score 7577.28 epsilon 0.05
+episode  111 score 9853.00 average score 7679.93 epsilon 0.05
+episode  112 score -444.00 average score 7679.93 epsilon 0.05
+episode  113 score 9904.00 average score 7783.97 epsilon 0.05
+episode  114 score 9656.00 average score 7782.18 epsilon 0.05
+episode  115 score 9922.00 average score 7783.13 epsilon 0.05
+episode  116 score 9837.00 average score 7783.86 epsilon 0.05
+episode  117 score -300.00 average score 7682.20 epsilon 0.05
+episode  118 score 9959.00 average score 7682.61 epsilon 0.05
+episode  119 score 9635.00 average score 7678.54 epsilon 0.05
+episode  120 score 9973.00 average score 7680.78 epsilon 0.05
+episode  121 score 9952.00 average score 7683.11 epsilon 0.05
+episode  122 score 10073.00 average score 7686.43 epsilon 0.05
+episode  123 score 9910.00 average score 7687.47 epsilon 0.05
+episode  124 score 9790.00 average score 7686.87 epsilon 0.05
+episode  125 score 9956.00 average score 7689.08 epsilon 0.05
+episode  126 score 9853.00 average score 7688.91 epsilon 0.05
+episode  127 score 10074.00 average score 7692.05 epsilon 0.05
+episode  128 score 10057.00 average score 7693.64 epsilon 0.05
+episode  129 score 9767.00 average score 7690.37 epsilon 0.05
+episode  130 score 9834.00 average score 7691.53 epsilon 0.05
+episode  131 score -404.00 average score 7587.61 epsilon 0.05
+episode  132 score 9903.00 average score 7589.14 epsilon 0.05
+episode  133 score 9970.00 average score 7590.14 epsilon 0.05
+episode  134 score 9873.00 average score 7589.53 epsilon 0.05
+episode  135 score -372.00 average score 7484.94 epsilon 0.05
+episode  136 score 9773.00 average score 7485.24 epsilon 0.05
+episode  137 score 9934.00 average score 7483.64 epsilon 0.05
+episode  138 score 10101.00 average score 7588.21 epsilon 0.05
+episode  139 score 9944.00 average score 7589.18 epsilon 0.05
+episode  140 score 9742.00 average score 7588.58 epsilon 0.05
+episode  141 score 9661.00 average score 7587.21 epsilon 0.05
+episode  142 score 9846.00 average score 7586.22 epsilon 0.05
+episode  143 score 9957.00 average score 7587.31 epsilon 0.05
+episode  144 score 9923.00 average score 7589.34 epsilon 0.05
+episode  145 score 9922.00 average score 7591.36 epsilon 0.05
+episode  146 score 9804.00 average score 7692.88 epsilon 0.05
+episode  147 score 10076.00 average score 7694.41 epsilon 0.05
+episode  148 score 9944.00 average score 7693.35 epsilon 0.05
+episode  149 score 9981.00 average score 7695.01 epsilon 0.05
+episode  150 score 9749.00 average score 7693.79 epsilon 0.05
+episode  151 score 9901.00 average score 7694.02 epsilon 0.05
+episode  152 score 10086.00 average score 7799.88 epsilon 0.05
+episode  153 score 9982.00 average score 7800.10 epsilon 0.05
+episode  154 score 9620.00 average score 7800.94 epsilon 0.05
+episode  155 score -428.00 average score 7800.06 epsilon 0.05
+episode  156 score 9973.00 average score 7803.37 epsilon 0.05
+episode  157 score 9942.00 average score 7805.03 epsilon 0.05
+episode  158 score 9830.00 average score 7804.06 epsilon 0.05
+episode  159 score 9933.00 average score 7908.79 epsilon 0.05
+episode  160 score 9949.00 average score 7910.92 epsilon 0.05
+episode  161 score 10030.00 average score 7913.30 epsilon 0.05
+episode  162 score 9672.00 average score 7914.57 epsilon 0.05
+episode  163 score 10048.00 average score 7916.62 epsilon 0.05
+episode  164 score 9913.00 average score 7917.07 epsilon 0.05
+episode  165 score 9972.00 average score 7920.59 epsilon 0.05
+episode  166 score 10088.00 average score 8026.71 epsilon 0.05
+episode  167 score 9948.00 average score 8130.63 epsilon 0.05
+episode  168 score 10123.00 average score 8234.70 epsilon 0.05
+episode  169 score 9962.00 average score 8238.58 epsilon 0.05
+episode  170 score 9826.00 average score 8340.96 epsilon 0.05
+episode  171 score 10012.00 average score 8342.34 epsilon 0.05
+episode  172 score 10081.00 average score 8447.83 epsilon 0.05
+episode  173 score 10159.00 average score 8454.00 epsilon 0.05
+episode  174 score 10101.00 average score 8559.61 epsilon 0.05
+episode  175 score 10115.00 average score 8564.00 epsilon 0.05
+episode  176 score 10130.00 average score 8566.74 epsilon 0.05
+episode  177 score 9969.00 average score 8567.34 epsilon 0.05
+episode  178 score 9820.00 average score 8568.87 epsilon 0.05
+episode  179 score 10089.00 average score 8572.52 epsilon 0.05
+episode  180 score 10141.00 average score 8677.49 epsilon 0.05
+episode  181 score 9875.00 average score 8676.54 epsilon 0.05
+episode  182 score 10163.00 average score 8677.01 epsilon 0.05
+episode  183 score 10015.00 average score 8680.16 epsilon 0.05
+episode  184 score 9980.00 average score 8680.79 epsilon 0.05
+episode  185 score 9983.00 average score 8684.13 epsilon 0.05
+episode  186 score 9989.00 average score 8686.74 epsilon 0.05
+episode  187 score 9985.00 average score 8688.57 epsilon 0.05
+episode  188 score 9743.00 average score 8687.20 epsilon 0.05
+episode  189 score 9960.00 average score 8686.45 epsilon 0.05
+episode  190 score 10126.00 average score 8689.21 epsilon 0.05
+episode  191 score 10106.00 average score 8690.41 epsilon 0.05
+episode  192 score 10178.00 average score 8696.40 epsilon 0.05
+episode  193 score 10079.00 average score 8800.83 epsilon 0.05
+episode  194 score 10130.00 average score 8803.11 epsilon 0.05
+episode  195 score 10091.00 average score 8808.90 epsilon 0.05
+episode  196 score 9944.00 average score 8913.50 epsilon 0.05
+episode  197 score 10117.00 average score 8912.84 epsilon 0.05
+episode  198 score 10102.00 average score 9017.66 epsilon 0.05
+episode  199 score 10159.00 average score 9019.85 epsilon 0.05
+episode  200 score 9979.00 average score 9022.02 epsilon 0.05
+episode  201 score 9999.00 average score 9023.77 epsilon 0.05
+episode  202 score 10015.00 average score 9129.24 epsilon 0.05
+episode  203 score 10088.00 average score 9234.96 epsilon 0.05
+episode  204 score 10101.00 average score 9236.36 epsilon 0.05
+episode  205 score 10162.00 average score 9239.80 epsilon 0.05
+episode  206 score 9930.00 average score 9343.38 epsilon 0.05
+episode  207 score 10100.00 average score 9447.38 epsilon 0.05
+episode  208 score 10149.00 average score 9449.27 epsilon 0.05
+episode  209 score 10062.00 average score 9449.69 epsilon 0.05
+episode  210 score 9983.00 average score 9448.68 epsilon 0.05
+episode  211 score 10110.00 average score 9451.25 epsilon 0.05
+episode  212 score 9884.00 average score 9554.53 epsilon 0.05
+episode  213 score 10096.00 average score 9556.45 epsilon 0.05
+episode  214 score 10050.00 average score 9560.39 epsilon 0.05
+episode  215 score 10195.00 average score 9563.12 epsilon 0.05
+episode  216 score 9998.00 average score 9564.73 epsilon 0.05
+episode  217 score 10086.00 average score 9668.59 epsilon 0.05
+episode  218 score 10183.00 average score 9670.83 epsilon 0.05
+episode  219 score 10136.00 average score 9675.84 epsilon 0.05
+episode  220 score 10157.00 average score 9677.68 epsilon 0.05
+episode  221 score 10156.00 average score 9679.72 epsilon 0.05
+episode  222 score 10116.00 average score 9680.15 epsilon 0.05
+episode  223 score 10162.00 average score 9682.67 epsilon 0.05
+episode  224 score 10182.00 average score 9686.59 epsilon 0.05
+episode  225 score 10196.00 average score 9688.99 epsilon 0.05
+episode  226 score 10173.00 average score 9692.19 epsilon 0.05
+episode  227 score 10105.00 average score 9692.50 epsilon 0.05
+episode  228 score 9951.00 average score 9691.44 epsilon 0.05
+episode  229 score 10192.00 average score 9695.69 epsilon 0.05
+episode  230 score 10193.00 average score 9699.28 epsilon 0.05
+episode  231 score 9924.00 average score 9802.56 epsilon 0.05
+episode  232 score 10174.00 average score 9805.27 epsilon 0.05
+episode  233 score 10130.00 average score 9806.87 epsilon 0.05
+episode  234 score 10176.00 average score 9809.90 epsilon 0.05
+episode  235 score 10066.00 average score 9914.28 epsilon 0.05
+episode  236 score 10153.00 average score 9918.08 epsilon 0.05
+episode  237 score 10114.00 average score 9919.88 epsilon 0.05
+episode  238 score 10125.00 average score 9920.12 epsilon 0.05
+episode  239 score 10169.00 average score 9922.37 epsilon 0.05
+episode  240 score 10180.00 average score 9926.75 epsilon 0.05
+episode  241 score 10132.00 average score 9931.46 epsilon 0.05
+episode  242 score 10180.00 average score 9934.80 epsilon 0.05
+episode  243 score 10188.00 average score 9937.11 epsilon 0.05
+episode  244 score 10125.00 average score 9939.13 epsilon 0.05
+episode  245 score 10180.00 average score 9941.71 epsilon 0.05
+episode  246 score 9989.00 average score 9943.56 epsilon 0.05
+episode  247 score 10109.00 average score 9943.89 epsilon 0.05
+episode  248 score 10110.00 average score 9945.55 epsilon 0.05
+episode  249 score 10150.00 average score 9947.24 epsilon 0.05
+episode  250 score 10166.00 average score 9951.41 epsilon 0.05
+episode  251 score 10153.00 average score 9953.93 epsilon 0.05
+episode  252 score 10033.00 average score 9953.40 epsilon 0.05
+episode  253 score 10186.00 average score 9955.44 epsilon 0.05
+episode  254 score 9795.00 average score 9957.19 epsilon 0.05
+episode  255 score 10102.00 average score 10062.49 epsilon 0.05
+episode  256 score 10152.00 average score 10064.28 epsilon 0.05
+episode  257 score 10124.00 average score 10066.10 epsilon 0.05
+episode  258 score 10135.00 average score 10069.15 epsilon 0.05
+episode  259 score 10128.00 average score 10071.10 epsilon 0.05
+episode  260 score 10159.00 average score 10073.20 epsilon 0.05
+episode  261 score 10079.00 average score 10073.69 epsilon 0.05
+episode  262 score 10082.00 average score 10077.79 epsilon 0.05
+episode  263 score 10111.00 average score 10078.42 epsilon 0.05
+episode  264 score 10198.00 average score 10081.27 epsilon 0.05
+episode  265 score 10164.00 average score 10083.19 epsilon 0.05
+episode  266 score 10121.00 average score 10083.52 epsilon 0.05
+episode  267 score 10070.00 average score 10084.74 epsilon 0.05
+episode  268 score 10137.00 average score 10084.88 epsilon 0.05
+episode  269 score 10129.00 average score 10086.55 epsilon 0.05
+episode  270 score 9988.00 average score 10088.17 epsilon 0.05
+episode  271 score 10189.00 average score 10089.94 epsilon 0.05
+episode  272 score 10171.00 average score 10090.84 epsilon 0.05
+episode  273 score 10170.00 average score 10090.95 epsilon 0.05
+episode  274 score 10113.00 average score 10091.07 epsilon 0.05
+episode  275 score 10185.00 average score 10091.77 epsilon 0.05
+episode  276 score 10096.00 average score 10091.43 epsilon 0.05
+episode  277 score 10172.00 average score 10093.46 epsilon 0.05
+episode  278 score 10178.00 average score 10097.04 epsilon 0.05
+episode  279 score 10157.00 average score 10097.72 epsilon 0.05
+episode  280 score 10086.00 average score 10097.17 epsilon 0.05
+episode  281 score 10202.00 average score 10100.44 epsilon 0.05
+episode  282 score 10188.00 average score 10100.69 epsilon 0.05
+episode  283 score 10186.00 average score 10102.40 epsilon 0.05
+episode  284 score 10169.00 average score 10104.29 epsilon 0.05
+episode  285 score 10181.00 average score 10106.27 epsilon 0.05
+episode  286 score 10113.00 average score 10107.51 epsilon 0.05
+episode  287 score 10052.00 average score 10108.18 epsilon 0.05
+episode  288 score 10188.00 average score 10112.63 epsilon 0.05
+episode  289 score 10194.00 average score 10114.97 epsilon 0.05
+episode  290 score 10176.00 average score 10115.47 epsilon 0.05
+episode  291 score 10186.00 average score 10116.27 epsilon 0.05
+episode  292 score 10167.00 average score 10116.16 epsilon 0.05
+episode  293 score 10127.00 average score 10116.64 epsilon 0.05
+episode  294 score 10132.00 average score 10116.66 epsilon 0.05
+episode  295 score 10170.00 average score 10117.45 epsilon 0.05
+episode  296 score 10079.00 average score 10118.80 epsilon 0.05
+episode  297 score 10194.00 average score 10119.57 epsilon 0.05
+episode  298 score 10152.00 average score 10120.07 epsilon 0.05
+episode  299 score 10152.00 average score 10120.00 epsilon 0.05
+episode  300 score 10139.00 average score 10121.60 epsilon 0.05
+episode  301 score 10203.00 average score 10123.64 epsilon 0.05
+episode  302 score 10178.00 average score 10125.27 epsilon 0.05
+episode  303 score 10206.00 average score 10126.45 epsilon 0.05
+episode  304 score 10166.00 average score 10127.10 epsilon 0.05
+episode  305 score 10172.00 average score 10127.20 epsilon 0.05
+episode  306 score 10202.00 average score 10129.92 epsilon 0.05
+episode  307 score 10108.00 average score 10130.00 epsilon 0.05
+episode  308 score 9983.00 average score 10128.34 epsilon 0.05
+episode  309 score 10187.00 average score 10129.59 epsilon 0.05
+episode  310 score 10168.00 average score 10131.44 epsilon 0.05
+episode  311 score 9833.00 average score 10128.67 epsilon 0.05
+episode  312 score 10130.00 average score 10131.13 epsilon 0.05
+episode  313 score 10176.00 average score 10131.93 epsilon 0.05
+episode  314 score 9994.00 average score 10131.37 epsilon 0.05
+episode  315 score 10063.00 average score 10130.05 epsilon 0.05
+episode  316 score 10107.00 average score 10131.14 epsilon 0.05
+episode  317 score 10128.00 average score 10131.56 epsilon 0.05
+episode  318 score 10094.00 average score 10130.67 epsilon 0.05
+episode  319 score 10145.00 average score 10130.76 epsilon 0.05
+episode  320 score 10150.00 average score 10130.69 epsilon 0.05
+episode  321 score 10105.00 average score 10130.18 epsilon 0.05
+episode  322 score 10168.00 average score 10130.70 epsilon 0.05
+episode  323 score 10193.00 average score 10131.01 epsilon 0.05
+episode  324 score 10164.00 average score 10130.83 epsilon 0.05
+episode  325 score 10166.00 average score 10130.53 epsilon 0.05
+episode  326 score 10120.00 average score 10130.00 epsilon 0.05
+episode  327 score 10141.00 average score 10130.36 epsilon 0.05
+episode  328 score 10190.00 average score 10132.75 epsilon 0.05
+episode  329 score 10195.00 average score 10132.78 epsilon 0.05
+episode  330 score 9966.00 average score 10130.51 epsilon 0.05
+episode  331 score 10145.00 average score 10132.72 epsilon 0.05
+episode  332 score 10128.00 average score 10132.26 epsilon 0.05
+episode  333 score 10130.00 average score 10132.26 epsilon 0.05
+episode  334 score 10182.00 average score 10132.32 epsilon 0.05
+episode  335 score 10144.00 average score 10133.10 epsilon 0.05
+episode  336 score 10197.00 average score 10133.54 epsilon 0.05
+episode  337 score 10129.00 average score 10133.69 epsilon 0.05
+episode  338 score 10170.00 average score 10134.14 epsilon 0.05
+episode  339 score 10181.00 average score 10134.26 epsilon 0.05
+episode  340 score 10193.00 average score 10134.39 epsilon 0.05
+episode  341 score 10164.00 average score 10134.71 epsilon 0.05
+episode  342 score 10159.00 average score 10134.50 epsilon 0.05
+episode  343 score 10100.00 average score 10133.62 epsilon 0.05
+episode  344 score 10164.00 average score 10134.01 epsilon 0.05
+episode  345 score 10190.00 average score 10134.11 epsilon 0.05
+episode  346 score 10102.00 average score 10135.24 epsilon 0.05
+episode  347 score 10128.00 average score 10135.43 epsilon 0.05
+episode  348 score 10132.00 average score 10135.65 epsilon 0.05
+episode  349 score 9983.00 average score 10133.98 epsilon 0.05
+episode  350 score 10197.00 average score 10134.29 epsilon 0.05
+episode  351 score 10189.00 average score 10134.65 epsilon 0.05
+episode  352 score 10115.00 average score 10135.47 epsilon 0.05
+episode  353 score 10186.00 average score 10135.47 epsilon 0.05
+episode  354 score 10187.00 average score 10139.39 epsilon 0.05
+episode  355 score 10128.00 average score 10139.65 epsilon 0.05
+episode  356 score 10174.00 average score 10139.87 epsilon 0.05
+episode  357 score 9981.00 average score 10138.44 epsilon 0.05
+episode  358 score 9983.00 average score 10136.92 epsilon 0.05
+episode  359 score 10163.00 average score 10137.27 epsilon 0.05
+episode  360 score 10109.00 average score 10136.77 epsilon 0.05
+episode  361 score 10060.00 average score 10136.58 epsilon 0.05
+episode  362 score 10175.00 average score 10137.51 epsilon 0.05
+episode  363 score 10184.00 average score 10138.24 epsilon 0.05
+episode  364 score 10155.00 average score 10137.81 epsilon 0.05
+episode  365 score 10158.00 average score 10137.75 epsilon 0.05
+episode  366 score 10206.00 average score 10138.60 epsilon 0.05
+episode  367 score 10199.00 average score 10139.89 epsilon 0.05
+episode  368 score 9981.00 average score 10138.33 epsilon 0.05
+episode  369 score 10199.00 average score 10139.03 epsilon 0.05
+episode  370 score 10135.00 average score 10140.50 epsilon 0.05
+episode  371 score 10171.00 average score 10140.32 epsilon 0.05
+episode  372 score 10162.00 average score 10140.23 epsilon 0.05
+episode  373 score 10185.00 average score 10140.38 epsilon 0.05
+episode  374 score 10119.00 average score 10140.44 epsilon 0.05
+episode  375 score 10107.00 average score 10139.66 epsilon 0.05
+episode  376 score 10190.00 average score 10140.60 epsilon 0.05
+episode  377 score 10182.00 average score 10140.70 epsilon 0.05
+episode  378 score 10153.00 average score 10140.45 epsilon 0.05
+episode  379 score 10206.00 average score 10140.94 epsilon 0.05
+episode  380 score 10204.00 average score 10142.12 epsilon 0.05
+episode  381 score 10121.00 average score 10141.31 epsilon 0.05
+episode  382 score 10197.00 average score 10141.40 epsilon 0.05
+episode  383 score 10183.00 average score 10141.37 epsilon 0.05
+episode  384 score 10185.00 average score 10141.53 epsilon 0.05
+episode  385 score 10120.00 average score 10140.92 epsilon 0.05
+episode  386 score 10208.00 average score 10141.87 epsilon 0.05
+episode  387 score 10185.00 average score 10143.20 epsilon 0.05
+episode  388 score 10175.00 average score 10143.07 epsilon 0.05
+episode  389 score 10195.00 average score 10143.08 epsilon 0.05
+episode  390 score 10190.00 average score 10143.22 epsilon 0.05
+episode  391 score 10180.00 average score 10143.16 epsilon 0.05
+episode  392 score 10202.00 average score 10143.51 epsilon 0.05
+episode  393 score 10195.00 average score 10144.19 epsilon 0.05
+episode  394 score 10173.00 average score 10144.60 epsilon 0.05
+episode  395 score 10202.00 average score 10144.92 epsilon 0.05
+episode  396 score 10183.00 average score 10145.96 epsilon 0.05
+episode  397 score 10198.00 average score 10146.00 epsilon 0.05
+episode  398 score 10108.00 average score 10145.56 epsilon 0.05
+episode  399 score 10197.00 average score 10146.01 epsilon 0.05
+episode  400 score 10147.00 average score 10146.09 epsilon 0.05
+episode  401 score 10199.00 average score 10146.05 epsilon 0.05
+episode  402 score 10192.00 average score 10146.19 epsilon 0.05
+episode  403 score 10186.00 average score 10145.99 epsilon 0.05
+episode  404 score 10163.00 average score 10145.96 epsilon 0.05
+episode  405 score 10176.00 average score 10146.00 epsilon 0.05
+episode  406 score 10149.00 average score 10145.47 epsilon 0.05
+episode  407 score 10183.00 average score 10146.22 epsilon 0.05
+episode  408 score 10188.00 average score 10148.27 epsilon 0.05
+episode  409 score 9975.00 average score 10146.15 epsilon 0.05
+episode  410 score 10181.00 average score 10146.28 epsilon 0.05
+episode  411 score 10179.00 average score 10149.74 epsilon 0.05
+episode  412 score 10206.00 average score 10150.50 epsilon 0.05
+episode  413 score 9983.00 average score 10148.57 epsilon 0.05
+episode  414 score 10191.00 average score 10150.54 epsilon 0.05
+episode  415 score 10186.00 average score 10151.77 epsilon 0.05
+episode  416 score 9924.00 average score 10149.94 epsilon 0.05
+episode  417 score 10168.00 average score 10150.34 epsilon 0.05
+episode  418 score 10165.00 average score 10151.05 epsilon 0.05
+episode  419 score 10183.00 average score 10151.43 epsilon 0.05
+episode  420 score 10171.00 average score 10151.64 epsilon 0.05
+episode  421 score 10193.00 average score 10152.52 epsilon 0.05
+episode  422 score 10094.00 average score 10151.78 epsilon 0.05
+episode  423 score 10194.00 average score 10151.79 epsilon 0.05
+episode  424 score 10202.00 average score 10152.17 epsilon 0.05
+episode  425 score 10188.00 average score 10152.39 epsilon 0.05
+episode  426 score 10170.00 average score 10152.89 epsilon 0.05
+episode  427 score 10189.00 average score 10153.37 epsilon 0.05
+episode  428 score 10167.00 average score 10153.14 epsilon 0.05
+episode  429 score 10194.00 average score 10153.13 epsilon 0.05
+episode  430 score 10182.00 average score 10155.29 epsilon 0.05
+episode  431 score 10167.00 average score 10155.51 epsilon 0.05
+episode  432 score 10188.00 average score 10156.11 epsilon 0.05
+episode  433 score 10160.00 average score 10156.41 epsilon 0.05
+episode  434 score 10184.00 average score 10156.43 epsilon 0.05
+episode  435 score 10198.00 average score 10156.97 epsilon 0.05
+episode  436 score 10120.00 average score 10156.20 epsilon 0.05
+episode  437 score 9983.00 average score 10154.74 epsilon 0.05
+episode  438 score 10161.00 average score 10154.65 epsilon 0.05
+episode  439 score 10199.00 average score 10154.83 epsilon 0.05
+episode  440 score 10203.00 average score 10154.93 epsilon 0.05
+episode  441 score 10029.00 average score 10153.58 epsilon 0.05
+episode  442 score 10155.00 average score 10153.54 epsilon 0.05
+episode  443 score 10183.00 average score 10154.37 epsilon 0.05
+episode  444 score 10196.00 average score 10154.69 epsilon 0.05
+episode  445 score 10178.00 average score 10154.57 epsilon 0.05
+episode  446 score 9977.00 average score 10153.32 epsilon 0.05
+episode  447 score 10191.00 average score 10153.95 epsilon 0.05
+episode  448 score 10193.00 average score 10154.56 epsilon 0.05
+episode  449 score 10186.00 average score 10156.59 epsilon 0.05
+episode  450 score 10206.00 average score 10156.68 epsilon 0.05
+episode  451 score 10178.00 average score 10156.57 epsilon 0.05
+episode  452 score 10196.00 average score 10157.38 epsilon 0.05
+episode  453 score 10192.00 average score 10157.44 epsilon 0.05
+episode  454 score 10187.00 average score 10157.44 epsilon 0.05
+episode  455 score 10090.00 average score 10157.06 epsilon 0.05
+episode  456 score 10168.00 average score 10157.00 epsilon 0.05
+episode  457 score 10174.00 average score 10158.93 epsilon 0.05
+episode  458 score 10206.00 average score 10161.16 epsilon 0.05
+episode  459 score 10200.00 average score 10161.53 epsilon 0.05
+episode  460 score 10159.00 average score 10162.03 epsilon 0.05
+episode  461 score 10182.00 average score 10163.25 epsilon 0.05
+episode  462 score 10181.00 average score 10163.31 epsilon 0.05
+episode  463 score 10202.00 average score 10163.49 epsilon 0.05
+episode  464 score 10197.00 average score 10163.91 epsilon 0.05
+episode  465 score 9846.00 average score 10160.79 epsilon 0.05
+episode  466 score 10174.00 average score 10160.47 epsilon 0.05
+episode  467 score 10201.00 average score 10160.49 epsilon 0.05
+episode  468 score 10205.00 average score 10162.73 epsilon 0.05
+episode  469 score 10206.00 average score 10162.80 epsilon 0.05
+episode  470 score 9974.00 average score 10161.19 epsilon 0.05
+episode  471 score 10088.00 average score 10160.36 epsilon 0.05
+episode  472 score 10128.00 average score 10160.02 epsilon 0.05
+episode  473 score 10183.00 average score 10160.00 epsilon 0.05
+episode  474 score 10126.00 average score 10160.07 epsilon 0.05
+episode  475 score 10188.00 average score 10160.88 epsilon 0.05
+episode  476 score 10160.00 average score 10160.58 epsilon 0.05
+episode  477 score 10128.00 average score 10160.04 epsilon 0.05
+episode  478 score 10206.00 average score 10160.57 epsilon 0.05
+episode  479 score 10128.00 average score 10159.79 epsilon 0.05
+episode  480 score 10106.00 average score 10158.81 epsilon 0.05
+episode  481 score 10197.00 average score 10159.57 epsilon 0.05
+episode  482 score 10203.00 average score 10159.63 epsilon 0.05
+episode  483 score 9957.00 average score 10157.37 epsilon 0.05
+episode  484 score 10202.00 average score 10157.54 epsilon 0.05
+episode  485 score 10202.00 average score 10158.36 epsilon 0.05
+episode  486 score 10189.00 average score 10158.17 epsilon 0.05
+episode  487 score 10179.00 average score 10158.11 epsilon 0.05
+episode  488 score 10100.00 average score 10157.36 epsilon 0.05
+episode  489 score 10016.00 average score 10155.57 epsilon 0.05
+episode  490 score 9981.00 average score 10153.48 epsilon 0.05
+episode  491 score 10192.00 average score 10153.60 epsilon 0.05
+episode  492 score 10195.00 average score 10153.53 epsilon 0.05
+episode  493 score 10100.00 average score 10152.58 epsilon 0.05
+episode  494 score 10127.00 average score 10152.12 epsilon 0.05
+episode  495 score 10178.00 average score 10151.88 epsilon 0.05
+episode  496 score 9975.00 average score 10149.80 epsilon 0.05
+episode  497 score 10192.00 average score 10149.74 epsilon 0.05
+episode  498 score 10182.00 average score 10150.48 epsilon 0.05
+episode  499 score 10205.00 average score 10150.56 epsilon 0.05
+# ## ## ## ##X#
+ R X  X  X  X X
+# ##X##X##X##X#
+#X##X## ## ##X#
+X XX X   X  X X
+#X##X## ## ##X#
+# ## ## ##X## #
+               
+# ## ## ##X## #
+# ##X## ##X##X#
+   X X   X  X X
+# ##X## ##X##X#
+# ##X## ## ## #
+   X X   X X   
+# ##X## ##X## #
+
+CYCLE DOWN: 3
+39.0
+# ## ## ## ##X#
+ R X  X  X XX X
+# ##X##X##X##X#
+#X##X## ## ##X#
+X XX X   X  X X
+#X##X## ##X##X#
+# ## ## ## ## #
+         X     
+# ## ## ## ## #
+# ##X## ##X##X#
+   X X      X X
+# ##X## ##X##X#
+# ##X## ##X## #
+   X X   X     
+# ##X## ##X## #
+
+CYCLE DOWN: 3
+78.0
+# ## ## ##X##X#
+ R X  X  X  X X
+# ##X##X##X##X#
+#X##X## ## ##X#
+X XX X   X XX X
+#X##X## ##X##X#
+# ## ## ## ## #
+         X     
+# ## ## ##X## #
+# ##X## ## ##X#
+   X X   X  X X
+# ##X## ## ##X#
+# ##X## ##X## #
+   X X         
+# ##X## ##X## #
+
+MOVE LEFT
+77.0
+# ## ## ##X##X#
+ R X  X  X  X X
+# ##X##X##X##X#
+#X##X## ## ##X#
+X XX X   X XX X
+#X##X## ##X##X#
+# ## ## ## ## #
+         X     
+# ## ## ##X## #
+# ##X## ## ##X#
+   X X   X  X X
+# ##X## ## ##X#
+# ##X## ##X## #
+   X X         
+# ##X## ##X## #
+
+CYCLE UP: 0
+156.0
+#X## ## ##X##X#
+X XX  X  X  X X
+#X##X##X##X##X#
+# ##X## ## ##X#
+   X X   X XX X
+# ##X## ##X##X#
+# ## ## ## ## #
+         X     
+# ## ## ##X## #
+# ##X## ## ##X#
+   X X   X  X X
+# ##X## ## ##X#
+# ##X## ##X## #
+ R X X         
+# ##X## ##X## #
+
+CYCLE UP: 0
+163.0
+# ## ## ##X##X#
+   X  X  X  X X
+# ##X##X##X##X#
+# ##X## ## ##X#
+   X X   X XX X
+# ##X## ##X##X#
+# ## ## ## ## #
+         X     
+# ## ## ##X## #
+# ##X## ## ##X#
+ R X X   X  X X
+# ##X## ## ##X#
+#X##X## ##X## #
+X XX X         
+#X##X## ##X## #
+
+MOVE RIGHT
+162.0
+# ## ## ##X##X#
+   X  X  X  X X
+# ##X##X##X##X#
+# ##X## ## ##X#
+   X X   X XX X
+# ##X## ##X##X#
+# ## ## ## ## #
+         X     
+# ## ## ##X## #
+# ##X## ## ##X#
+ R X X   X  X X
+# ##X## ## ##X#
+#X##X## ##X## #
+X XX X         
+#X##X## ##X## #
+
+MOVE RIGHT
+161.0
+# ## ## ##X##X#
+   X  X  X  X X
+# ##X##X##X##X#
+# ##X## ## ##X#
+   X X   X XX X
+# ##X## ##X##X#
+# ## ## ## ## #
+         X     
+# ## ## ##X## #
+# ##X## ## ##X#
+ R X X   X  X X
+# ##X## ## ##X#
+#X##X## ##X## #
+X XX X         
+#X##X## ##X## #
+
+MOVE RIGHT
+160.0
+# ## ## ##X##X#
+   X  X  X  X X
+# ##X##X##X##X#
+# ##X## ## ##X#
+   X X   X XX X
+# ##X## ##X##X#
+# ## ## ## ## #
+         X     
+# ## ## ##X## #
+# ##X## ## ##X#
+ R X X   X  X X
+# ##X## ## ##X#
+#X##X## ##X## #
+X XX X         
+#X##X## ##X## #
+
+MOVE RIGHT
+159.0
+# ## ## ##X##X#
+   X  X  X  X X
+# ##X##X##X##X#
+# ##X## ## ##X#
+   X X   X XX X
+# ##X## ##X##X#
+# ## ## ## ## #
+         X     
+# ## ## ##X## #
+# ##X## ## ##X#
+ R X X   X  X X
+# ##X## ## ##X#
+#X##X## ##X## #
+X XX X         
+#X##X## ##X## #
+
+MOVE RIGHT
+158.0
+# ## ## ##X##X#
+   X  X  X  X X
+# ##X##X##X##X#
+# ##X## ## ##X#
+   X X   X XX X
+# ##X## ##X##X#
+# ## ## ## ## #
+         X     
+# ## ## ##X## #
+# ##X## ## ##X#
+ R X X   X  X X
+# ##X## ## ##X#
+#X##X## ##X## #
+X XX X         
+#X##X## ##X## #
+
+MOVE RIGHT
+157.0
+# ## ## ##X##X#
+   X  X  X  X X
+# ##X##X##X##X#
+# ##X## ## ##X#
+   X X   X XX X
+# ##X## ##X##X#
+# ## ## ## ## #
+         X     
+# ## ## ##X## #
+# ##X## ## ##X#
+ R X X   X  X X
+# ##X## ## ##X#
+#X##X## ##X## #
+X XX X         
+#X##X## ##X## #
+
+MOVE RIGHT
+156.0
+# ## ## ##X##X#
+   X  X  X  X X
+# ##X##X##X##X#
+# ##X## ## ##X#
+   X X   X XX X
+# ##X## ##X##X#
+# ## ## ## ## #
+         X     
+# ## ## ##X## #
+# ##X## ## ##X#
+ R X X   X  X X
+# ##X## ## ##X#
+#X##X## ##X## #
+X XX X         
+#X##X## ##X## #
+
+MOVE RIGHT
+155.0
+# ## ## ##X##X#
+   X  X  X  X X
+# ##X##X##X##X#
+# ##X## ## ##X#
+   X X   X XX X
+# ##X## ##X##X#
+# ## ## ## ## #
+         X     
+# ## ## ##X## #
+# ##X## ## ##X#
+ R X X   X  X X
+# ##X## ## ##X#
+#X##X## ##X## #
+X XX X         
+#X##X## ##X## #
+
+MOVE RIGHT
+154.0
+# ## ## ##X##X#
+   X  X  X  X X
+# ##X##X##X##X#
+# ##X## ## ##X#
+   X X   X XX X
+# ##X## ##X##X#
+# ## ## ## ## #
+         X     
+# ## ## ##X## #
+# ##X## ## ##X#
+ R X X   X  X X
+# ##X## ## ##X#
+#X##X## ##X## #
+X XX X         
+#X##X## ##X## #
+
+MOVE RIGHT
+153.0
+# ## ## ##X##X#
+   X  X  X  X X
+# ##X##X##X##X#
+# ##X## ## ##X#
+   X X   X XX X
+# ##X## ##X##X#
+# ## ## ## ## #
+         X     
+# ## ## ##X## #
+# ##X## ## ##X#
+ R X X   X  X X
+# ##X## ## ##X#
+#X##X## ##X## #
+X XX X         
+#X##X## ##X## #
+
+MOVE RIGHT
+152.0
+# ## ## ##X##X#
+   X  X  X  X X
+# ##X##X##X##X#
+# ##X## ## ##X#
+   X X   X XX X
+# ##X## ##X##X#
+# ## ## ## ## #
+         X     
+# ## ## ##X## #
+# ##X## ## ##X#
+ R X X   X  X X
+# ##X## ## ##X#
+#X##X## ##X## #
+X XX X         
+#X##X## ##X## #
+
+MOVE RIGHT
+151.0
+# ## ## ##X##X#
+   X  X  X  X X
+# ##X##X##X##X#
+# ##X## ## ##X#
+   X X   X XX X
+# ##X## ##X##X#
+# ## ## ## ## #
+         X     
+# ## ## ##X## #
+# ##X## ## ##X#
+ R X X   X  X X
+# ##X## ## ##X#
+#X##X## ##X## #
+X XX X         
+#X##X## ##X## #
+
+MOVE RIGHT
+150.0
+# ## ## ##X##X#
+   X  X  X  X X
+# ##X##X##X##X#
+# ##X## ## ##X#
+   X X   X XX X
+# ##X## ##X##X#
+# ## ## ## ## #
+         X     
+# ## ## ##X## #
+# ##X## ## ##X#
+ R X X   X  X X
+# ##X## ## ##X#
+#X##X## ##X## #
+X XX X         
+#X##X## ##X## #
+
+MOVE RIGHT
+149.0
+# ## ## ##X##X#
+   X  X  X  X X
+# ##X##X##X##X#
+# ##X## ## ##X#
+   X X   X XX X
+# ##X## ##X##X#
+# ## ## ## ## #
+         X     
+# ## ## ##X## #
+# ##X## ## ##X#
+ R X X   X  X X
+# ##X## ## ##X#
+#X##X## ##X## #
+X XX X         
+#X##X## ##X## #
+
+MOVE RIGHT
+148.0
+# ## ## ##X##X#
+   X  X  X  X X
+# ##X##X##X##X#
+# ##X## ## ##X#
+   X X   X XX X
+# ##X## ##X##X#
+# ## ## ## ## #
+         X     
+# ## ## ##X## #
+# ##X## ## ##X#
+ R X X   X  X X
+# ##X## ## ##X#
+#X##X## ##X## #
+X XX X         
+#X##X## ##X## #
+
+MOVE RIGHT
+147.0
+# ## ## ##X##X#
+   X  X  X  X X
+# ##X##X##X##X#
+# ##X## ## ##X#
+   X X   X XX X
+# ##X## ##X##X#
+# ## ## ## ## #
+         X     
+# ## ## ##X## #
+# ##X## ## ##X#
+ R X X   X  X X
+# ##X## ## ##X#
+#X##X## ##X## #
+X XX X         
+#X##X## ##X## #
+
+MOVE RIGHT
+146.0
+# ## ## ##X##X#
+   X  X  X  X X
+# ##X##X##X##X#
+# ##X## ## ##X#
+   X X   X XX X
+# ##X## ##X##X#
+# ## ## ## ## #
+         X     
+# ## ## ##X## #
+# ##X## ## ##X#
+ R X X   X  X X
+# ##X## ## ##X#
+#X##X## ##X## #
+X XX X         
+#X##X## ##X## #
+
+MOVE RIGHT
+145.0
+# ## ## ##X##X#
+   X  X  X  X X
+# ##X##X##X##X#
+# ##X## ## ##X#
+   X X   X XX X
+# ##X## ##X##X#
+# ## ## ## ## #
+         X     
+# ## ## ##X## #
+# ##X## ## ##X#
+ R X X   X  X X
+# ##X## ## ##X#
+#X##X## ##X## #
+X XX X         
+#X##X## ##X## #
+
+MOVE RIGHT
+144.0
+# ## ## ##X##X#
+   X  X  X  X X
+# ##X##X##X##X#
+# ##X## ## ##X#
+   X X   X XX X
+# ##X## ##X##X#
+# ## ## ## ## #
+         X     
+# ## ## ##X## #
+# ##X## ## ##X#
+ R X X   X  X X
+# ##X## ## ##X#
+#X##X## ##X## #
+X XX X         
+#X##X## ##X## #
+
+CYCLE UP: 4
+63.0
+# ## ## ##X##X#
+   X  X  X  X X
+# ##X##X##X##X#
+# ##X## ## ## #
+   X X   X X   
+# ##X## ##X## #
+# ## ## ## ##X#
+         X  X X
+# ## ## ##X##X#
+# ##X## ## ## #
+ R X X   X     
+# ##X## ## ## #
+#X##X## ##X##X#
+X XX X      X X
+#X##X## ##X##X#
+
+CYCLE UP: 0
+70.0
+# ## ## ##X##X#
+   X  X  X  X X
+# ##X##X##X##X#
+# ##X## ## ## #
+   X X   X X   
+# ##X## ##X## #
+# ## ## ## ##X#
+ R       X  X X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ## ## #
+# ##X## ##X##X#
+   X X      X X
+# ##X## ##X##X#
+
+MOVE RIGHT
+77.0
+# ## ## ##X##X#
+   X  X  X  X X
+# ##X##X##X##X#
+# ##X## ## ## #
+   X X   X X   
+# ##X## ##X## #
+# ## ## ## ##X#
+    R    X  X X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ## ## #
+# ##X## ##X##X#
+   X X      X X
+# ##X## ##X##X#
+
+MOVE RIGHT
+84.0
+# ## ## ##X##X#
+   X  X  X  X X
+# ##X##X##X##X#
+# ##X## ## ## #
+   X X   X X   
+# ##X## ##X## #
+# ## ## ## ##X#
+       R X  X X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ## ## #
+# ##X## ##X##X#
+   X X      X X
+# ##X## ##X##X#
+
+MOVE RIGHT
+83.0
+# ## ## ##X##X#
+   X  X  X  X X
+# ##X##X##X##X#
+# ##X## ## ## #
+   X X   X X   
+# ##X## ##X## #
+# ## ## ## ##X#
+       R X  X X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ## ## #
+# ##X## ##X##X#
+   X X      X X
+# ##X## ##X##X#
+
+MOVE RIGHT
+82.0
+# ## ## ##X##X#
+   X  X  X  X X
+# ##X##X##X##X#
+# ##X## ## ## #
+   X X   X X   
+# ##X## ##X## #
+# ## ## ## ##X#
+       R X  X X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ## ## #
+# ##X## ##X##X#
+   X X      X X
+# ##X## ##X##X#
+
+CYCLE DOWN: 3
+41.0
+# ## ## ##X##X#
+   X  X     X X
+# ##X##X##X##X#
+# ##X## ##X## #
+   X X   X     
+# ##X## ##X## #
+# ## ## ## ##X#
+       R X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X   X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+40.0
+# ## ## ##X##X#
+   X  X     X X
+# ##X##X##X##X#
+# ##X## ##X## #
+   X X   X     
+# ##X## ##X## #
+# ## ## ## ##X#
+       R X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X   X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+39.0
+# ## ## ##X##X#
+   X  X     X X
+# ##X##X##X##X#
+# ##X## ##X## #
+   X X   X     
+# ##X## ##X## #
+# ## ## ## ##X#
+       R X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X   X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+38.0
+# ## ## ##X##X#
+   X  X     X X
+# ##X##X##X##X#
+# ##X## ##X## #
+   X X   X     
+# ##X## ##X## #
+# ## ## ## ##X#
+       R X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X   X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+37.0
+# ## ## ##X##X#
+   X  X     X X
+# ##X##X##X##X#
+# ##X## ##X## #
+   X X   X     
+# ##X## ##X## #
+# ## ## ## ##X#
+       R X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X   X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+36.0
+# ## ## ##X##X#
+   X  X     X X
+# ##X##X##X##X#
+# ##X## ##X## #
+   X X   X     
+# ##X## ##X## #
+# ## ## ## ##X#
+       R X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X   X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+35.0
+# ## ## ##X##X#
+   X  X     X X
+# ##X##X##X##X#
+# ##X## ##X## #
+   X X   X     
+# ##X## ##X## #
+# ## ## ## ##X#
+       R X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X   X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+34.0
+# ## ## ##X##X#
+   X  X     X X
+# ##X##X##X##X#
+# ##X## ##X## #
+   X X   X     
+# ##X## ##X## #
+# ## ## ## ##X#
+       R X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X   X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+33.0
+# ## ## ##X##X#
+   X  X     X X
+# ##X##X##X##X#
+# ##X## ##X## #
+   X X   X     
+# ##X## ##X## #
+# ## ## ## ##X#
+       R X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X   X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+32.0
+# ## ## ##X##X#
+   X  X     X X
+# ##X##X##X##X#
+# ##X## ##X## #
+   X X   X     
+# ##X## ##X## #
+# ## ## ## ##X#
+       R X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X   X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+31.0
+# ## ## ##X##X#
+   X  X     X X
+# ##X##X##X##X#
+# ##X## ##X## #
+   X X   X     
+# ##X## ##X## #
+# ## ## ## ##X#
+       R X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X   X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+30.0
+# ## ## ##X##X#
+   X  X     X X
+# ##X##X##X##X#
+# ##X## ##X## #
+   X X   X     
+# ##X## ##X## #
+# ## ## ## ##X#
+       R X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X   X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+29.0
+# ## ## ##X##X#
+   X  X     X X
+# ##X##X##X##X#
+# ##X## ##X## #
+   X X   X     
+# ##X## ##X## #
+# ## ## ## ##X#
+       R X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X   X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+28.0
+# ## ## ##X##X#
+   X  X     X X
+# ##X##X##X##X#
+# ##X## ##X## #
+   X X   X     
+# ##X## ##X## #
+# ## ## ## ##X#
+       R X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X   X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+27.0
+# ## ## ##X##X#
+   X  X     X X
+# ##X##X##X##X#
+# ##X## ##X## #
+   X X   X     
+# ##X## ##X## #
+# ## ## ## ##X#
+       R X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X   X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+26.0
+# ## ## ##X##X#
+   X  X     X X
+# ##X##X##X##X#
+# ##X## ##X## #
+   X X   X     
+# ##X## ##X## #
+# ## ## ## ##X#
+       R X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X   X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+25.0
+# ## ## ##X##X#
+   X  X     X X
+# ##X##X##X##X#
+# ##X## ##X## #
+   X X   X     
+# ##X## ##X## #
+# ## ## ## ##X#
+       R X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X   X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+24.0
+# ## ## ##X##X#
+   X  X     X X
+# ##X##X##X##X#
+# ##X## ##X## #
+   X X   X     
+# ##X## ##X## #
+# ## ## ## ##X#
+       R X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X   X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+23.0
+# ## ## ##X##X#
+   X  X     X X
+# ##X##X##X##X#
+# ##X## ##X## #
+   X X   X     
+# ##X## ##X## #
+# ## ## ## ##X#
+       R X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X   X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+22.0
+# ## ## ##X##X#
+   X  X     X X
+# ##X##X##X##X#
+# ##X## ##X## #
+   X X   X     
+# ##X## ##X## #
+# ## ## ## ##X#
+       R X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X   X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+21.0
+# ## ## ##X##X#
+   X  X     X X
+# ##X##X##X##X#
+# ##X## ##X## #
+   X X   X     
+# ##X## ##X## #
+# ## ## ## ##X#
+       R X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X   X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+20.0
+# ## ## ##X##X#
+   X  X     X X
+# ##X##X##X##X#
+# ##X## ##X## #
+   X X   X     
+# ##X## ##X## #
+# ## ## ## ##X#
+       R X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X   X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+19.0
+# ## ## ##X##X#
+   X  X     X X
+# ##X##X##X##X#
+# ##X## ##X## #
+   X X   X     
+# ##X## ##X## #
+# ## ## ## ##X#
+       R X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X   X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+18.0
+# ## ## ##X##X#
+   X  X     X X
+# ##X##X##X##X#
+# ##X## ##X## #
+   X X   X     
+# ##X## ##X## #
+# ## ## ## ##X#
+       R X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X   X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+17.0
+# ## ## ##X##X#
+   X  X     X X
+# ##X##X##X##X#
+# ##X## ##X## #
+   X X   X     
+# ##X## ##X## #
+# ## ## ## ##X#
+       R X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X   X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+16.0
+# ## ## ##X##X#
+   X  X     X X
+# ##X##X##X##X#
+# ##X## ##X## #
+   X X   X     
+# ##X## ##X## #
+# ## ## ## ##X#
+       R X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X   X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+15.0
+# ## ## ##X##X#
+   X  X     X X
+# ##X##X##X##X#
+# ##X## ##X## #
+   X X   X     
+# ##X## ##X## #
+# ## ## ## ##X#
+       R X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X   X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+14.0
+# ## ## ##X##X#
+   X  X     X X
+# ##X##X##X##X#
+# ##X## ##X## #
+   X X   X     
+# ##X## ##X## #
+# ## ## ## ##X#
+       R X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X   X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+13.0
+# ## ## ##X##X#
+   X  X     X X
+# ##X##X##X##X#
+# ##X## ##X## #
+   X X   X     
+# ##X## ##X## #
+# ## ## ## ##X#
+       R X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X   X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+12.0
+# ## ## ##X##X#
+   X  X     X X
+# ##X##X##X##X#
+# ##X## ##X## #
+   X X   X     
+# ##X## ##X## #
+# ## ## ## ##X#
+       R X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X   X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+11.0
+# ## ## ##X##X#
+   X  X     X X
+# ##X##X##X##X#
+# ##X## ##X## #
+   X X   X     
+# ##X## ##X## #
+# ## ## ## ##X#
+       R X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X   X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+10.0
+# ## ## ##X##X#
+   X  X     X X
+# ##X##X##X##X#
+# ##X## ##X## #
+   X X   X     
+# ##X## ##X## #
+# ## ## ## ##X#
+       R X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X   X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+9.0
+# ## ## ##X##X#
+   X  X     X X
+# ##X##X##X##X#
+# ##X## ##X## #
+   X X   X     
+# ##X## ##X## #
+# ## ## ## ##X#
+       R X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X   X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+8.0
+# ## ## ##X##X#
+   X  X     X X
+# ##X##X##X##X#
+# ##X## ##X## #
+   X X   X     
+# ##X## ##X## #
+# ## ## ## ##X#
+       R X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X   X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+7.0
+# ## ## ##X##X#
+   X  X     X X
+# ##X##X##X##X#
+# ##X## ##X## #
+   X X   X     
+# ##X## ##X## #
+# ## ## ## ##X#
+       R X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X   X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+6.0
+# ## ## ##X##X#
+   X  X     X X
+# ##X##X##X##X#
+# ##X## ##X## #
+   X X   X     
+# ##X## ##X## #
+# ## ## ## ##X#
+       R X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X   X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+5.0
+# ## ## ##X##X#
+   X  X     X X
+# ##X##X##X##X#
+# ##X## ##X## #
+   X X   X     
+# ##X## ##X## #
+# ## ## ## ##X#
+       R X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X   X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+4.0
+# ## ## ##X##X#
+   X  X     X X
+# ##X##X##X##X#
+# ##X## ##X## #
+   X X   X     
+# ##X## ##X## #
+# ## ## ## ##X#
+       R X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X   X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+3.0
+# ## ## ##X##X#
+   X  X     X X
+# ##X##X##X##X#
+# ##X## ##X## #
+   X X   X     
+# ##X## ##X## #
+# ## ## ## ##X#
+       R X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X   X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+2.0
+# ## ## ##X##X#
+   X  X     X X
+# ##X##X##X##X#
+# ##X## ##X## #
+   X X   X     
+# ##X## ##X## #
+# ## ## ## ##X#
+       R X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X   X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+1.0
+# ## ## ##X##X#
+   X  X     X X
+# ##X##X##X##X#
+# ##X## ##X## #
+   X X   X     
+# ##X## ##X## #
+# ## ## ## ##X#
+       R X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X   X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+0.0
+# ## ## ##X##X#
+   X  X     X X
+# ##X##X##X##X#
+# ##X## ##X## #
+   X X   X     
+# ##X## ##X## #
+# ## ## ## ##X#
+       R X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X   X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+-1.0
+# ## ## ##X##X#
+   X  X     X X
+# ##X##X##X##X#
+# ##X## ##X## #
+   X X   X     
+# ##X## ##X## #
+# ## ## ## ##X#
+       R X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X   X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+-2.0
+# ## ## ##X##X#
+   X  X     X X
+# ##X##X##X##X#
+# ##X## ##X## #
+   X X   X     
+# ##X## ##X## #
+# ## ## ## ##X#
+       R X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X   X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+-3.0
+# ## ## ##X##X#
+   X  X     X X
+# ##X##X##X##X#
+# ##X## ##X## #
+   X X   X     
+# ##X## ##X## #
+# ## ## ## ##X#
+       R X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X   X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+-4.0
+# ## ## ##X##X#
+   X  X     X X
+# ##X##X##X##X#
+# ##X## ##X## #
+   X X   X     
+# ##X## ##X## #
+# ## ## ## ##X#
+       R X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X   X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+-5.0
+# ## ## ##X##X#
+   X  X     X X
+# ##X##X##X##X#
+# ##X## ##X## #
+   X X   X     
+# ##X## ##X## #
+# ## ## ## ##X#
+       R X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X   X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+-6.0
+# ## ## ##X##X#
+   X  X     X X
+# ##X##X##X##X#
+# ##X## ##X## #
+   X X   X     
+# ##X## ##X## #
+# ## ## ## ##X#
+       R X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X   X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+-7.0
+# ## ## ##X##X#
+   X  X     X X
+# ##X##X##X##X#
+# ##X## ##X## #
+   X X   X     
+# ##X## ##X## #
+# ## ## ## ##X#
+       R X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X   X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+-8.0
+# ## ## ##X##X#
+   X  X     X X
+# ##X##X##X##X#
+# ##X## ##X## #
+   X X   X     
+# ##X## ##X## #
+# ## ## ## ##X#
+       R X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X   X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+-9.0
+# ## ## ##X##X#
+   X  X     X X
+# ##X##X##X##X#
+# ##X## ##X## #
+   X X   X     
+# ##X## ##X## #
+# ## ## ## ##X#
+       R X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X   X  X X
+# ##X## ## ##X#
+
+MOVE DOWN
+-2.0
+# ## ## ##X##X#
+   X  X     X X
+# ##X##X##X##X#
+# ##X## ##X## #
+   X X   X     
+# ##X## ##X## #
+# ## ## ## ##X#
+         X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X R X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X   X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+-3.0
+# ## ## ##X##X#
+   X  X     X X
+# ##X##X##X##X#
+# ##X## ##X## #
+   X X   X     
+# ##X## ##X## #
+# ## ## ## ##X#
+         X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X R X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X   X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+-4.0
+# ## ## ##X##X#
+   X  X     X X
+# ##X##X##X##X#
+# ##X## ##X## #
+   X X   X     
+# ##X## ##X## #
+# ## ## ## ##X#
+         X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X R X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X   X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+-5.0
+# ## ## ##X##X#
+   X  X     X X
+# ##X##X##X##X#
+# ##X## ##X## #
+   X X   X     
+# ##X## ##X## #
+# ## ## ## ##X#
+         X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X R X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X   X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+-6.0
+# ## ## ##X##X#
+   X  X     X X
+# ##X##X##X##X#
+# ##X## ##X## #
+   X X   X     
+# ##X## ##X## #
+# ## ## ## ##X#
+         X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X R X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X   X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+-7.0
+# ## ## ##X##X#
+   X  X     X X
+# ##X##X##X##X#
+# ##X## ##X## #
+   X X   X     
+# ##X## ##X## #
+# ## ## ## ##X#
+         X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X R X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X   X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+-8.0
+# ## ## ##X##X#
+   X  X     X X
+# ##X##X##X##X#
+# ##X## ##X## #
+   X X   X     
+# ##X## ##X## #
+# ## ## ## ##X#
+         X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X R X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X   X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+-9.0
+# ## ## ##X##X#
+   X  X     X X
+# ##X##X##X##X#
+# ##X## ##X## #
+   X X   X     
+# ##X## ##X## #
+# ## ## ## ##X#
+         X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X R X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X   X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+-10.0
+# ## ## ##X##X#
+   X  X     X X
+# ##X##X##X##X#
+# ##X## ##X## #
+   X X   X     
+# ##X## ##X## #
+# ## ## ## ##X#
+         X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X R X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X   X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+-11.0
+# ## ## ##X##X#
+   X  X     X X
+# ##X##X##X##X#
+# ##X## ##X## #
+   X X   X     
+# ##X## ##X## #
+# ## ## ## ##X#
+         X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X R X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X   X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+-12.0
+# ## ## ##X##X#
+   X  X     X X
+# ##X##X##X##X#
+# ##X## ##X## #
+   X X   X     
+# ##X## ##X## #
+# ## ## ## ##X#
+         X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X R X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X   X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+-13.0
+# ## ## ##X##X#
+   X  X     X X
+# ##X##X##X##X#
+# ##X## ##X## #
+   X X   X     
+# ##X## ##X## #
+# ## ## ## ##X#
+         X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X R X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X   X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+-14.0
+# ## ## ##X##X#
+   X  X     X X
+# ##X##X##X##X#
+# ##X## ##X## #
+   X X   X     
+# ##X## ##X## #
+# ## ## ## ##X#
+         X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X R X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X   X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+-15.0
+# ## ## ##X##X#
+   X  X     X X
+# ##X##X##X##X#
+# ##X## ##X## #
+   X X   X     
+# ##X## ##X## #
+# ## ## ## ##X#
+         X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X R X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X   X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+-16.0
+# ## ## ##X##X#
+   X  X     X X
+# ##X##X##X##X#
+# ##X## ##X## #
+   X X   X     
+# ##X## ##X## #
+# ## ## ## ##X#
+         X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X R X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X   X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+-17.0
+# ## ## ##X##X#
+   X  X     X X
+# ##X##X##X##X#
+# ##X## ##X## #
+   X X   X     
+# ##X## ##X## #
+# ## ## ## ##X#
+         X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X R X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X   X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+-18.0
+# ## ## ##X##X#
+   X  X     X X
+# ##X##X##X##X#
+# ##X## ##X## #
+   X X   X     
+# ##X## ##X## #
+# ## ## ## ##X#
+         X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X R X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X   X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+-19.0
+# ## ## ##X##X#
+   X  X     X X
+# ##X##X##X##X#
+# ##X## ##X## #
+   X X   X     
+# ##X## ##X## #
+# ## ## ## ##X#
+         X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X R X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X   X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+-20.0
+# ## ## ##X##X#
+   X  X     X X
+# ##X##X##X##X#
+# ##X## ##X## #
+   X X   X     
+# ##X## ##X## #
+# ## ## ## ##X#
+         X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X R X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X   X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+-21.0
+# ## ## ##X##X#
+   X  X     X X
+# ##X##X##X##X#
+# ##X## ##X## #
+   X X   X     
+# ##X## ##X## #
+# ## ## ## ##X#
+         X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X R X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X   X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+-22.0
+# ## ## ##X##X#
+   X  X     X X
+# ##X##X##X##X#
+# ##X## ##X## #
+   X X   X     
+# ##X## ##X## #
+# ## ## ## ##X#
+         X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X R X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X   X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+-23.0
+# ## ## ##X##X#
+   X  X     X X
+# ##X##X##X##X#
+# ##X## ##X## #
+   X X   X     
+# ##X## ##X## #
+# ## ## ## ##X#
+         X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X R X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X   X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+-24.0
+# ## ## ##X##X#
+   X  X     X X
+# ##X##X##X##X#
+# ##X## ##X## #
+   X X   X     
+# ##X## ##X## #
+# ## ## ## ##X#
+         X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X R X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X   X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+-25.0
+# ## ## ##X##X#
+   X  X     X X
+# ##X##X##X##X#
+# ##X## ##X## #
+   X X   X     
+# ##X## ##X## #
+# ## ## ## ##X#
+         X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X R X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X   X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+-26.0
+# ## ## ##X##X#
+   X  X     X X
+# ##X##X##X##X#
+# ##X## ##X## #
+   X X   X     
+# ##X## ##X## #
+# ## ## ## ##X#
+         X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X R X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X   X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+-27.0
+# ## ## ##X##X#
+   X  X     X X
+# ##X##X##X##X#
+# ##X## ##X## #
+   X X   X     
+# ##X## ##X## #
+# ## ## ## ##X#
+         X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X R X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X   X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+-28.0
+# ## ## ##X##X#
+   X  X     X X
+# ##X##X##X##X#
+# ##X## ##X## #
+   X X   X     
+# ##X## ##X## #
+# ## ## ## ##X#
+         X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X R X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X   X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+-29.0
+# ## ## ##X##X#
+   X  X     X X
+# ##X##X##X##X#
+# ##X## ##X## #
+   X X   X     
+# ##X## ##X## #
+# ## ## ## ##X#
+         X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X R X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X   X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+-30.0
+# ## ## ##X##X#
+   X  X     X X
+# ##X##X##X##X#
+# ##X## ##X## #
+   X X   X     
+# ##X## ##X## #
+# ## ## ## ##X#
+         X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X R X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X   X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+-31.0
+# ## ## ##X##X#
+   X  X     X X
+# ##X##X##X##X#
+# ##X## ##X## #
+   X X   X     
+# ##X## ##X## #
+# ## ## ## ##X#
+         X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X R X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X   X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+-32.0
+# ## ## ##X##X#
+   X  X     X X
+# ##X##X##X##X#
+# ##X## ##X## #
+   X X   X     
+# ##X## ##X## #
+# ## ## ## ##X#
+         X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X R X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X   X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+-33.0
+# ## ## ##X##X#
+   X  X     X X
+# ##X##X##X##X#
+# ##X## ##X## #
+   X X   X     
+# ##X## ##X## #
+# ## ## ## ##X#
+         X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X R X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X   X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+-34.0
+# ## ## ##X##X#
+   X  X     X X
+# ##X##X##X##X#
+# ##X## ##X## #
+   X X   X     
+# ##X## ##X## #
+# ## ## ## ##X#
+         X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X R X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X   X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+-35.0
+# ## ## ##X##X#
+   X  X     X X
+# ##X##X##X##X#
+# ##X## ##X## #
+   X X   X     
+# ##X## ##X## #
+# ## ## ## ##X#
+         X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X R X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X   X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+-36.0
+# ## ## ##X##X#
+   X  X     X X
+# ##X##X##X##X#
+# ##X## ##X## #
+   X X   X     
+# ##X## ##X## #
+# ## ## ## ##X#
+         X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X R X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X   X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+-37.0
+# ## ## ##X##X#
+   X  X     X X
+# ##X##X##X##X#
+# ##X## ##X## #
+   X X   X     
+# ##X## ##X## #
+# ## ## ## ##X#
+         X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X R X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X   X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+-38.0
+# ## ## ##X##X#
+   X  X     X X
+# ##X##X##X##X#
+# ##X## ##X## #
+   X X   X     
+# ##X## ##X## #
+# ## ## ## ##X#
+         X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X R X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X   X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+-39.0
+# ## ## ##X##X#
+   X  X     X X
+# ##X##X##X##X#
+# ##X## ##X## #
+   X X   X     
+# ##X## ##X## #
+# ## ## ## ##X#
+         X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X R X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X   X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+-40.0
+# ## ## ##X##X#
+   X  X     X X
+# ##X##X##X##X#
+# ##X## ##X## #
+   X X   X     
+# ##X## ##X## #
+# ## ## ## ##X#
+         X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X R X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X   X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+-41.0
+# ## ## ##X##X#
+   X  X     X X
+# ##X##X##X##X#
+# ##X## ##X## #
+   X X   X     
+# ##X## ##X## #
+# ## ## ## ##X#
+         X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X R X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X   X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+-42.0
+# ## ## ##X##X#
+   X  X     X X
+# ##X##X##X##X#
+# ##X## ##X## #
+   X X   X     
+# ##X## ##X## #
+# ## ## ## ##X#
+         X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X R X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X   X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+-43.0
+# ## ## ##X##X#
+   X  X     X X
+# ##X##X##X##X#
+# ##X## ##X## #
+   X X   X     
+# ##X## ##X## #
+# ## ## ## ##X#
+         X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X R X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X   X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+-44.0
+# ## ## ##X##X#
+   X  X     X X
+# ##X##X##X##X#
+# ##X## ##X## #
+   X X   X     
+# ##X## ##X## #
+# ## ## ## ##X#
+         X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X R X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X   X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+-45.0
+# ## ## ##X##X#
+   X  X     X X
+# ##X##X##X##X#
+# ##X## ##X## #
+   X X   X     
+# ##X## ##X## #
+# ## ## ## ##X#
+         X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X R X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X   X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+-46.0
+# ## ## ##X##X#
+   X  X     X X
+# ##X##X##X##X#
+# ##X## ##X## #
+   X X   X     
+# ##X## ##X## #
+# ## ## ## ##X#
+         X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X R X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X   X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+-47.0
+# ## ## ##X##X#
+   X  X     X X
+# ##X##X##X##X#
+# ##X## ##X## #
+   X X   X     
+# ##X## ##X## #
+# ## ## ## ##X#
+         X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X R X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X   X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+-48.0
+# ## ## ##X##X#
+   X  X     X X
+# ##X##X##X##X#
+# ##X## ##X## #
+   X X   X     
+# ##X## ##X## #
+# ## ## ## ##X#
+         X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X R X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X   X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+-49.0
+# ## ## ##X##X#
+   X  X     X X
+# ##X##X##X##X#
+# ##X## ##X## #
+   X X   X     
+# ##X## ##X## #
+# ## ## ## ##X#
+         X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X R X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X   X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+-50.0
+# ## ## ##X##X#
+   X  X     X X
+# ##X##X##X##X#
+# ##X## ##X## #
+   X X   X     
+# ##X## ##X## #
+# ## ## ## ##X#
+         X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X R X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X   X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+-51.0
+# ## ## ##X##X#
+   X  X     X X
+# ##X##X##X##X#
+# ##X## ##X## #
+   X X   X     
+# ##X## ##X## #
+# ## ## ## ##X#
+         X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X R X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X   X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+-52.0
+# ## ## ##X##X#
+   X  X     X X
+# ##X##X##X##X#
+# ##X## ##X## #
+   X X   X     
+# ##X## ##X## #
+# ## ## ## ##X#
+         X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X R X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X   X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+-53.0
+# ## ## ##X##X#
+   X  X     X X
+# ##X##X##X##X#
+# ##X## ##X## #
+   X X   X     
+# ##X## ##X## #
+# ## ## ## ##X#
+         X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X R X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X   X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+-54.0
+# ## ## ##X##X#
+   X  X     X X
+# ##X##X##X##X#
+# ##X## ##X## #
+   X X   X     
+# ##X## ##X## #
+# ## ## ## ##X#
+         X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X R X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X   X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+-55.0
+# ## ## ##X##X#
+   X  X     X X
+# ##X##X##X##X#
+# ##X## ##X## #
+   X X   X     
+# ##X## ##X## #
+# ## ## ## ##X#
+         X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X R X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X   X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+-56.0
+# ## ## ##X##X#
+   X  X     X X
+# ##X##X##X##X#
+# ##X## ##X## #
+   X X   X     
+# ##X## ##X## #
+# ## ## ## ##X#
+         X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X R X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X   X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+-57.0
+# ## ## ##X##X#
+   X  X     X X
+# ##X##X##X##X#
+# ##X## ##X## #
+   X X   X     
+# ##X## ##X## #
+# ## ## ## ##X#
+         X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X R X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X   X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+-58.0
+# ## ## ##X##X#
+   X  X     X X
+# ##X##X##X##X#
+# ##X## ##X## #
+   X X   X     
+# ##X## ##X## #
+# ## ## ## ##X#
+         X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X R X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X   X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+-59.0
+# ## ## ##X##X#
+   X  X     X X
+# ##X##X##X##X#
+# ##X## ##X## #
+   X X   X     
+# ##X## ##X## #
+# ## ## ## ##X#
+         X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X R X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X   X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+-60.0
+# ## ## ##X##X#
+   X  X     X X
+# ##X##X##X##X#
+# ##X## ##X## #
+   X X   X     
+# ##X## ##X## #
+# ## ## ## ##X#
+         X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X R X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X   X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+-61.0
+# ## ## ##X##X#
+   X  X     X X
+# ##X##X##X##X#
+# ##X## ##X## #
+   X X   X     
+# ##X## ##X## #
+# ## ## ## ##X#
+         X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X R X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X   X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+-62.0
+# ## ## ##X##X#
+   X  X     X X
+# ##X##X##X##X#
+# ##X## ##X## #
+   X X   X     
+# ##X## ##X## #
+# ## ## ## ##X#
+         X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X R X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X   X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+-63.0
+# ## ## ##X##X#
+   X  X     X X
+# ##X##X##X##X#
+# ##X## ##X## #
+   X X   X     
+# ##X## ##X## #
+# ## ## ## ##X#
+         X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X R X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X   X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+-64.0
+# ## ## ##X##X#
+   X  X     X X
+# ##X##X##X##X#
+# ##X## ##X## #
+   X X   X     
+# ##X## ##X## #
+# ## ## ## ##X#
+         X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X R X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X   X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+-65.0
+# ## ## ##X##X#
+   X  X     X X
+# ##X##X##X##X#
+# ##X## ##X## #
+   X X   X     
+# ##X## ##X## #
+# ## ## ## ##X#
+         X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X R X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X   X  X X
+# ##X## ## ##X#
+
+CYCLE DOWN: 2
+-58.0
+# ## ## ##X##X#
+   X        X X
+# ##X## ##X##X#
+# ##X## ##X## #
+   X XX  X     
+# ##X##X##X## #
+# ## ## ## ##X#
+         X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X R X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+-59.0
+# ## ## ##X##X#
+   X        X X
+# ##X## ##X##X#
+# ##X## ##X## #
+   X XX  X     
+# ##X##X##X## #
+# ## ## ## ##X#
+         X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X R X  X X
+# ##X## ## ##X#
+
+MOVE DOWN
+-60.0
+# ## ## ##X##X#
+   X        X X
+# ##X## ##X##X#
+# ##X## ##X## #
+   X XX  X     
+# ##X##X##X## #
+# ## ## ## ##X#
+         X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X R X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+-61.0
+# ## ## ##X##X#
+   X        X X
+# ##X## ##X##X#
+# ##X## ##X## #
+   X XX  X     
+# ##X##X##X## #
+# ## ## ## ##X#
+         X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X R X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+-62.0
+# ## ## ##X##X#
+   X        X X
+# ##X## ##X##X#
+# ##X## ##X## #
+   X XX  X     
+# ##X##X##X## #
+# ## ## ## ##X#
+         X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X R X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+-63.0
+# ## ## ##X##X#
+   X        X X
+# ##X## ##X##X#
+# ##X## ##X## #
+   X XX  X     
+# ##X##X##X## #
+# ## ## ## ##X#
+         X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X R X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+-64.0
+# ## ## ##X##X#
+   X        X X
+# ##X## ##X##X#
+# ##X## ##X## #
+   X XX  X     
+# ##X##X##X## #
+# ## ## ## ##X#
+         X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X R X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+-65.0
+# ## ## ##X##X#
+   X        X X
+# ##X## ##X##X#
+# ##X## ##X## #
+   X XX  X     
+# ##X##X##X## #
+# ## ## ## ##X#
+         X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X R X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+-66.0
+# ## ## ##X##X#
+   X        X X
+# ##X## ##X##X#
+# ##X## ##X## #
+   X XX  X     
+# ##X##X##X## #
+# ## ## ## ##X#
+         X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X R X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+-67.0
+# ## ## ##X##X#
+   X        X X
+# ##X## ##X##X#
+# ##X## ##X## #
+   X XX  X     
+# ##X##X##X## #
+# ## ## ## ##X#
+         X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X R X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+-68.0
+# ## ## ##X##X#
+   X        X X
+# ##X## ##X##X#
+# ##X## ##X## #
+   X XX  X     
+# ##X##X##X## #
+# ## ## ## ##X#
+         X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X R X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+-69.0
+# ## ## ##X##X#
+   X        X X
+# ##X## ##X##X#
+# ##X## ##X## #
+   X XX  X     
+# ##X##X##X## #
+# ## ## ## ##X#
+         X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X R X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+-70.0
+# ## ## ##X##X#
+   X        X X
+# ##X## ##X##X#
+# ##X## ##X## #
+   X XX  X     
+# ##X##X##X## #
+# ## ## ## ##X#
+         X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X R X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+-71.0
+# ## ## ##X##X#
+   X        X X
+# ##X## ##X##X#
+# ##X## ##X## #
+   X XX  X     
+# ##X##X##X## #
+# ## ## ## ##X#
+         X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X R X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+-72.0
+# ## ## ##X##X#
+   X        X X
+# ##X## ##X##X#
+# ##X## ##X## #
+   X XX  X     
+# ##X##X##X## #
+# ## ## ## ##X#
+         X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X R X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+-73.0
+# ## ## ##X##X#
+   X        X X
+# ##X## ##X##X#
+# ##X## ##X## #
+   X XX  X     
+# ##X##X##X## #
+# ## ## ## ##X#
+         X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X R X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+-74.0
+# ## ## ##X##X#
+   X        X X
+# ##X## ##X##X#
+# ##X## ##X## #
+   X XX  X     
+# ##X##X##X## #
+# ## ## ## ##X#
+         X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X R X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+-75.0
+# ## ## ##X##X#
+   X        X X
+# ##X## ##X##X#
+# ##X## ##X## #
+   X XX  X     
+# ##X##X##X## #
+# ## ## ## ##X#
+         X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X R X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+-76.0
+# ## ## ##X##X#
+   X        X X
+# ##X## ##X##X#
+# ##X## ##X## #
+   X XX  X     
+# ##X##X##X## #
+# ## ## ## ##X#
+         X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X R X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+-77.0
+# ## ## ##X##X#
+   X        X X
+# ##X## ##X##X#
+# ##X## ##X## #
+   X XX  X     
+# ##X##X##X## #
+# ## ## ## ##X#
+         X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X R X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+-78.0
+# ## ## ##X##X#
+   X        X X
+# ##X## ##X##X#
+# ##X## ##X## #
+   X XX  X     
+# ##X##X##X## #
+# ## ## ## ##X#
+         X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X R X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+-79.0
+# ## ## ##X##X#
+   X        X X
+# ##X## ##X##X#
+# ##X## ##X## #
+   X XX  X     
+# ##X##X##X## #
+# ## ## ## ##X#
+         X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X R X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+-80.0
+# ## ## ##X##X#
+   X        X X
+# ##X## ##X##X#
+# ##X## ##X## #
+   X XX  X     
+# ##X##X##X## #
+# ## ## ## ##X#
+         X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X R X  X X
+# ##X## ## ##X#
+
+MOVE RIGHT
+-81.0
+# ## ## ##X##X#
+   X        X X
+# ##X## ##X##X#
+# ##X## ##X## #
+   X XX  X     
+# ##X##X##X## #
+# ## ## ## ##X#
+         X XX X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ##X## #
+# ##X## ## ##X#
+   X X R X  X X
+# ##X## ## ##X#
+
+CYCLE UP: 1
+-82.0
+# ##X## ##X##X#
+   X X      X X
+# ##X## ##X##X#
+# ## ## ##X## #
+      X  X     
+# ## ##X##X## #
+# ##X## ## ##X#
+   X X   X XX X
+# ##X## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ##X## #
+# ## ## ## ##X#
+   X   R X  X X
+# ##X## ## ##X#
+
+CYCLE UP: 3
+-43.0
+# ##X## ##X##X#
+   X X   X  X X
+# ##X## ##X##X#
+# ## ## ## ## #
+      X  X X   
+# ## ##X##X## #
+# ##X## ## ##X#
+   X X   X  X X
+# ##X## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ## ## #
+# ## ## ##X##X#
+   X   R    X X
+# ##X## ##X##X#
+
+CYCLE DOWN: 1
+-44.0
+# ## ## ##X##X#
+   X     X  X X
+# ##X## ##X##X#
+# ##X## ## ## #
+   X XX  X X   
+# ##X##X##X## #
+# ## ## ## ##X#
+         X  X X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ## ## #
+# ##X## ##X##X#
+   X X R    X X
+# ##X## ##X##X#
+
+MOVE RIGHT
+-37.0
+# ## ## ##X##X#
+   X     X  X X
+# ##X## ##X##X#
+# ##X## ## ## #
+   X XX  X X   
+# ##X##X##X## #
+# ## ## ## ##X#
+         X  X X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ## ## #
+# ##X## ##X##X#
+   X X    R X X
+# ##X## ##X##X#
+
+MOVE RIGHT
+-38.0
+# ## ## ##X##X#
+   X     X  X X
+# ##X## ##X##X#
+# ##X## ## ## #
+   X XX  X X   
+# ##X##X##X## #
+# ## ## ## ##X#
+         X  X X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ## ## #
+# ##X## ##X##X#
+   X X    R X X
+# ##X## ##X##X#
+
+MOVE RIGHT
+-39.0
+# ## ## ##X##X#
+   X     X  X X
+# ##X## ##X##X#
+# ##X## ## ## #
+   X XX  X X   
+# ##X##X##X## #
+# ## ## ## ##X#
+         X  X X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ## ## #
+# ##X## ##X##X#
+   X X    R X X
+# ##X## ##X##X#
+
+MOVE RIGHT
+-40.0
+# ## ## ##X##X#
+   X     X  X X
+# ##X## ##X##X#
+# ##X## ## ## #
+   X XX  X X   
+# ##X##X##X## #
+# ## ## ## ##X#
+         X  X X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ## ## #
+# ##X## ##X##X#
+   X X    R X X
+# ##X## ##X##X#
+
+MOVE RIGHT
+-41.0
+# ## ## ##X##X#
+   X     X  X X
+# ##X## ##X##X#
+# ##X## ## ## #
+   X XX  X X   
+# ##X##X##X## #
+# ## ## ## ##X#
+         X  X X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ## ## #
+# ##X## ##X##X#
+   X X    R X X
+# ##X## ##X##X#
+
+MOVE RIGHT
+-42.0
+# ## ## ##X##X#
+   X     X  X X
+# ##X## ##X##X#
+# ##X## ## ## #
+   X XX  X X   
+# ##X##X##X## #
+# ## ## ## ##X#
+         X  X X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ## ## #
+# ##X## ##X##X#
+   X X    R X X
+# ##X## ##X##X#
+
+MOVE RIGHT
+-43.0
+# ## ## ##X##X#
+   X     X  X X
+# ##X## ##X##X#
+# ##X## ## ## #
+   X XX  X X   
+# ##X##X##X## #
+# ## ## ## ##X#
+         X  X X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ## ## #
+# ##X## ##X##X#
+   X X    R X X
+# ##X## ##X##X#
+
+MOVE RIGHT
+-44.0
+# ## ## ##X##X#
+   X     X  X X
+# ##X## ##X##X#
+# ##X## ## ## #
+   X XX  X X   
+# ##X##X##X## #
+# ## ## ## ##X#
+         X  X X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ## ## #
+# ##X## ##X##X#
+   X X    R X X
+# ##X## ##X##X#
+
+MOVE RIGHT
+-45.0
+# ## ## ##X##X#
+   X     X  X X
+# ##X## ##X##X#
+# ##X## ## ## #
+   X XX  X X   
+# ##X##X##X## #
+# ## ## ## ##X#
+         X  X X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ## ## #
+# ##X## ##X##X#
+   X X    R X X
+# ##X## ##X##X#
+
+MOVE RIGHT
+-46.0
+# ## ## ##X##X#
+   X     X  X X
+# ##X## ##X##X#
+# ##X## ## ## #
+   X XX  X X   
+# ##X##X##X## #
+# ## ## ## ##X#
+         X  X X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ## ## #
+# ##X## ##X##X#
+   X X    R X X
+# ##X## ##X##X#
+
+MOVE RIGHT
+-47.0
+# ## ## ##X##X#
+   X     X  X X
+# ##X## ##X##X#
+# ##X## ## ## #
+   X XX  X X   
+# ##X##X##X## #
+# ## ## ## ##X#
+         X  X X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ## ## #
+# ##X## ##X##X#
+   X X    R X X
+# ##X## ##X##X#
+
+MOVE RIGHT
+-48.0
+# ## ## ##X##X#
+   X     X  X X
+# ##X## ##X##X#
+# ##X## ## ## #
+   X XX  X X   
+# ##X##X##X## #
+# ## ## ## ##X#
+         X  X X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ## ## #
+# ##X## ##X##X#
+   X X    R X X
+# ##X## ##X##X#
+
+MOVE RIGHT
+-49.0
+# ## ## ##X##X#
+   X     X  X X
+# ##X## ##X##X#
+# ##X## ## ## #
+   X XX  X X   
+# ##X##X##X## #
+# ## ## ## ##X#
+         X  X X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ## ## #
+# ##X## ##X##X#
+   X X    R X X
+# ##X## ##X##X#
+
+MOVE RIGHT
+-50.0
+# ## ## ##X##X#
+   X     X  X X
+# ##X## ##X##X#
+# ##X## ## ## #
+   X XX  X X   
+# ##X##X##X## #
+# ## ## ## ##X#
+         X  X X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ## ## #
+# ##X## ##X##X#
+   X X    R X X
+# ##X## ##X##X#
+
+MOVE RIGHT
+-51.0
+# ## ## ##X##X#
+   X     X  X X
+# ##X## ##X##X#
+# ##X## ## ## #
+   X XX  X X   
+# ##X##X##X## #
+# ## ## ## ##X#
+         X  X X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ## ## #
+# ##X## ##X##X#
+   X X    R X X
+# ##X## ##X##X#
+
+MOVE RIGHT
+-52.0
+# ## ## ##X##X#
+   X     X  X X
+# ##X## ##X##X#
+# ##X## ## ## #
+   X XX  X X   
+# ##X##X##X## #
+# ## ## ## ##X#
+         X  X X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ## ## #
+# ##X## ##X##X#
+   X X    R X X
+# ##X## ##X##X#
+
+MOVE RIGHT
+-53.0
+# ## ## ##X##X#
+   X     X  X X
+# ##X## ##X##X#
+# ##X## ## ## #
+   X XX  X X   
+# ##X##X##X## #
+# ## ## ## ##X#
+         X  X X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ## ## #
+# ##X## ##X##X#
+   X X    R X X
+# ##X## ##X##X#
+
+MOVE RIGHT
+-54.0
+# ## ## ##X##X#
+   X     X  X X
+# ##X## ##X##X#
+# ##X## ## ## #
+   X XX  X X   
+# ##X##X##X## #
+# ## ## ## ##X#
+         X  X X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ## ## #
+# ##X## ##X##X#
+   X X    R X X
+# ##X## ##X##X#
+
+MOVE RIGHT
+-55.0
+# ## ## ##X##X#
+   X     X  X X
+# ##X## ##X##X#
+# ##X## ## ## #
+   X XX  X X   
+# ##X##X##X## #
+# ## ## ## ##X#
+         X  X X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ## ## #
+# ##X## ##X##X#
+   X X    R X X
+# ##X## ##X##X#
+
+MOVE RIGHT
+-56.0
+# ## ## ##X##X#
+   X     X  X X
+# ##X## ##X##X#
+# ##X## ## ## #
+   X XX  X X   
+# ##X##X##X## #
+# ## ## ## ##X#
+         X  X X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ## ## #
+# ##X## ##X##X#
+   X X    R X X
+# ##X## ##X##X#
+
+MOVE RIGHT
+-57.0
+# ## ## ##X##X#
+   X     X  X X
+# ##X## ##X##X#
+# ##X## ## ## #
+   X XX  X X   
+# ##X##X##X## #
+# ## ## ## ##X#
+         X  X X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ## ## #
+# ##X## ##X##X#
+   X X    R X X
+# ##X## ##X##X#
+
+MOVE RIGHT
+-58.0
+# ## ## ##X##X#
+   X     X  X X
+# ##X## ##X##X#
+# ##X## ## ## #
+   X XX  X X   
+# ##X##X##X## #
+# ## ## ## ##X#
+         X  X X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ## ## #
+# ##X## ##X##X#
+   X X    R X X
+# ##X## ##X##X#
+
+MOVE RIGHT
+-59.0
+# ## ## ##X##X#
+   X     X  X X
+# ##X## ##X##X#
+# ##X## ## ## #
+   X XX  X X   
+# ##X##X##X## #
+# ## ## ## ##X#
+         X  X X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ## ## #
+# ##X## ##X##X#
+   X X    R X X
+# ##X## ##X##X#
+
+MOVE RIGHT
+-60.0
+# ## ## ##X##X#
+   X     X  X X
+# ##X## ##X##X#
+# ##X## ## ## #
+   X XX  X X   
+# ##X##X##X## #
+# ## ## ## ##X#
+         X  X X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ## ## #
+# ##X## ##X##X#
+   X X    R X X
+# ##X## ##X##X#
+
+MOVE RIGHT
+-61.0
+# ## ## ##X##X#
+   X     X  X X
+# ##X## ##X##X#
+# ##X## ## ## #
+   X XX  X X   
+# ##X##X##X## #
+# ## ## ## ##X#
+         X  X X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ## ## #
+# ##X## ##X##X#
+   X X    R X X
+# ##X## ##X##X#
+
+MOVE RIGHT
+-62.0
+# ## ## ##X##X#
+   X     X  X X
+# ##X## ##X##X#
+# ##X## ## ## #
+   X XX  X X   
+# ##X##X##X## #
+# ## ## ## ##X#
+         X  X X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ## ## #
+# ##X## ##X##X#
+   X X    R X X
+# ##X## ##X##X#
+
+MOVE RIGHT
+-63.0
+# ## ## ##X##X#
+   X     X  X X
+# ##X## ##X##X#
+# ##X## ## ## #
+   X XX  X X   
+# ##X##X##X## #
+# ## ## ## ##X#
+         X  X X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ## ## #
+# ##X## ##X##X#
+   X X    R X X
+# ##X## ##X##X#
+
+MOVE RIGHT
+-64.0
+# ## ## ##X##X#
+   X     X  X X
+# ##X## ##X##X#
+# ##X## ## ## #
+   X XX  X X   
+# ##X##X##X## #
+# ## ## ## ##X#
+         X  X X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ## ## #
+# ##X## ##X##X#
+   X X    R X X
+# ##X## ##X##X#
+
+MOVE RIGHT
+-65.0
+# ## ## ##X##X#
+   X     X  X X
+# ##X## ##X##X#
+# ##X## ## ## #
+   X XX  X X   
+# ##X##X##X## #
+# ## ## ## ##X#
+         X  X X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ## ## #
+# ##X## ##X##X#
+   X X    R X X
+# ##X## ##X##X#
+
+MOVE RIGHT
+-66.0
+# ## ## ##X##X#
+   X     X  X X
+# ##X## ##X##X#
+# ##X## ## ## #
+   X XX  X X   
+# ##X##X##X## #
+# ## ## ## ##X#
+         X  X X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ## ## #
+# ##X## ##X##X#
+   X X    R X X
+# ##X## ##X##X#
+
+MOVE RIGHT
+-67.0
+# ## ## ##X##X#
+   X     X  X X
+# ##X## ##X##X#
+# ##X## ## ## #
+   X XX  X X   
+# ##X##X##X## #
+# ## ## ## ##X#
+         X  X X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ## ## #
+# ##X## ##X##X#
+   X X    R X X
+# ##X## ##X##X#
+
+MOVE RIGHT
+-68.0
+# ## ## ##X##X#
+   X     X  X X
+# ##X## ##X##X#
+# ##X## ## ## #
+   X XX  X X   
+# ##X##X##X## #
+# ## ## ## ##X#
+         X  X X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ## ## #
+# ##X## ##X##X#
+   X X    R X X
+# ##X## ##X##X#
+
+MOVE RIGHT
+-69.0
+# ## ## ##X##X#
+   X     X  X X
+# ##X## ##X##X#
+# ##X## ## ## #
+   X XX  X X   
+# ##X##X##X## #
+# ## ## ## ##X#
+         X  X X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ## ## #
+# ##X## ##X##X#
+   X X    R X X
+# ##X## ##X##X#
+
+MOVE RIGHT
+-70.0
+# ## ## ##X##X#
+   X     X  X X
+# ##X## ##X##X#
+# ##X## ## ## #
+   X XX  X X   
+# ##X##X##X## #
+# ## ## ## ##X#
+         X  X X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ## ## #
+# ##X## ##X##X#
+   X X    R X X
+# ##X## ##X##X#
+
+MOVE RIGHT
+-71.0
+# ## ## ##X##X#
+   X     X  X X
+# ##X## ##X##X#
+# ##X## ## ## #
+   X XX  X X   
+# ##X##X##X## #
+# ## ## ## ##X#
+         X  X X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ## ## #
+# ##X## ##X##X#
+   X X    R X X
+# ##X## ##X##X#
+
+MOVE RIGHT
+-72.0
+# ## ## ##X##X#
+   X     X  X X
+# ##X## ##X##X#
+# ##X## ## ## #
+   X XX  X X   
+# ##X##X##X## #
+# ## ## ## ##X#
+         X  X X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ## ## #
+# ##X## ##X##X#
+   X X    R X X
+# ##X## ##X##X#
+
+MOVE UP
+-73.0
+# ## ## ##X##X#
+   X     X  X X
+# ##X## ##X##X#
+# ##X## ## ## #
+   X XX  X X   
+# ##X##X##X## #
+# ## ## ## ##X#
+         X  X X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ## ## #
+# ##X## ##X##X#
+   X X    R X X
+# ##X## ##X##X#
+
+MOVE RIGHT
+-74.0
+# ## ## ##X##X#
+   X     X  X X
+# ##X## ##X##X#
+# ##X## ## ## #
+   X XX  X X   
+# ##X##X##X## #
+# ## ## ## ##X#
+         X  X X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ## ## #
+# ##X## ##X##X#
+   X X    R X X
+# ##X## ##X##X#
+
+MOVE RIGHT
+-75.0
+# ## ## ##X##X#
+   X     X  X X
+# ##X## ##X##X#
+# ##X## ## ## #
+   X XX  X X   
+# ##X##X##X## #
+# ## ## ## ##X#
+         X  X X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ## ## #
+# ##X## ##X##X#
+   X X    R X X
+# ##X## ##X##X#
+
+MOVE RIGHT
+-76.0
+# ## ## ##X##X#
+   X     X  X X
+# ##X## ##X##X#
+# ##X## ## ## #
+   X XX  X X   
+# ##X##X##X## #
+# ## ## ## ##X#
+         X  X X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ## ## #
+# ##X## ##X##X#
+   X X    R X X
+# ##X## ##X##X#
+
+MOVE RIGHT
+-77.0
+# ## ## ##X##X#
+   X     X  X X
+# ##X## ##X##X#
+# ##X## ## ## #
+   X XX  X X   
+# ##X##X##X## #
+# ## ## ## ##X#
+         X  X X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ## ## #
+# ##X## ##X##X#
+   X X    R X X
+# ##X## ##X##X#
+
+MOVE RIGHT
+-78.0
+# ## ## ##X##X#
+   X     X  X X
+# ##X## ##X##X#
+# ##X## ## ## #
+   X XX  X X   
+# ##X##X##X## #
+# ## ## ## ##X#
+         X  X X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ## ## #
+# ##X## ##X##X#
+   X X    R X X
+# ##X## ##X##X#
+
+MOVE RIGHT
+-79.0
+# ## ## ##X##X#
+   X     X  X X
+# ##X## ##X##X#
+# ##X## ## ## #
+   X XX  X X   
+# ##X##X##X## #
+# ## ## ## ##X#
+         X  X X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ## ## #
+# ##X## ##X##X#
+   X X    R X X
+# ##X## ##X##X#
+
+MOVE RIGHT
+-80.0
+# ## ## ##X##X#
+   X     X  X X
+# ##X## ##X##X#
+# ##X## ## ## #
+   X XX  X X   
+# ##X##X##X## #
+# ## ## ## ##X#
+         X  X X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ## ## #
+# ##X## ##X##X#
+   X X    R X X
+# ##X## ##X##X#
+
+MOVE RIGHT
+-81.0
+# ## ## ##X##X#
+   X     X  X X
+# ##X## ##X##X#
+# ##X## ## ## #
+   X XX  X X   
+# ##X##X##X## #
+# ## ## ## ##X#
+         X  X X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ## ## #
+# ##X## ##X##X#
+   X X    R X X
+# ##X## ##X##X#
+
+MOVE RIGHT
+-82.0
+# ## ## ##X##X#
+   X     X  X X
+# ##X## ##X##X#
+# ##X## ## ## #
+   X XX  X X   
+# ##X##X##X## #
+# ## ## ## ##X#
+         X  X X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ## ## #
+# ##X## ##X##X#
+   X X    R X X
+# ##X## ##X##X#
+
+MOVE RIGHT
+-83.0
+# ## ## ##X##X#
+   X     X  X X
+# ##X## ##X##X#
+# ##X## ## ## #
+   X XX  X X   
+# ##X##X##X## #
+# ## ## ## ##X#
+         X  X X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ## ## #
+# ##X## ##X##X#
+   X X    R X X
+# ##X## ##X##X#
+
+MOVE RIGHT
+-84.0
+# ## ## ##X##X#
+   X     X  X X
+# ##X## ##X##X#
+# ##X## ## ## #
+   X XX  X X   
+# ##X##X##X## #
+# ## ## ## ##X#
+         X  X X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ## ## #
+# ##X## ##X##X#
+   X X    R X X
+# ##X## ##X##X#
+
+MOVE RIGHT
+-85.0
+# ## ## ##X##X#
+   X     X  X X
+# ##X## ##X##X#
+# ##X## ## ## #
+   X XX  X X   
+# ##X##X##X## #
+# ## ## ## ##X#
+         X  X X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ## ## #
+# ##X## ##X##X#
+   X X    R X X
+# ##X## ##X##X#
+
+MOVE RIGHT
+-86.0
+# ## ## ##X##X#
+   X     X  X X
+# ##X## ##X##X#
+# ##X## ## ## #
+   X XX  X X   
+# ##X##X##X## #
+# ## ## ## ##X#
+         X  X X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ## ## #
+# ##X## ##X##X#
+   X X    R X X
+# ##X## ##X##X#
+
+MOVE RIGHT
+-87.0
+# ## ## ##X##X#
+   X     X  X X
+# ##X## ##X##X#
+# ##X## ## ## #
+   X XX  X X   
+# ##X##X##X## #
+# ## ## ## ##X#
+         X  X X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ## ## #
+# ##X## ##X##X#
+   X X    R X X
+# ##X## ##X##X#
+
+MOVE RIGHT
+-88.0
+# ## ## ##X##X#
+   X     X  X X
+# ##X## ##X##X#
+# ##X## ## ## #
+   X XX  X X   
+# ##X##X##X## #
+# ## ## ## ##X#
+         X  X X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ## ## #
+# ##X## ##X##X#
+   X X    R X X
+# ##X## ##X##X#
+
+MOVE RIGHT
+-89.0
+# ## ## ##X##X#
+   X     X  X X
+# ##X## ##X##X#
+# ##X## ## ## #
+   X XX  X X   
+# ##X##X##X## #
+# ## ## ## ##X#
+         X  X X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ## ## #
+# ##X## ##X##X#
+   X X    R X X
+# ##X## ##X##X#
+
+MOVE RIGHT
+-90.0
+# ## ## ##X##X#
+   X     X  X X
+# ##X## ##X##X#
+# ##X## ## ## #
+   X XX  X X   
+# ##X##X##X## #
+# ## ## ## ##X#
+         X  X X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ## ## #
+# ##X## ##X##X#
+   X X    R X X
+# ##X## ##X##X#
+
+MOVE RIGHT
+-91.0
+# ## ## ##X##X#
+   X     X  X X
+# ##X## ##X##X#
+# ##X## ## ## #
+   X XX  X X   
+# ##X##X##X## #
+# ## ## ## ##X#
+         X  X X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ## ## #
+# ##X## ##X##X#
+   X X    R X X
+# ##X## ##X##X#
+
+MOVE RIGHT
+-92.0
+# ## ## ##X##X#
+   X     X  X X
+# ##X## ##X##X#
+# ##X## ## ## #
+   X XX  X X   
+# ##X##X##X## #
+# ## ## ## ##X#
+         X  X X
+# ## ## ##X##X#
+#X##X## ## ## #
+X XX X   X     
+#X##X## ## ## #
+# ##X## ##X##X#
+   X X    R X X
+# ##X## ##X##X#
+
+CYCLE DOWN: 0
+-93.0
+# ## ## ##X##X#
+   X     X  X X
+# ##X## ##X##X#
+# ##X## ## ## #
+   X XX  X X   
+# ##X##X##X## #
+# ## ## ## ##X#
+         X  X X
+# ## ## ##X##X#
+# ##X## ## ## #
+   X X   X     
+# ##X## ## ## #
+#X##X## ##X##X#
+X XX X    R X X
+#X##X## ##X##X#
+
+MOVE RIGHT
+-94.0
+# ## ## ##X##X#
+   X     X  X X
+# ##X## ##X##X#
+# ##X## ## ## #
+   X XX  X X   
+# ##X##X##X## #
+# ## ## ## ##X#
+         X  X X
+# ## ## ##X##X#
+# ##X## ## ## #
+   X X   X     
+# ##X## ## ## #
+#X##X## ##X##X#
+X XX X    R X X
+#X##X## ##X##X#
+
+MOVE RIGHT
+-95.0
+# ## ## ##X##X#
+   X     X  X X
+# ##X## ##X##X#
+# ##X## ## ## #
+   X XX  X X   
+# ##X##X##X## #
+# ## ## ## ##X#
+         X  X X
+# ## ## ##X##X#
+# ##X## ## ## #
+   X X   X     
+# ##X## ## ## #
+#X##X## ##X##X#
+X XX X    R X X
+#X##X## ##X##X#
+
+MOVE RIGHT
+-96.0
+# ## ## ##X##X#
+   X     X  X X
+# ##X## ##X##X#
+# ##X## ## ## #
+   X XX  X X   
+# ##X##X##X## #
+# ## ## ## ##X#
+         X  X X
+# ## ## ##X##X#
+# ##X## ## ## #
+   X X   X     
+# ##X## ## ## #
+#X##X## ##X##X#
+X XX X    R X X
+#X##X## ##X##X#
+
+MOVE RIGHT
+-97.0
+# ## ## ##X##X#
+   X     X  X X
+# ##X## ##X##X#
+# ##X## ## ## #
+   X XX  X X   
+# ##X##X##X## #
+# ## ## ## ##X#
+         X  X X
+# ## ## ##X##X#
+# ##X## ## ## #
+   X X   X     
+# ##X## ## ## #
+#X##X## ##X##X#
+X XX X    R X X
+#X##X## ##X##X#
+
+MOVE RIGHT
+-98.0
+# ## ## ##X##X#
+   X     X  X X
+# ##X## ##X##X#
+# ##X## ## ## #
+   X XX  X X   
+# ##X##X##X## #
+# ## ## ## ##X#
+         X  X X
+# ## ## ##X##X#
+# ##X## ## ## #
+   X X   X     
+# ##X## ## ## #
+#X##X## ##X##X#
+X XX X    R X X
+#X##X## ##X##X#
+
+MOVE RIGHT
+-99.0
+# ## ## ##X##X#
+   X     X  X X
+# ##X## ##X##X#
+# ##X## ## ## #
+   X XX  X X   
+# ##X##X##X## #
+# ## ## ## ##X#
+         X  X X
+# ## ## ##X##X#
+# ##X## ## ## #
+   X X   X     
+# ##X## ## ## #
+#X##X## ##X##X#
+X XX X    R X X
+#X##X## ##X##X#
+
+MOVE RIGHT
+-100.0
+# ## ## ##X##X#
+   X     X  X X
+# ##X## ##X##X#
+# ##X## ## ## #
+   X XX  X X   
+# ##X##X##X## #
+# ## ## ## ##X#
+         X  X X
+# ## ## ##X##X#
+# ##X## ## ## #
+   X X   X     
+# ##X## ## ## #
+#X##X## ##X##X#
+X XX X    R X X
+#X##X## ##X##X#
+
+MOVE RIGHT
+-101.0
+# ## ## ##X##X#
+   X     X  X X
+# ##X## ##X##X#
+# ##X## ## ## #
+   X XX  X X   
+# ##X##X##X## #
+# ## ## ## ##X#
+         X  X X
+# ## ## ##X##X#
+# ##X## ## ## #
+   X X   X     
+# ##X## ## ## #
+#X##X## ##X##X#
+X XX X    R X X
+#X##X## ##X##X#
+
+MOVE RIGHT
+-102.0
+# ## ## ##X##X#
+   X     X  X X
+# ##X## ##X##X#
+# ##X## ## ## #
+   X XX  X X   
+# ##X##X##X## #
+# ## ## ## ##X#
+         X  X X
+# ## ## ##X##X#
+# ##X## ## ## #
+   X X   X     
+# ##X## ## ## #
+#X##X## ##X##X#
+X XX X    R X X
+#X##X## ##X##X#
+
+MOVE RIGHT
+-103.0
+# ## ## ##X##X#
+   X     X  X X
+# ##X## ##X##X#
+# ##X## ## ## #
+   X XX  X X   
+# ##X##X##X## #
+# ## ## ## ##X#
+         X  X X
+# ## ## ##X##X#
+# ##X## ## ## #
+   X X   X     
+# ##X## ## ## #
+#X##X## ##X##X#
+X XX X    R X X
+#X##X## ##X##X#
+
+MOVE RIGHT
+-104.0
+# ## ## ##X##X#
+   X     X  X X
+# ##X## ##X##X#
+# ##X## ## ## #
+   X XX  X X   
+# ##X##X##X## #
+# ## ## ## ##X#
+         X  X X
+# ## ## ##X##X#
+# ##X## ## ## #
+   X X   X     
+# ##X## ## ## #
+#X##X## ##X##X#
+X XX X    R X X
+#X##X## ##X##X#
+
+MOVE RIGHT
+-105.0
+# ## ## ##X##X#
+   X     X  X X
+# ##X## ##X##X#
+# ##X## ## ## #
+   X XX  X X   
+# ##X##X##X## #
+# ## ## ## ##X#
+         X  X X
+# ## ## ##X##X#
+# ##X## ## ## #
+   X X   X     
+# ##X## ## ## #
+#X##X## ##X##X#
+X XX X    R X X
+#X##X## ##X##X#
+
+MOVE RIGHT
+-106.0
+# ## ## ##X##X#
+   X     X  X X
+# ##X## ##X##X#
+# ##X## ## ## #
+   X XX  X X   
+# ##X##X##X## #
+# ## ## ## ##X#
+         X  X X
+# ## ## ##X##X#
+# ##X## ## ## #
+   X X   X     
+# ##X## ## ## #
+#X##X## ##X##X#
+X XX X    R X X
+#X##X## ##X##X#
+
+MOVE RIGHT
+-107.0
+# ## ## ##X##X#
+   X     X  X X
+# ##X## ##X##X#
+# ##X## ## ## #
+   X XX  X X   
+# ##X##X##X## #
+# ## ## ## ##X#
+         X  X X
+# ## ## ##X##X#
+# ##X## ## ## #
+   X X   X     
+# ##X## ## ## #
+#X##X## ##X##X#
+X XX X    R X X
+#X##X## ##X##X#
+
+MOVE RIGHT
+-108.0
+# ## ## ##X##X#
+   X     X  X X
+# ##X## ##X##X#
+# ##X## ## ## #
+   X XX  X X   
+# ##X##X##X## #
+# ## ## ## ##X#
+         X  X X
+# ## ## ##X##X#
+# ##X## ## ## #
+   X X   X     
+# ##X## ## ## #
+#X##X## ##X##X#
+X XX X    R X X
+#X##X## ##X##X#
+
+MOVE RIGHT
+-109.0
+# ## ## ##X##X#
+   X     X  X X
+# ##X## ##X##X#
+# ##X## ## ## #
+   X XX  X X   
+# ##X##X##X## #
+# ## ## ## ##X#
+         X  X X
+# ## ## ##X##X#
+# ##X## ## ## #
+   X X   X     
+# ##X## ## ## #
+#X##X## ##X##X#
+X XX X    R X X
+#X##X## ##X##X#
+
+MOVE RIGHT
+-110.0
+# ## ## ##X##X#
+   X     X  X X
+# ##X## ##X##X#
+# ##X## ## ## #
+   X XX  X X   
+# ##X##X##X## #
+# ## ## ## ##X#
+         X  X X
+# ## ## ##X##X#
+# ##X## ## ## #
+   X X   X     
+# ##X## ## ## #
+#X##X## ##X##X#
+X XX X    R X X
+#X##X## ##X##X#
+
+MOVE RIGHT
+-111.0
+# ## ## ##X##X#
+   X     X  X X
+# ##X## ##X##X#
+# ##X## ## ## #
+   X XX  X X   
+# ##X##X##X## #
+# ## ## ## ##X#
+         X  X X
+# ## ## ##X##X#
+# ##X## ## ## #
+   X X   X     
+# ##X## ## ## #
+#X##X## ##X##X#
+X XX X    R X X
+#X##X## ##X##X#
+
+MOVE RIGHT
+-112.0
+# ## ## ##X##X#
+   X     X  X X
+# ##X## ##X##X#
+# ##X## ## ## #
+   X XX  X X   
+# ##X##X##X## #
+# ## ## ## ##X#
+         X  X X
+# ## ## ##X##X#
+# ##X## ## ## #
+   X X   X     
+# ##X## ## ## #
+#X##X## ##X##X#
+X XX X    R X X
+#X##X## ##X##X#
+
+MOVE RIGHT
+-113.0
+# ## ## ##X##X#
+   X     X  X X
+# ##X## ##X##X#
+# ##X## ## ## #
+   X XX  X X   
+# ##X##X##X## #
+# ## ## ## ##X#
+         X  X X
+# ## ## ##X##X#
+# ##X## ## ## #
+   X X   X     
+# ##X## ## ## #
+#X##X## ##X##X#
+X XX X    R X X
+#X##X## ##X##X#
+
+MOVE RIGHT
+-114.0
+# ## ## ##X##X#
+   X     X  X X
+# ##X## ##X##X#
+# ##X## ## ## #
+   X XX  X X   
+# ##X##X##X## #
+# ## ## ## ##X#
+         X  X X
+# ## ## ##X##X#
+# ##X## ## ## #
+   X X   X     
+# ##X## ## ## #
+#X##X## ##X##X#
+X XX X    R X X
+#X##X## ##X##X#
+
+MOVE RIGHT
+-115.0
+# ## ## ##X##X#
+   X     X  X X
+# ##X## ##X##X#
+# ##X## ## ## #
+   X XX  X X   
+# ##X##X##X## #
+# ## ## ## ##X#
+         X  X X
+# ## ## ##X##X#
+# ##X## ## ## #
+   X X   X     
+# ##X## ## ## #
+#X##X## ##X##X#
+X XX X    R X X
+#X##X## ##X##X#
+
+MOVE RIGHT
+-116.0
+# ## ## ##X##X#
+   X     X  X X
+# ##X## ##X##X#
+# ##X## ## ## #
+   X XX  X X   
+# ##X##X##X## #
+# ## ## ## ##X#
+         X  X X
+# ## ## ##X##X#
+# ##X## ## ## #
+   X X   X     
+# ##X## ## ## #
+#X##X## ##X##X#
+X XX X    R X X
+#X##X## ##X##X#
+
+MOVE RIGHT
+-117.0
+# ## ## ##X##X#
+   X     X  X X
+# ##X## ##X##X#
+# ##X## ## ## #
+   X XX  X X   
+# ##X##X##X## #
+# ## ## ## ##X#
+         X  X X
+# ## ## ##X##X#
+# ##X## ## ## #
+   X X   X     
+# ##X## ## ## #
+#X##X## ##X##X#
+X XX X    R X X
+#X##X## ##X##X#
+
+MOVE RIGHT
+-118.0
+# ## ## ##X##X#
+   X     X  X X
+# ##X## ##X##X#
+# ##X## ## ## #
+   X XX  X X   
+# ##X##X##X## #
+# ## ## ## ##X#
+         X  X X
+# ## ## ##X##X#
+# ##X## ## ## #
+   X X   X     
+# ##X## ## ## #
+#X##X## ##X##X#
+X XX X    R X X
+#X##X## ##X##X#
+
+MOVE RIGHT
+-119.0
+# ## ## ##X##X#
+   X     X  X X
+# ##X## ##X##X#
+# ##X## ## ## #
+   X XX  X X   
+# ##X##X##X## #
+# ## ## ## ##X#
+         X  X X
+# ## ## ##X##X#
+# ##X## ## ## #
+   X X   X     
+# ##X## ## ## #
+#X##X## ##X##X#
+X XX X    R X X
+#X##X## ##X##X#
+
+MOVE RIGHT
+-120.0
+# ## ## ##X##X#
+   X     X  X X
+# ##X## ##X##X#
+# ##X## ## ## #
+   X XX  X X   
+# ##X##X##X## #
+# ## ## ## ##X#
+         X  X X
+# ## ## ##X##X#
+# ##X## ## ## #
+   X X   X     
+# ##X## ## ## #
+#X##X## ##X##X#
+X XX X    R X X
+#X##X## ##X##X#
+
+MOVE RIGHT
+-121.0
+# ## ## ##X##X#
+   X     X  X X
+# ##X## ##X##X#
+# ##X## ## ## #
+   X XX  X X   
+# ##X##X##X## #
+# ## ## ## ##X#
+         X  X X
+# ## ## ##X##X#
+# ##X## ## ## #
+   X X   X     
+# ##X## ## ## #
+#X##X## ##X##X#
+X XX X    R X X
+#X##X## ##X##X#
+
+MOVE RIGHT
+-122.0
+# ## ## ##X##X#
+   X     X  X X
+# ##X## ##X##X#
+# ##X## ## ## #
+   X XX  X X   
+# ##X##X##X## #
+# ## ## ## ##X#
+         X  X X
+# ## ## ##X##X#
+# ##X## ## ## #
+   X X   X     
+# ##X## ## ## #
+#X##X## ##X##X#
+X XX X    R X X
+#X##X## ##X##X#
+
+MOVE RIGHT
+-123.0
+# ## ## ##X##X#
+   X     X  X X
+# ##X## ##X##X#
+# ##X## ## ## #
+   X XX  X X   
+# ##X##X##X## #
+# ## ## ## ##X#
+         X  X X
+# ## ## ##X##X#
+# ##X## ## ## #
+   X X   X     
+# ##X## ## ## #
+#X##X## ##X##X#
+X XX X    R X X
+#X##X## ##X##X#
+
+MOVE RIGHT
+-124.0
+# ## ## ##X##X#
+   X     X  X X
+# ##X## ##X##X#
+# ##X## ## ## #
+   X XX  X X   
+# ##X##X##X## #
+# ## ## ## ##X#
+         X  X X
+# ## ## ##X##X#
+# ##X## ## ## #
+   X X   X     
+# ##X## ## ## #
+#X##X## ##X##X#
+X XX X    R X X
+#X##X## ##X##X#
+
+CYCLE UP: 2
+-125.0
+# ## ## ##X##X#
+   X  X  X  X X
+# ##X##X##X##X#
+# ##X## ## ## #
+   X X   X X   
+# ##X## ##X## #
+# ## ## ## ##X#
+         X  X X
+# ## ## ##X##X#
+# ##X## ## ## #
+   X X   X     
+# ##X## ## ## #
+#X##X## ##X##X#
+X XX X    R X X
+#X##X## ##X##X#
+
+MOVE RIGHT
+-126.0
+# ## ## ##X##X#
+   X  X  X  X X
+# ##X##X##X##X#
+# ##X## ## ## #
+   X X   X X   
+# ##X## ##X## #
+# ## ## ## ##X#
+         X  X X
+# ## ## ##X##X#
+# ##X## ## ## #
+   X X   X     
+# ##X## ## ## #
+#X##X## ##X##X#
+X XX X    R X X
+#X##X## ##X##X#
+
+MOVE RIGHT
+-127.0
+# ## ## ##X##X#
+   X  X  X  X X
+# ##X##X##X##X#
+# ##X## ## ## #
+   X X   X X   
+# ##X## ##X## #
+# ## ## ## ##X#
+         X  X X
+# ## ## ##X##X#
+# ##X## ## ## #
+   X X   X     
+# ##X## ## ## #
+#X##X## ##X##X#
+X XX X    R X X
+#X##X## ##X##X#
+
+MOVE RIGHT
+-128.0
+# ## ## ##X##X#
+   X  X  X  X X
+# ##X##X##X##X#
+# ##X## ## ## #
+   X X   X X   
+# ##X## ##X## #
+# ## ## ## ##X#
+         X  X X
+# ## ## ##X##X#
+# ##X## ## ## #
+   X X   X     
+# ##X## ## ## #
+#X##X## ##X##X#
+X XX X    R X X
+#X##X## ##X##X#
+
+MOVE RIGHT
+-129.0
+# ## ## ##X##X#
+   X  X  X  X X
+# ##X##X##X##X#
+# ##X## ## ## #
+   X X   X X   
+# ##X## ##X## #
+# ## ## ## ##X#
+         X  X X
+# ## ## ##X##X#
+# ##X## ## ## #
+   X X   X     
+# ##X## ## ## #
+#X##X## ##X##X#
+X XX X    R X X
+#X##X## ##X##X#
+
+MOVE RIGHT
+-130.0
+# ## ## ##X##X#
+   X  X  X  X X
+# ##X##X##X##X#
+# ##X## ## ## #
+   X X   X X   
+# ##X## ##X## #
+# ## ## ## ##X#
+         X  X X
+# ## ## ##X##X#
+# ##X## ## ## #
+   X X   X     
+# ##X## ## ## #
+#X##X## ##X##X#
+X XX X    R X X
+#X##X## ##X##X#
+
+MOVE RIGHT
+-131.0
+# ## ## ##X##X#
+   X  X  X  X X
+# ##X##X##X##X#
+# ##X## ## ## #
+   X X   X X   
+# ##X## ##X## #
+# ## ## ## ##X#
+         X  X X
+# ## ## ##X##X#
+# ##X## ## ## #
+   X X   X     
+# ##X## ## ## #
+#X##X## ##X##X#
+X XX X    R X X
+#X##X## ##X##X#
+
+MOVE RIGHT
+-132.0
+# ## ## ##X##X#
+   X  X  X  X X
+# ##X##X##X##X#
+# ##X## ## ## #
+   X X   X X   
+# ##X## ##X## #
+# ## ## ## ##X#
+         X  X X
+# ## ## ##X##X#
+# ##X## ## ## #
+   X X   X     
+# ##X## ## ## #
+#X##X## ##X##X#
+X XX X    R X X
+#X##X## ##X##X#
+
+MOVE RIGHT
+-133.0
+# ## ## ##X##X#
+   X  X  X  X X
+# ##X##X##X##X#
+# ##X## ## ## #
+   X X   X X   
+# ##X## ##X## #
+# ## ## ## ##X#
+         X  X X
+# ## ## ##X##X#
+# ##X## ## ## #
+   X X   X     
+# ##X## ## ## #
+#X##X## ##X##X#
+X XX X    R X X
+#X##X## ##X##X#
+
+MOVE RIGHT
+-134.0
+# ## ## ##X##X#
+   X  X  X  X X
+# ##X##X##X##X#
+# ##X## ## ## #
+   X X   X X   
+# ##X## ##X## #
+# ## ## ## ##X#
+         X  X X
+# ## ## ##X##X#
+# ##X## ## ## #
+   X X   X     
+# ##X## ## ## #
+#X##X## ##X##X#
+X XX X    R X X
+#X##X## ##X##X#
+
+MOVE RIGHT
+-135.0
+# ## ## ##X##X#
+   X  X  X  X X
+# ##X##X##X##X#
+# ##X## ## ## #
+   X X   X X   
+# ##X## ##X## #
+# ## ## ## ##X#
+         X  X X
+# ## ## ##X##X#
+# ##X## ## ## #
+   X X   X     
+# ##X## ## ## #
+#X##X## ##X##X#
+X XX X    R X X
+#X##X## ##X##X#
+
+MOVE RIGHT
+-136.0
+# ## ## ##X##X#
+   X  X  X  X X
+# ##X##X##X##X#
+# ##X## ## ## #
+   X X   X X   
+# ##X## ##X## #
+# ## ## ## ##X#
+         X  X X
+# ## ## ##X##X#
+# ##X## ## ## #
+   X X   X     
+# ##X## ## ## #
+#X##X## ##X##X#
+X XX X    R X X
+#X##X## ##X##X#
+
+MOVE RIGHT
+-137.0
+# ## ## ##X##X#
+   X  X  X  X X
+# ##X##X##X##X#
+# ##X## ## ## #
+   X X   X X   
+# ##X## ##X## #
+# ## ## ## ##X#
+         X  X X
+# ## ## ##X##X#
+# ##X## ## ## #
+   X X   X     
+# ##X## ## ## #
+#X##X## ##X##X#
+X XX X    R X X
+#X##X## ##X##X#
+
+MOVE RIGHT
+-138.0
+# ## ## ##X##X#
+   X  X  X  X X
+# ##X##X##X##X#
+# ##X## ## ## #
+   X X   X X   
+# ##X## ##X## #
+# ## ## ## ##X#
+         X  X X
+# ## ## ##X##X#
+# ##X## ## ## #
+   X X   X     
+# ##X## ## ## #
+#X##X## ##X##X#
+X XX X    R X X
+#X##X## ##X##X#
+
+MOVE RIGHT
+-139.0
+# ## ## ##X##X#
+   X  X  X  X X
+# ##X##X##X##X#
+# ##X## ## ## #
+   X X   X X   
+# ##X## ##X## #
+# ## ## ## ##X#
+         X  X X
+# ## ## ##X##X#
+# ##X## ## ## #
+   X X   X     
+# ##X## ## ## #
+#X##X## ##X##X#
+X XX X    R X X
+#X##X## ##X##X#
+
+MOVE RIGHT
+-140.0
+# ## ## ##X##X#
+   X  X  X  X X
+# ##X##X##X##X#
+# ##X## ## ## #
+   X X   X X   
+# ##X## ##X## #
+# ## ## ## ##X#
+         X  X X
+# ## ## ##X##X#
+# ##X## ## ## #
+   X X   X     
+# ##X## ## ## #
+#X##X## ##X##X#
+X XX X    R X X
+#X##X## ##X##X#
+
+MOVE RIGHT
+-141.0
+# ## ## ##X##X#
+   X  X  X  X X
+# ##X##X##X##X#
+# ##X## ## ## #
+   X X   X X   
+# ##X## ##X## #
+# ## ## ## ##X#
+         X  X X
+# ## ## ##X##X#
+# ##X## ## ## #
+   X X   X     
+# ##X## ## ## #
+#X##X## ##X##X#
+X XX X    R X X
+#X##X## ##X##X#
+
+MOVE RIGHT
+-142.0
+# ## ## ##X##X#
+   X  X  X  X X
+# ##X##X##X##X#
+# ##X## ## ## #
+   X X   X X   
+# ##X## ##X## #
+# ## ## ## ##X#
+         X  X X
+# ## ## ##X##X#
+# ##X## ## ## #
+   X X   X     
+# ##X## ## ## #
+#X##X## ##X##X#
+X XX X    R X X
+#X##X## ##X##X#
+
+MOVE RIGHT
+-143.0
+# ## ## ##X##X#
+   X  X  X  X X
+# ##X##X##X##X#
+# ##X## ## ## #
+   X X   X X   
+# ##X## ##X## #
+# ## ## ## ##X#
+         X  X X
+# ## ## ##X##X#
+# ##X## ## ## #
+   X X   X     
+# ##X## ## ## #
+#X##X## ##X##X#
+X XX X    R X X
+#X##X## ##X##X#
+
+MOVE RIGHT
+-144.0
+# ## ## ##X##X#
+   X  X  X  X X
+# ##X##X##X##X#
+# ##X## ## ## #
+   X X   X X   
+# ##X## ##X## #
+# ## ## ## ##X#
+         X  X X
+# ## ## ##X##X#
+# ##X## ## ## #
+   X X   X     
+# ##X## ## ## #
+#X##X## ##X##X#
+X XX X    R X X
+#X##X## ##X##X#
+
+MOVE RIGHT
+-145.0
+# ## ## ##X##X#
+   X  X  X  X X
+# ##X##X##X##X#
+# ##X## ## ## #
+   X X   X X   
+# ##X## ##X## #
+# ## ## ## ##X#
+         X  X X
+# ## ## ##X##X#
+# ##X## ## ## #
+   X X   X     
+# ##X## ## ## #
+#X##X## ##X##X#
+X XX X    R X X
+#X##X## ##X##X#
+
+MOVE RIGHT
+-146.0
+# ## ## ##X##X#
+   X  X  X  X X
+# ##X##X##X##X#
+# ##X## ## ## #
+   X X   X X   
+# ##X## ##X## #
+# ## ## ## ##X#
+         X  X X
+# ## ## ##X##X#
+# ##X## ## ## #
+   X X   X     
+# ##X## ## ## #
+#X##X## ##X##X#
+X XX X    R X X
+#X##X## ##X##X#
+
+MOVE RIGHT
+-147.0
+# ## ## ##X##X#
+   X  X  X  X X
+# ##X##X##X##X#
+# ##X## ## ## #
+   X X   X X   
+# ##X## ##X## #
+# ## ## ## ##X#
+         X  X X
+# ## ## ##X##X#
+# ##X## ## ## #
+   X X   X     
+# ##X## ## ## #
+#X##X## ##X##X#
+X XX X    R X X
+#X##X## ##X##X#
+
+MOVE RIGHT
+-148.0
+# ## ## ##X##X#
+   X  X  X  X X
+# ##X##X##X##X#
+# ##X## ## ## #
+   X X   X X   
+# ##X## ##X## #
+# ## ## ## ##X#
+         X  X X
+# ## ## ##X##X#
+# ##X## ## ## #
+   X X   X     
+# ##X## ## ## #
+#X##X## ##X##X#
+X XX X    R X X
+#X##X## ##X##X#
+
+MOVE RIGHT
+-149.0
+# ## ## ##X##X#
+   X  X  X  X X
+# ##X##X##X##X#
+# ##X## ## ## #
+   X X   X X   
+# ##X## ##X## #
+# ## ## ## ##X#
+         X  X X
+# ## ## ##X##X#
+# ##X## ## ## #
+   X X   X     
+# ##X## ## ## #
+#X##X## ##X##X#
+X XX X    R X X
+#X##X## ##X##X#
+
+MOVE RIGHT
+-150.0
+# ## ## ##X##X#
+   X  X  X  X X
+# ##X##X##X##X#
+# ##X## ## ## #
+   X X   X X   
+# ##X## ##X## #
+# ## ## ## ##X#
+         X  X X
+# ## ## ##X##X#
+# ##X## ## ## #
+   X X   X     
+# ##X## ## ## #
+#X##X## ##X##X#
+X XX X    R X X
+#X##X## ##X##X#
+
+MOVE RIGHT
+-151.0
+# ## ## ##X##X#
+   X  X  X  X X
+# ##X##X##X##X#
+# ##X## ## ## #
+   X X   X X   
+# ##X## ##X## #
+# ## ## ## ##X#
+         X  X X
+# ## ## ##X##X#
+# ##X## ## ## #
+   X X   X     
+# ##X## ## ## #
+#X##X## ##X##X#
+X XX X    R X X
+#X##X## ##X##X#
+
+CYCLE DOWN: 4
+-72.0
+# ## ## ##X##X#
+   X  X  X  X X
+# ##X##X##X##X#
+# ##X## ## ##X#
+   X X   X XX X
+# ##X## ##X##X#
+# ## ## ## ## #
+         X     
+# ## ## ##X## #
+# ##X## ## ##X#
+   X X   X  X X
+# ##X## ## ##X#
+#X##X## ##X## #
+X XX X    R    
+#X##X## ##X## #
+
+MOVE RIGHT
+9928.0
+# ## ## ##X##X#
+   X  X  X  X X
+# ##X##X##X##X#
+# ##X## ## ##X#
+   X X   X XX X
+# ##X## ##X##X#
+# ## ## ## ## #
+         X     
+# ## ## ##X## #
+# ##X## ## ##X#
+   X X   X  X X
+# ##X## ## ##X#
+#X##X## ##X## #
+X XX X       R 
+#X##X## ##X## #
+
+TOTAL MOVES USED: 289
+SOLVED? : True

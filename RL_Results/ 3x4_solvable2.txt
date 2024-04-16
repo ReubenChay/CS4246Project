@@ -1,0 +1,570 @@
+# ## ## ##X#
+ R          
+# ##X##X##X#
+#X## ## ## #
+            
+#X## ## ##X#
+#X##X##X## #
+            
+#X##X##X## #
+
+episode  0 score -532.00 average score -532.00 epsilon 1.00
+episode  1 score -492.00 average score -512.00 epsilon 1.00
+episode  2 score 9694.00 average score 2890.00 epsilon 0.96
+episode  3 score 10061.00 average score 4682.75 epsilon 0.95
+episode  4 score 10008.00 average score 5747.80 epsilon 0.94
+episode  5 score 9681.00 average score 6403.33 epsilon 0.91
+episode  6 score 10045.00 average score 6923.57 epsilon 0.91
+episode  7 score 9863.00 average score 7291.00 epsilon 0.88
+episode  8 score 9855.00 average score 7575.89 epsilon 0.87
+episode  9 score 9976.00 average score 7815.90 epsilon 0.86
+episode  10 score 10017.00 average score 8016.00 epsilon 0.85
+episode  11 score 9933.00 average score 8175.75 epsilon 0.83
+episode  12 score 9856.00 average score 8305.00 epsilon 0.82
+episode  13 score 10042.00 average score 8429.07 epsilon 0.81
+episode  14 score 9597.00 average score 8506.93 epsilon 0.78
+episode  15 score 10044.00 average score 8603.00 epsilon 0.77
+episode  16 score 10104.00 average score 8691.29 epsilon 0.77
+episode  17 score 10008.00 average score 8764.44 epsilon 0.76
+episode  18 score 10102.00 average score 8834.84 epsilon 0.76
+episode  19 score 10032.00 average score 8894.70 epsilon 0.76
+episode  20 score 10022.00 average score 8948.38 epsilon 0.75
+episode  21 score 10008.00 average score 8996.55 epsilon 0.74
+episode  22 score 9944.00 average score 9037.74 epsilon 0.74
+episode  23 score 10087.00 average score 9081.46 epsilon 0.74
+episode  24 score 10094.00 average score 9121.96 epsilon 0.74
+episode  25 score 9665.00 average score 9142.85 epsilon 0.69
+episode  26 score 9998.00 average score 9174.52 epsilon 0.69
+episode  27 score 10103.00 average score 9207.68 epsilon 0.69
+episode  28 score 9964.00 average score 9233.76 epsilon 0.68
+episode  29 score 10106.00 average score 9262.83 epsilon 0.68
+episode  30 score 10040.00 average score 9287.90 epsilon 0.68
+episode  31 score 9913.00 average score 9307.44 epsilon 0.67
+episode  32 score 10016.00 average score 9328.91 epsilon 0.66
+episode  33 score 9967.00 average score 9347.68 epsilon 0.64
+episode  34 score -420.00 average score 9068.60 epsilon 0.64
+episode  35 score 9807.00 average score 9089.11 epsilon 0.62
+episode  36 score 9967.00 average score 9112.84 epsilon 0.61
+episode  37 score 9909.00 average score 9133.79 epsilon 0.60
+episode  38 score 10019.00 average score 9156.49 epsilon 0.59
+episode  39 score -428.00 average score 8916.88 epsilon 0.59
+episode  40 score 10019.00 average score 8943.76 epsilon 0.58
+episode  41 score 10065.00 average score 8970.45 epsilon 0.58
+episode  42 score 9981.00 average score 8993.95 epsilon 0.56
+episode  43 score 9789.00 average score 9012.02 epsilon 0.53
+episode  44 score 10007.00 average score 9034.13 epsilon 0.53
+episode  45 score 10106.00 average score 9057.43 epsilon 0.53
+episode  46 score 9916.00 average score 9075.70 epsilon 0.51
+episode  47 score 9777.00 average score 9090.31 epsilon 0.47
+episode  48 score 9992.00 average score 9108.71 epsilon 0.46
+episode  49 score 9754.00 average score 9121.62 epsilon 0.43
+episode  50 score 10043.00 average score 9139.69 epsilon 0.42
+episode  51 score 9996.00 average score 9156.15 epsilon 0.41
+episode  52 score 9914.00 average score 9170.45 epsilon 0.40
+episode  53 score 9827.00 average score 9182.61 epsilon 0.37
+episode  54 score -476.00 average score 9007.00 epsilon 0.37
+episode  55 score 10066.00 average score 9025.91 epsilon 0.37
+episode  56 score 10100.00 average score 9044.75 epsilon 0.37
+episode  57 score 9965.00 average score 9060.62 epsilon 0.35
+episode  58 score -428.00 average score 8899.80 epsilon 0.35
+episode  59 score -476.00 average score 8743.53 epsilon 0.35
+episode  60 score 10044.00 average score 8764.85 epsilon 0.34
+episode  61 score 10041.00 average score 8785.44 epsilon 0.34
+episode  62 score 10015.00 average score 8804.95 epsilon 0.33
+episode  63 score 10071.00 average score 8824.73 epsilon 0.32
+episode  64 score 10023.00 average score 8843.17 epsilon 0.31
+episode  65 score -428.00 average score 8702.70 epsilon 0.31
+episode  66 score 10064.00 average score 8723.01 epsilon 0.31
+episode  67 score -484.00 average score 8587.62 epsilon 0.31
+episode  68 score 10056.00 average score 8608.90 epsilon 0.30
+episode  69 score 10096.00 average score 8630.14 epsilon 0.30
+episode  70 score 10063.00 average score 8650.32 epsilon 0.30
+episode  71 score 9897.00 average score 8667.64 epsilon 0.27
+episode  72 score 9992.00 average score 8685.78 epsilon 0.26
+episode  73 score 9911.00 average score 8702.34 epsilon 0.24
+episode  74 score 10082.00 average score 8720.73 epsilon 0.24
+episode  75 score 10097.00 average score 8738.84 epsilon 0.24
+episode  76 score 10085.00 average score 8756.32 epsilon 0.23
+episode  77 score 10109.00 average score 8773.67 epsilon 0.23
+episode  78 score 10093.00 average score 8790.37 epsilon 0.23
+episode  79 score 10003.00 average score 8805.52 epsilon 0.22
+episode  80 score 10108.00 average score 8821.60 epsilon 0.22
+episode  81 score 9872.00 average score 8834.41 epsilon 0.20
+episode  82 score 9884.00 average score 8847.06 epsilon 0.17
+episode  83 score 10028.00 average score 8861.12 epsilon 0.17
+episode  84 score 10083.00 average score 8875.49 epsilon 0.16
+episode  85 score 10077.00 average score 8889.47 epsilon 0.16
+episode  86 score 9804.00 average score 8899.98 epsilon 0.13
+episode  87 score 9913.00 average score 8911.49 epsilon 0.11
+episode  88 score 10105.00 average score 8924.90 epsilon 0.11
+episode  89 score 10048.00 average score 8937.38 epsilon 0.10
+episode  90 score 10021.00 average score 8949.29 epsilon 0.09
+episode  91 score 10018.00 average score 8960.90 epsilon 0.08
+episode  92 score 10069.00 average score 8972.82 epsilon 0.08
+episode  93 score 10063.00 average score 8984.41 epsilon 0.07
+episode  94 score 10029.00 average score 8995.41 epsilon 0.06
+episode  95 score 10003.00 average score 9005.91 epsilon 0.05
+episode  96 score 10104.00 average score 9017.23 epsilon 0.05
+episode  97 score 10108.00 average score 9028.36 epsilon 0.05
+episode  98 score 10057.00 average score 9038.75 epsilon 0.05
+episode  99 score 10068.00 average score 9049.04 epsilon 0.05
+episode  100 score 10109.00 average score 9155.45 epsilon 0.05
+episode  101 score 10109.00 average score 9261.46 epsilon 0.05
+episode  102 score 10103.00 average score 9265.55 epsilon 0.05
+episode  103 score 10109.00 average score 9266.03 epsilon 0.05
+episode  104 score 10079.00 average score 9266.74 epsilon 0.05
+episode  105 score 10108.00 average score 9271.01 epsilon 0.05
+episode  106 score 10094.00 average score 9271.50 epsilon 0.05
+episode  107 score -428.00 average score 9168.59 epsilon 0.05
+episode  108 score -476.00 average score 9065.28 epsilon 0.05
+episode  109 score 10086.00 average score 9066.38 epsilon 0.05
+episode  110 score 10107.00 average score 9067.28 epsilon 0.05
+episode  111 score 9859.00 average score 9066.54 epsilon 0.05
+episode  112 score 10077.00 average score 9068.75 epsilon 0.05
+episode  113 score 10103.00 average score 9069.36 epsilon 0.05
+episode  114 score 10089.00 average score 9074.28 epsilon 0.05
+episode  115 score 10095.00 average score 9074.79 epsilon 0.05
+episode  116 score 10109.00 average score 9074.84 epsilon 0.05
+episode  117 score 10104.00 average score 9075.80 epsilon 0.05
+episode  118 score 9666.00 average score 9071.44 epsilon 0.05
+episode  119 score 9847.00 average score 9069.59 epsilon 0.05
+episode  120 score 10076.00 average score 9070.13 epsilon 0.05
+episode  121 score 10094.00 average score 9070.99 epsilon 0.05
+episode  122 score 10102.00 average score 9072.57 epsilon 0.05
+episode  123 score 10094.00 average score 9072.64 epsilon 0.05
+episode  124 score 10094.00 average score 9072.64 epsilon 0.05
+episode  125 score 10040.00 average score 9076.39 epsilon 0.05
+episode  126 score 10109.00 average score 9077.50 epsilon 0.05
+episode  127 score 10109.00 average score 9077.56 epsilon 0.05
+episode  128 score 10109.00 average score 9079.01 epsilon 0.05
+episode  129 score 10100.00 average score 9078.95 epsilon 0.05
+episode  130 score 10057.00 average score 9079.12 epsilon 0.05
+episode  131 score 10090.00 average score 9080.89 epsilon 0.05
+episode  132 score 9902.00 average score 9079.75 epsilon 0.05
+episode  133 score 10109.00 average score 9081.17 epsilon 0.05
+episode  134 score 10109.00 average score 9186.46 epsilon 0.05
+episode  135 score 10108.00 average score 9189.47 epsilon 0.05
+episode  136 score 10046.00 average score 9190.26 epsilon 0.05
+episode  137 score 10028.00 average score 9191.45 epsilon 0.05
+episode  138 score 10109.00 average score 9192.35 epsilon 0.05
+episode  139 score 9973.00 average score 9296.36 epsilon 0.05
+episode  140 score 10062.00 average score 9296.79 epsilon 0.05
+episode  141 score -428.00 average score 9191.86 epsilon 0.05
+episode  142 score 9978.00 average score 9191.83 epsilon 0.05
+episode  143 score 9964.00 average score 9193.58 epsilon 0.05
+episode  144 score 9982.00 average score 9193.33 epsilon 0.05
+episode  145 score 10035.00 average score 9192.62 epsilon 0.05
+episode  146 score 10074.00 average score 9194.20 epsilon 0.05
+episode  147 score 10108.00 average score 9197.51 epsilon 0.05
+episode  148 score 10108.00 average score 9198.67 epsilon 0.05
+episode  149 score 10105.00 average score 9202.18 epsilon 0.05
+episode  150 score 10094.00 average score 9202.69 epsilon 0.05
+episode  151 score 10060.00 average score 9203.33 epsilon 0.05
+episode  152 score 10069.00 average score 9204.88 epsilon 0.05
+episode  153 score 10099.00 average score 9207.60 epsilon 0.05
+episode  154 score 10108.00 average score 9313.44 epsilon 0.05
+episode  155 score 9975.00 average score 9312.53 epsilon 0.05
+episode  156 score 9965.00 average score 9311.18 epsilon 0.05
+episode  157 score 10108.00 average score 9312.61 epsilon 0.05
+episode  158 score 10108.00 average score 9417.97 epsilon 0.05
+episode  159 score 10108.00 average score 9523.81 epsilon 0.05
+episode  160 score 10077.00 average score 9524.14 epsilon 0.05
+episode  161 score 10042.00 average score 9524.15 epsilon 0.05
+episode  162 score 10079.00 average score 9524.79 epsilon 0.05
+episode  163 score 10071.00 average score 9524.79 epsilon 0.05
+episode  164 score 10093.00 average score 9525.49 epsilon 0.05
+episode  165 score 10108.00 average score 9630.85 epsilon 0.05
+episode  166 score 10106.00 average score 9631.27 epsilon 0.05
+episode  167 score 10091.00 average score 9737.02 epsilon 0.05
+episode  168 score 10108.00 average score 9737.54 epsilon 0.05
+episode  169 score 10108.00 average score 9737.66 epsilon 0.05
+episode  170 score 10106.00 average score 9738.09 epsilon 0.05
+episode  171 score 10052.00 average score 9739.64 epsilon 0.05
+episode  172 score 10106.00 average score 9740.78 epsilon 0.05
+episode  173 score 10095.00 average score 9742.62 epsilon 0.05
+episode  174 score 10106.00 average score 9742.86 epsilon 0.05
+episode  175 score 10039.00 average score 9742.28 epsilon 0.05
+episode  176 score 9981.00 average score 9741.24 epsilon 0.05
+episode  177 score 10109.00 average score 9741.24 epsilon 0.05
+episode  178 score 10105.00 average score 9741.36 epsilon 0.05
+episode  179 score 10065.00 average score 9741.98 epsilon 0.05
+episode  180 score 10108.00 average score 9741.98 epsilon 0.05
+episode  181 score 10108.00 average score 9744.34 epsilon 0.05
+episode  182 score 10108.00 average score 9746.58 epsilon 0.05
+episode  183 score 10108.00 average score 9747.38 epsilon 0.05
+episode  184 score 10106.00 average score 9747.61 epsilon 0.05
+episode  185 score 10105.00 average score 9747.89 epsilon 0.05
+episode  186 score 10107.00 average score 9750.92 epsilon 0.05
+episode  187 score 9897.00 average score 9750.76 epsilon 0.05
+episode  188 score 10109.00 average score 9750.80 epsilon 0.05
+episode  189 score 10108.00 average score 9751.40 epsilon 0.05
+episode  190 score 10107.00 average score 9752.26 epsilon 0.05
+episode  191 score 10109.00 average score 9753.17 epsilon 0.05
+episode  192 score 10109.00 average score 9753.57 epsilon 0.05
+episode  193 score 10109.00 average score 9754.03 epsilon 0.05
+episode  194 score 10109.00 average score 9754.83 epsilon 0.05
+episode  195 score 10109.00 average score 9755.89 epsilon 0.05
+episode  196 score 10109.00 average score 9755.94 epsilon 0.05
+episode  197 score 10106.00 average score 9755.92 epsilon 0.05
+episode  198 score 10108.00 average score 9756.43 epsilon 0.05
+episode  199 score 9864.00 average score 9754.39 epsilon 0.05
+episode  200 score 10074.00 average score 9754.04 epsilon 0.05
+episode  201 score 10055.00 average score 9753.50 epsilon 0.05
+episode  202 score 10088.00 average score 9753.35 epsilon 0.05
+episode  203 score 10104.00 average score 9753.30 epsilon 0.05
+episode  204 score 10108.00 average score 9753.59 epsilon 0.05
+episode  205 score 10108.00 average score 9753.59 epsilon 0.05
+episode  206 score 10100.00 average score 9753.65 epsilon 0.05
+episode  207 score 10109.00 average score 9859.02 epsilon 0.05
+episode  208 score 10089.00 average score 9964.67 epsilon 0.05
+episode  209 score 9980.00 average score 9963.61 epsilon 0.05
+episode  210 score 10092.00 average score 9963.46 epsilon 0.05
+episode  211 score 10027.00 average score 9965.14 epsilon 0.05
+episode  212 score 10099.00 average score 9965.36 epsilon 0.05
+episode  213 score 10109.00 average score 9965.42 epsilon 0.05
+episode  214 score 10109.00 average score 9965.62 epsilon 0.05
+episode  215 score 10109.00 average score 9965.76 epsilon 0.05
+episode  216 score 10109.00 average score 9965.76 epsilon 0.05
+episode  217 score 10109.00 average score 9965.81 epsilon 0.05
+episode  218 score 10109.00 average score 9970.24 epsilon 0.05
+episode  219 score 10109.00 average score 9972.86 epsilon 0.05
+episode  220 score 10109.00 average score 9973.19 epsilon 0.05
+episode  221 score 10109.00 average score 9973.34 epsilon 0.05
+episode  222 score 10109.00 average score 9973.41 epsilon 0.05
+episode  223 score 10109.00 average score 9973.56 epsilon 0.05
+episode  224 score 10109.00 average score 9973.71 epsilon 0.05
+episode  225 score 10096.00 average score 9974.27 epsilon 0.05
+episode  226 score 10109.00 average score 9974.27 epsilon 0.05
+episode  227 score 10109.00 average score 9974.27 epsilon 0.05
+episode  228 score 10109.00 average score 9974.27 epsilon 0.05
+episode  229 score 10018.00 average score 9973.45 epsilon 0.05
+episode  230 score 9984.00 average score 9972.72 epsilon 0.05
+episode  231 score 10058.00 average score 9972.40 epsilon 0.05
+episode  232 score 10107.00 average score 9974.45 epsilon 0.05
+episode  233 score 10105.00 average score 9974.41 epsilon 0.05
+episode  234 score 10108.00 average score 9974.40 epsilon 0.05
+episode  235 score 10108.00 average score 9974.40 epsilon 0.05
+episode  236 score 10108.00 average score 9975.02 epsilon 0.05
+episode  237 score 10108.00 average score 9975.82 epsilon 0.05
+episode  238 score 10108.00 average score 9975.81 epsilon 0.05
+episode  239 score 10108.00 average score 9977.16 epsilon 0.05
+episode  240 score 10108.00 average score 9977.62 epsilon 0.05
+episode  241 score 10105.00 average score 10082.95 epsilon 0.05
+episode  242 score 10108.00 average score 10084.25 epsilon 0.05
+episode  243 score 10108.00 average score 10085.69 epsilon 0.05
+episode  244 score 10106.00 average score 10086.93 epsilon 0.05
+episode  245 score 10108.00 average score 10087.66 epsilon 0.05
+episode  246 score 10099.00 average score 10087.91 epsilon 0.05
+episode  247 score 10108.00 average score 10087.91 epsilon 0.05
+episode  248 score 10108.00 average score 10087.91 epsilon 0.05
+episode  249 score 10108.00 average score 10087.94 epsilon 0.05
+episode  250 score 10107.00 average score 10088.07 epsilon 0.05
+episode  251 score 10109.00 average score 10088.56 epsilon 0.05
+episode  252 score 10106.00 average score 10088.93 epsilon 0.05
+episode  253 score 10109.00 average score 10089.03 epsilon 0.05
+episode  254 score 10109.00 average score 10089.04 epsilon 0.05
+episode  255 score 10082.00 average score 10090.11 epsilon 0.05
+episode  256 score 9958.00 average score 10090.04 epsilon 0.05
+episode  257 score 10101.00 average score 10089.97 epsilon 0.05
+episode  258 score 10108.00 average score 10089.97 epsilon 0.05
+episode  259 score 10108.00 average score 10089.97 epsilon 0.05
+episode  260 score 10108.00 average score 10090.28 epsilon 0.05
+episode  261 score 10108.00 average score 10090.94 epsilon 0.05
+episode  262 score 10108.00 average score 10091.23 epsilon 0.05
+episode  263 score 10086.00 average score 10091.38 epsilon 0.05
+episode  264 score 10108.00 average score 10091.53 epsilon 0.05
+episode  265 score 10107.00 average score 10091.52 epsilon 0.05
+episode  266 score 10107.00 average score 10091.53 epsilon 0.05
+episode  267 score 10108.00 average score 10091.70 epsilon 0.05
+episode  268 score 10108.00 average score 10091.70 epsilon 0.05
+episode  269 score 10108.00 average score 10091.70 epsilon 0.05
+episode  270 score 10039.00 average score 10091.03 epsilon 0.05
+episode  271 score 10108.00 average score 10091.59 epsilon 0.05
+episode  272 score 10108.00 average score 10091.61 epsilon 0.05
+episode  273 score 10096.00 average score 10091.62 epsilon 0.05
+episode  274 score 10108.00 average score 10091.64 epsilon 0.05
+episode  275 score 10100.00 average score 10092.25 epsilon 0.05
+episode  276 score 10108.00 average score 10093.52 epsilon 0.05
+episode  277 score 10108.00 average score 10093.51 epsilon 0.05
+episode  278 score 10108.00 average score 10093.54 epsilon 0.05
+episode  279 score 10108.00 average score 10093.97 epsilon 0.05
+episode  280 score 10108.00 average score 10093.97 epsilon 0.05
+episode  281 score 10107.00 average score 10093.96 epsilon 0.05
+episode  282 score 10107.00 average score 10093.95 epsilon 0.05
+episode  283 score 10109.00 average score 10093.96 epsilon 0.05
+episode  284 score 10109.00 average score 10093.99 epsilon 0.05
+episode  285 score 10109.00 average score 10094.03 epsilon 0.05
+episode  286 score 10082.00 average score 10093.78 epsilon 0.05
+episode  287 score 10103.00 average score 10095.84 epsilon 0.05
+episode  288 score 10108.00 average score 10095.83 epsilon 0.05
+episode  289 score 10108.00 average score 10095.83 epsilon 0.05
+episode  290 score 10108.00 average score 10095.84 epsilon 0.05
+episode  291 score 10105.00 average score 10095.80 epsilon 0.05
+episode  292 score 10108.00 average score 10095.79 epsilon 0.05
+episode  293 score 10108.00 average score 10095.78 epsilon 0.05
+episode  294 score 10108.00 average score 10095.77 epsilon 0.05
+episode  295 score 10105.00 average score 10095.73 epsilon 0.05
+episode  296 score 10107.00 average score 10095.71 epsilon 0.05
+episode  297 score 10108.00 average score 10095.73 epsilon 0.05
+episode  298 score 10108.00 average score 10095.73 epsilon 0.05
+episode  299 score 10108.00 average score 10098.17 epsilon 0.05
+episode  300 score 10108.00 average score 10098.51 epsilon 0.05
+episode  301 score 10108.00 average score 10099.04 epsilon 0.05
+episode  302 score 10108.00 average score 10099.24 epsilon 0.05
+episode  303 score 10056.00 average score 10098.76 epsilon 0.05
+episode  304 score 10105.00 average score 10098.73 epsilon 0.05
+episode  305 score 10108.00 average score 10098.73 epsilon 0.05
+episode  306 score 9958.00 average score 10097.31 epsilon 0.05
+episode  307 score 10018.00 average score 10096.40 epsilon 0.05
+episode  308 score 10093.00 average score 10096.44 epsilon 0.05
+episode  309 score 10108.00 average score 10097.72 epsilon 0.05
+episode  310 score 10107.00 average score 10097.87 epsilon 0.05
+episode  311 score 10108.00 average score 10098.68 epsilon 0.05
+episode  312 score 10108.00 average score 10098.77 epsilon 0.05
+episode  313 score 10108.00 average score 10098.76 epsilon 0.05
+episode  314 score 10038.00 average score 10098.05 epsilon 0.05
+episode  315 score 10107.00 average score 10098.03 epsilon 0.05
+episode  316 score 10109.00 average score 10098.03 epsilon 0.05
+episode  317 score 10108.00 average score 10098.02 epsilon 0.05
+episode  318 score 10106.00 average score 10097.99 epsilon 0.05
+episode  319 score 10108.00 average score 10097.98 epsilon 0.05
+episode  320 score 10083.00 average score 10097.72 epsilon 0.05
+episode  321 score 10074.00 average score 10097.37 epsilon 0.05
+episode  322 score 10023.00 average score 10096.51 epsilon 0.05
+episode  323 score 10004.00 average score 10095.46 epsilon 0.05
+episode  324 score 10108.00 average score 10095.45 epsilon 0.05
+episode  325 score 10109.00 average score 10095.58 epsilon 0.05
+episode  326 score 10100.00 average score 10095.49 epsilon 0.05
+episode  327 score 10109.00 average score 10095.49 epsilon 0.05
+episode  328 score 10109.00 average score 10095.49 epsilon 0.05
+episode  329 score 10106.00 average score 10096.37 epsilon 0.05
+episode  330 score 10109.00 average score 10097.62 epsilon 0.05
+episode  331 score 10109.00 average score 10098.13 epsilon 0.05
+episode  332 score 10109.00 average score 10098.15 epsilon 0.05
+episode  333 score 10109.00 average score 10098.19 epsilon 0.05
+episode  334 score 10109.00 average score 10098.20 epsilon 0.05
+episode  335 score 10109.00 average score 10098.21 epsilon 0.05
+episode  336 score 10109.00 average score 10098.22 epsilon 0.05
+episode  337 score 10109.00 average score 10098.23 epsilon 0.05
+episode  338 score 10109.00 average score 10098.24 epsilon 0.05
+episode  339 score 10109.00 average score 10098.25 epsilon 0.05
+episode  340 score 10103.00 average score 10098.20 epsilon 0.05
+episode  341 score 10109.00 average score 10098.24 epsilon 0.05
+episode  342 score 10109.00 average score 10098.25 epsilon 0.05
+episode  343 score 10109.00 average score 10098.26 epsilon 0.05
+episode  344 score 10109.00 average score 10098.29 epsilon 0.05
+episode  345 score 10097.00 average score 10098.18 epsilon 0.05
+episode  346 score 10098.00 average score 10098.17 epsilon 0.05
+episode  347 score 10101.00 average score 10098.10 epsilon 0.05
+episode  348 score 10108.00 average score 10098.10 epsilon 0.05
+episode  349 score 10108.00 average score 10098.10 epsilon 0.05
+episode  350 score 10108.00 average score 10098.11 epsilon 0.05
+episode  351 score 10108.00 average score 10098.10 epsilon 0.05
+episode  352 score 10067.00 average score 10097.71 epsilon 0.05
+episode  353 score 10096.00 average score 10097.58 epsilon 0.05
+episode  354 score 10072.00 average score 10097.21 epsilon 0.05
+episode  355 score 10104.00 average score 10097.43 epsilon 0.05
+episode  356 score 10109.00 average score 10098.94 epsilon 0.05
+episode  357 score 10109.00 average score 10099.02 epsilon 0.05
+episode  358 score 10109.00 average score 10099.03 epsilon 0.05
+episode  359 score 10109.00 average score 10099.04 epsilon 0.05
+episode  360 score 10109.00 average score 10099.05 epsilon 0.05
+episode  361 score 10109.00 average score 10099.06 epsilon 0.05
+episode  362 score 10103.00 average score 10099.01 epsilon 0.05
+episode  363 score 10109.00 average score 10099.24 epsilon 0.05
+episode  364 score 10109.00 average score 10099.25 epsilon 0.05
+episode  365 score 10109.00 average score 10099.27 epsilon 0.05
+episode  366 score 10100.00 average score 10099.20 epsilon 0.05
+episode  367 score 10109.00 average score 10099.21 epsilon 0.05
+episode  368 score 10046.00 average score 10098.59 epsilon 0.05
+episode  369 score 10109.00 average score 10098.60 epsilon 0.05
+episode  370 score 10109.00 average score 10099.30 epsilon 0.05
+episode  371 score 10109.00 average score 10099.31 epsilon 0.05
+episode  372 score 10109.00 average score 10099.32 epsilon 0.05
+episode  373 score 10109.00 average score 10099.45 epsilon 0.05
+episode  374 score 10109.00 average score 10099.46 epsilon 0.05
+episode  375 score 10109.00 average score 10099.55 epsilon 0.05
+episode  376 score 10108.00 average score 10099.55 epsilon 0.05
+episode  377 score 10109.00 average score 10099.56 epsilon 0.05
+episode  378 score 10109.00 average score 10099.57 epsilon 0.05
+episode  379 score 10103.00 average score 10099.52 epsilon 0.05
+episode  380 score 10109.00 average score 10099.53 epsilon 0.05
+episode  381 score 10109.00 average score 10099.55 epsilon 0.05
+episode  382 score 10109.00 average score 10099.57 epsilon 0.05
+episode  383 score 10109.00 average score 10099.57 epsilon 0.05
+episode  384 score 10107.00 average score 10099.55 epsilon 0.05
+episode  385 score 10108.00 average score 10099.54 epsilon 0.05
+episode  386 score 10109.00 average score 10099.81 epsilon 0.05
+episode  387 score 10109.00 average score 10099.87 epsilon 0.05
+episode  388 score 10103.00 average score 10099.82 epsilon 0.05
+episode  389 score 10109.00 average score 10099.83 epsilon 0.05
+episode  390 score 10108.00 average score 10099.83 epsilon 0.05
+episode  391 score 10109.00 average score 10099.87 epsilon 0.05
+episode  392 score 10101.00 average score 10099.80 epsilon 0.05
+episode  393 score 10109.00 average score 10099.81 epsilon 0.05
+episode  394 score 10109.00 average score 10099.82 epsilon 0.05
+episode  395 score 10109.00 average score 10099.86 epsilon 0.05
+episode  396 score 10109.00 average score 10099.88 epsilon 0.05
+episode  397 score 10109.00 average score 10099.89 epsilon 0.05
+episode  398 score 10108.00 average score 10099.89 epsilon 0.05
+episode  399 score 10101.00 average score 10099.82 epsilon 0.05
+episode  400 score 10098.00 average score 10099.72 epsilon 0.05
+episode  401 score 10109.00 average score 10099.73 epsilon 0.05
+episode  402 score 10109.00 average score 10099.74 epsilon 0.05
+episode  403 score 10109.00 average score 10100.27 epsilon 0.05
+episode  404 score 10108.00 average score 10100.30 epsilon 0.05
+episode  405 score 10107.00 average score 10100.29 epsilon 0.05
+episode  406 score 10109.00 average score 10101.80 epsilon 0.05
+episode  407 score 10109.00 average score 10102.71 epsilon 0.05
+episode  408 score 10106.00 average score 10102.84 epsilon 0.05
+episode  409 score 10109.00 average score 10102.85 epsilon 0.05
+episode  410 score 10109.00 average score 10102.87 epsilon 0.05
+episode  411 score 10107.00 average score 10102.86 epsilon 0.05
+episode  412 score 10109.00 average score 10102.87 epsilon 0.05
+episode  413 score 10109.00 average score 10102.88 epsilon 0.05
+episode  414 score 10109.00 average score 10103.59 epsilon 0.05
+episode  415 score 10109.00 average score 10103.61 epsilon 0.05
+episode  416 score 10109.00 average score 10103.61 epsilon 0.05
+episode  417 score 10109.00 average score 10103.62 epsilon 0.05
+episode  418 score 10109.00 average score 10103.65 epsilon 0.05
+episode  419 score 10109.00 average score 10103.66 epsilon 0.05
+episode  420 score 10109.00 average score 10103.92 epsilon 0.05
+episode  421 score 10067.00 average score 10103.85 epsilon 0.05
+episode  422 score 10108.00 average score 10104.70 epsilon 0.05
+episode  423 score 10108.00 average score 10105.74 epsilon 0.05
+episode  424 score 10108.00 average score 10105.74 epsilon 0.05
+episode  425 score 10108.00 average score 10105.73 epsilon 0.05
+episode  426 score 10108.00 average score 10105.81 epsilon 0.05
+episode  427 score 10108.00 average score 10105.80 epsilon 0.05
+episode  428 score 10105.00 average score 10105.76 epsilon 0.05
+episode  429 score 10108.00 average score 10105.78 epsilon 0.05
+episode  430 score 10108.00 average score 10105.77 epsilon 0.05
+episode  431 score 10108.00 average score 10105.76 epsilon 0.05
+episode  432 score 10108.00 average score 10105.75 epsilon 0.05
+episode  433 score 10108.00 average score 10105.74 epsilon 0.05
+episode  434 score 10108.00 average score 10105.73 epsilon 0.05
+episode  435 score 10108.00 average score 10105.72 epsilon 0.05
+episode  436 score 10108.00 average score 10105.71 epsilon 0.05
+episode  437 score 10098.00 average score 10105.60 epsilon 0.05
+episode  438 score 10020.00 average score 10104.71 epsilon 0.05
+episode  439 score 10105.00 average score 10104.67 epsilon 0.05
+episode  440 score 10108.00 average score 10104.72 epsilon 0.05
+episode  441 score 10104.00 average score 10104.67 epsilon 0.05
+episode  442 score 10108.00 average score 10104.66 epsilon 0.05
+episode  443 score 10108.00 average score 10104.65 epsilon 0.05
+episode  444 score 10107.00 average score 10104.63 epsilon 0.05
+episode  445 score 10108.00 average score 10104.74 epsilon 0.05
+episode  446 score 10107.00 average score 10104.83 epsilon 0.05
+episode  447 score 10096.00 average score 10104.78 epsilon 0.05
+episode  448 score 10105.00 average score 10104.75 epsilon 0.05
+episode  449 score 10108.00 average score 10104.75 epsilon 0.05
+episode  450 score 10108.00 average score 10104.75 epsilon 0.05
+episode  451 score 10105.00 average score 10104.72 epsilon 0.05
+episode  452 score 10108.00 average score 10105.13 epsilon 0.05
+episode  453 score 10100.00 average score 10105.17 epsilon 0.05
+episode  454 score 10108.00 average score 10105.53 epsilon 0.05
+episode  455 score 10108.00 average score 10105.57 epsilon 0.05
+episode  456 score 10108.00 average score 10105.56 epsilon 0.05
+episode  457 score 10108.00 average score 10105.55 epsilon 0.05
+episode  458 score 10108.00 average score 10105.54 epsilon 0.05
+episode  459 score 10108.00 average score 10105.53 epsilon 0.05
+episode  460 score 10108.00 average score 10105.52 epsilon 0.05
+episode  461 score 10108.00 average score 10105.51 epsilon 0.05
+episode  462 score 10108.00 average score 10105.56 epsilon 0.05
+episode  463 score 10108.00 average score 10105.55 epsilon 0.05
+episode  464 score 10105.00 average score 10105.51 epsilon 0.05
+episode  465 score 10108.00 average score 10105.50 epsilon 0.05
+episode  466 score 10108.00 average score 10105.58 epsilon 0.05
+episode  467 score 10108.00 average score 10105.57 epsilon 0.05
+episode  468 score 10106.00 average score 10106.17 epsilon 0.05
+episode  469 score 10108.00 average score 10106.16 epsilon 0.05
+episode  470 score 10108.00 average score 10106.15 epsilon 0.05
+episode  471 score 10108.00 average score 10106.14 epsilon 0.05
+episode  472 score 10107.00 average score 10106.12 epsilon 0.05
+episode  473 score 10108.00 average score 10106.11 epsilon 0.05
+episode  474 score 10108.00 average score 10106.10 epsilon 0.05
+episode  475 score 10108.00 average score 10106.09 epsilon 0.05
+episode  476 score 10105.00 average score 10106.06 epsilon 0.05
+episode  477 score 10108.00 average score 10106.05 epsilon 0.05
+episode  478 score 10108.00 average score 10106.04 epsilon 0.05
+episode  479 score 10108.00 average score 10106.09 epsilon 0.05
+episode  480 score 10108.00 average score 10106.08 epsilon 0.05
+episode  481 score 10108.00 average score 10106.07 epsilon 0.05
+episode  482 score 10109.00 average score 10106.07 epsilon 0.05
+episode  483 score 10108.00 average score 10106.06 epsilon 0.05
+episode  484 score 10109.00 average score 10106.08 epsilon 0.05
+episode  485 score 10109.00 average score 10106.09 epsilon 0.05
+episode  486 score 10109.00 average score 10106.09 epsilon 0.05
+episode  487 score 10099.00 average score 10105.99 epsilon 0.05
+episode  488 score 10109.00 average score 10106.05 epsilon 0.05
+episode  489 score 10109.00 average score 10106.05 epsilon 0.05
+episode  490 score 10109.00 average score 10106.06 epsilon 0.05
+episode  491 score 10016.00 average score 10105.13 epsilon 0.05
+episode  492 score 10109.00 average score 10105.21 epsilon 0.05
+episode  493 score 10108.00 average score 10105.20 epsilon 0.05
+episode  494 score 10109.00 average score 10105.20 epsilon 0.05
+episode  495 score 10109.00 average score 10105.20 epsilon 0.05
+episode  496 score 10105.00 average score 10105.16 epsilon 0.05
+episode  497 score 10109.00 average score 10105.16 epsilon 0.05
+episode  498 score 10109.00 average score 10105.17 epsilon 0.05
+episode  499 score 10109.00 average score 10105.25 epsilon 0.05
+# ## ## ##X#
+ R          
+# ##X##X##X#
+#X## ## ## #
+            
+#X## ## ##X#
+#X##X##X## #
+            
+#X##X##X## #
+
+CYCLE UP: 0
+95.0
+#X## ## ##X#
+            
+#X##X##X##X#
+#X## ## ## #
+            
+#X## ## ##X#
+# ##X##X## #
+ R          
+# ##X##X## #
+
+MOVE RIGHT
+102.0
+#X## ## ##X#
+            
+#X##X##X##X#
+#X## ## ## #
+            
+#X## ## ##X#
+# ##X##X## #
+    R       
+# ##X##X## #
+
+MOVE RIGHT
+109.0
+#X## ## ##X#
+            
+#X##X##X##X#
+#X## ## ## #
+            
+#X## ## ##X#
+# ##X##X## #
+       R    
+# ##X##X## #
+
+MOVE RIGHT
+10109.0
+#X## ## ##X#
+            
+#X##X##X##X#
+#X## ## ## #
+            
+#X## ## ##X#
+# ##X##X## #
+          R 
+# ##X##X## #
+
+TOTAL MOVES USED: 4
+SOLVED? : True
