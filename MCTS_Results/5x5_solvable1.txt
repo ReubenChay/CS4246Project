@@ -1,0 +1,18 @@
+[ [3,6,0,6,0], [0,3,0,9,0], [10,0,0,10,5], [5,4,3,1,12], [15,5,2,9,6] ]
+
+10 runs
+Success rate: 10%
+Average number of actions: -invalid- (only 1 run passed)
+Most optimal:
+state: (0, 0, 0, 0, 0, 0, 0), action: 7
+state: (0, 0, 0, 1, 0, 0, 0), action: 1
+state: (0, 1, 0, 1, 0, 0, 0), action: 2
+state: (1, 1, 0, 1, 0, 0, 0), action: 1
+state: (1, 2, 0, 1, 0, 0, 0), action: 2
+state: (2, 2, 0, 1, 0, 0, 0), action: 7
+state: (2, 2, 0, 2, 0, 0, 0), action: 2
+state: (3, 2, 0, 2, 0, 0, 0), action: 2
+state: (4, 2, 0, 2, 0, 0, 0), action: 1
+state: (4, 3, 0, 2, 0, 0, 0), action: 1
+state: (4, 4, 0, 2, 0, 0, 0)
+total actions: 10
