@@ -146,13 +146,13 @@ class Maze:
             for j in range(self.height): #bot y
                 for col in range(self.height): #col shift at col x + 1
                     if self.walls[i + 1][col][2]:
-                        self.action_matrix[(i, j) + (slice(None),) * i + ((j - col) % self.height,) + (slice(None),) * (self.width - i -1) + (2,)] = 0
+                        self.action_matrix[(i, j) + (slice(None),) * (i + 1) + ((j - col) % self.height,) + (slice(None),) * (self.width - i -2) + (2,)] = 0
 
         for i in range(1, self.width): #bot x
             for j in range(self.height): #bot y
                 for col in range(self.height): #col shift at col x - 1
                     if self.walls[i - 1][col][3]:
-                        self.action_matrix[(i, j) + (slice(None),) * i + ((j - col) % self.height,) + (slice(None),) * (self.width - i -1) + (3,)] = 0
+                        self.action_matrix[(i, j) + (slice(None),) * (i - 1) + ((j - col) % self.height,) + (slice(None),) * (self.width - i - 0) + (3,)] = 0
 
 
         for i in range(self.width - 1): #bot x
