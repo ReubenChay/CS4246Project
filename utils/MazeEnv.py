@@ -99,7 +99,7 @@ class Maze:
         for i in range(width):
             for j in range(height):
                 for idx in range(4):
-                    if (walls[i][j]&(1<<idx)) != 0:
+                    if (walls[j][i]&(1<<idx)) != 0:
                         self.walls[(i, j, idx)] = True
 
 
