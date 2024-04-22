@@ -1,0 +1,3932 @@
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+episode  0 score -464.00 average score -464.00 epsilon 0.93
+episode  1 score -352.00 average score -408.00 epsilon 0.83
+episode  2 score -368.00 average score -394.67 epsilon 0.73
+episode  3 score -352.00 average score -384.00 epsilon 0.63
+episode  4 score -336.00 average score -374.40 epsilon 0.53
+episode  5 score -324.00 average score -366.00 epsilon 0.43
+episode  6 score -312.00 average score -358.29 epsilon 0.33
+episode  7 score -244.00 average score -344.00 epsilon 0.23
+episode  8 score -240.00 average score -332.44 epsilon 0.13
+episode  9 score -212.00 average score -320.40 epsilon 0.03
+episode  10 score -204.00 average score -309.82 epsilon 0.01
+episode  11 score -204.00 average score -301.00 epsilon 0.01
+episode  12 score -200.00 average score -293.23 epsilon 0.01
+episode  13 score -200.00 average score -286.57 epsilon 0.01
+episode  14 score -204.00 average score -281.07 epsilon 0.01
+episode  15 score -200.00 average score -276.00 epsilon 0.01
+episode  16 score -200.00 average score -271.53 epsilon 0.01
+episode  17 score -204.00 average score -267.78 epsilon 0.01
+episode  18 score -208.00 average score -264.63 epsilon 0.01
+episode  19 score -200.00 average score -261.40 epsilon 0.01
+episode  20 score -204.00 average score -258.67 epsilon 0.01
+episode  21 score -200.00 average score -256.00 epsilon 0.01
+episode  22 score -200.00 average score -253.57 epsilon 0.01
+episode  23 score -204.00 average score -251.50 epsilon 0.01
+episode  24 score -204.00 average score -249.60 epsilon 0.01
+episode  25 score -200.00 average score -247.69 epsilon 0.01
+episode  26 score -200.00 average score -245.93 epsilon 0.01
+episode  27 score -200.00 average score -244.29 epsilon 0.01
+episode  28 score -204.00 average score -242.90 epsilon 0.01
+episode  29 score -200.00 average score -241.47 epsilon 0.01
+episode  30 score -200.00 average score -240.13 epsilon 0.01
+episode  31 score -200.00 average score -238.88 epsilon 0.01
+episode  32 score -200.00 average score -237.70 epsilon 0.01
+episode  33 score -200.00 average score -236.59 epsilon 0.01
+episode  34 score -220.00 average score -236.11 epsilon 0.01
+episode  35 score -200.00 average score -235.11 epsilon 0.01
+episode  36 score -200.00 average score -234.16 epsilon 0.01
+episode  37 score -200.00 average score -233.26 epsilon 0.01
+episode  38 score -200.00 average score -232.41 epsilon 0.01
+episode  39 score -204.00 average score -231.70 epsilon 0.01
+episode  40 score -204.00 average score -231.02 epsilon 0.01
+episode  41 score -200.00 average score -230.29 epsilon 0.01
+episode  42 score -208.00 average score -229.77 epsilon 0.01
+episode  43 score -200.00 average score -229.09 epsilon 0.01
+episode  44 score -200.00 average score -228.44 epsilon 0.01
+episode  45 score -208.00 average score -228.00 epsilon 0.01
+episode  46 score -200.00 average score -227.40 epsilon 0.01
+episode  47 score -200.00 average score -226.83 epsilon 0.01
+episode  48 score -200.00 average score -226.29 epsilon 0.01
+episode  49 score -204.00 average score -225.84 epsilon 0.01
+episode  50 score -200.00 average score -225.33 epsilon 0.01
+episode  51 score -204.00 average score -224.92 epsilon 0.01
+episode  52 score -200.00 average score -224.45 epsilon 0.01
+episode  53 score -204.00 average score -224.07 epsilon 0.01
+episode  54 score -204.00 average score -223.71 epsilon 0.01
+episode  55 score -200.00 average score -223.29 epsilon 0.01
+episode  56 score -200.00 average score -222.88 epsilon 0.01
+episode  57 score -200.00 average score -222.48 epsilon 0.01
+episode  58 score -200.00 average score -222.10 epsilon 0.01
+episode  59 score -200.00 average score -221.73 epsilon 0.01
+episode  60 score -204.00 average score -221.44 epsilon 0.01
+episode  61 score -200.00 average score -221.10 epsilon 0.01
+episode  62 score -208.00 average score -220.89 epsilon 0.01
+episode  63 score -204.00 average score -220.62 epsilon 0.01
+episode  64 score -200.00 average score -220.31 epsilon 0.01
+episode  65 score -204.00 average score -220.06 epsilon 0.01
+episode  66 score -200.00 average score -219.76 epsilon 0.01
+episode  67 score -200.00 average score -219.47 epsilon 0.01
+episode  68 score -200.00 average score -219.19 epsilon 0.01
+episode  69 score -208.00 average score -219.03 epsilon 0.01
+episode  70 score -200.00 average score -218.76 epsilon 0.01
+episode  71 score -204.00 average score -218.56 epsilon 0.01
+episode  72 score -200.00 average score -218.30 epsilon 0.01
+episode  73 score -200.00 average score -218.05 epsilon 0.01
+episode  74 score -204.00 average score -217.87 epsilon 0.01
+episode  75 score -204.00 average score -217.68 epsilon 0.01
+episode  76 score -200.00 average score -217.45 epsilon 0.01
+episode  77 score -200.00 average score -217.23 epsilon 0.01
+episode  78 score -200.00 average score -217.01 epsilon 0.01
+episode  79 score -204.00 average score -216.85 epsilon 0.01
+episode  80 score -204.00 average score -216.69 epsilon 0.01
+episode  81 score -200.00 average score -216.49 epsilon 0.01
+episode  82 score -204.00 average score -216.34 epsilon 0.01
+episode  83 score -200.00 average score -216.14 epsilon 0.01
+episode  84 score -204.00 average score -216.00 epsilon 0.01
+episode  85 score -204.00 average score -215.86 epsilon 0.01
+episode  86 score -204.00 average score -215.72 epsilon 0.01
+episode  87 score -200.00 average score -215.55 epsilon 0.01
+episode  88 score -200.00 average score -215.37 epsilon 0.01
+episode  89 score -208.00 average score -215.29 epsilon 0.01
+episode  90 score -200.00 average score -215.12 epsilon 0.01
+episode  91 score -200.00 average score -214.96 epsilon 0.01
+episode  92 score -200.00 average score -214.80 epsilon 0.01
+episode  93 score -200.00 average score -214.64 epsilon 0.01
+episode  94 score -200.00 average score -214.48 epsilon 0.01
+episode  95 score -204.00 average score -214.38 epsilon 0.01
+episode  96 score -200.00 average score -214.23 epsilon 0.01
+episode  97 score -200.00 average score -214.08 epsilon 0.01
+episode  98 score -208.00 average score -214.02 epsilon 0.01
+episode  99 score -200.00 average score -213.88 epsilon 0.01
+episode  100 score -200.00 average score -211.24 epsilon 0.01
+episode  101 score -204.00 average score -209.76 epsilon 0.01
+episode  102 score -200.00 average score -208.08 epsilon 0.01
+episode  103 score -208.00 average score -206.64 epsilon 0.01
+episode  104 score -204.00 average score -205.32 epsilon 0.01
+episode  105 score -200.00 average score -204.08 epsilon 0.01
+episode  106 score -212.00 average score -203.08 epsilon 0.01
+episode  107 score -200.00 average score -202.64 epsilon 0.01
+episode  108 score -200.00 average score -202.24 epsilon 0.01
+episode  109 score -204.00 average score -202.16 epsilon 0.01
+episode  110 score -200.00 average score -202.12 epsilon 0.01
+episode  111 score -204.00 average score -202.12 epsilon 0.01
+episode  112 score -204.00 average score -202.16 epsilon 0.01
+episode  113 score -200.00 average score -202.16 epsilon 0.01
+episode  114 score -200.00 average score -202.12 epsilon 0.01
+episode  115 score -200.00 average score -202.12 epsilon 0.01
+episode  116 score -200.00 average score -202.12 epsilon 0.01
+episode  117 score -204.00 average score -202.12 epsilon 0.01
+episode  118 score -204.00 average score -202.08 epsilon 0.01
+episode  119 score -200.00 average score -202.08 epsilon 0.01
+episode  120 score -200.00 average score -202.04 epsilon 0.01
+episode  121 score -200.00 average score -202.04 epsilon 0.01
+episode  122 score -204.00 average score -202.08 epsilon 0.01
+episode  123 score -204.00 average score -202.08 epsilon 0.01
+episode  124 score -204.00 average score -202.08 epsilon 0.01
+episode  125 score -200.00 average score -202.08 epsilon 0.01
+episode  126 score -200.00 average score -202.08 epsilon 0.01
+episode  127 score -208.00 average score -202.16 epsilon 0.01
+episode  128 score -204.00 average score -202.16 epsilon 0.01
+episode  129 score -204.00 average score -202.20 epsilon 0.01
+episode  130 score -204.00 average score -202.24 epsilon 0.01
+episode  131 score -204.00 average score -202.28 epsilon 0.01
+episode  132 score -204.00 average score -202.32 epsilon 0.01
+episode  133 score -204.00 average score -202.36 epsilon 0.01
+episode  134 score -204.00 average score -202.20 epsilon 0.01
+episode  135 score -200.00 average score -202.20 epsilon 0.01
+episode  136 score -204.00 average score -202.24 epsilon 0.01
+episode  137 score -200.00 average score -202.24 epsilon 0.01
+episode  138 score -204.00 average score -202.28 epsilon 0.01
+episode  139 score -204.00 average score -202.28 epsilon 0.01
+episode  140 score -200.00 average score -202.24 epsilon 0.01
+episode  141 score -208.00 average score -202.32 epsilon 0.01
+episode  142 score -204.00 average score -202.28 epsilon 0.01
+episode  143 score -208.00 average score -202.36 epsilon 0.01
+episode  144 score -204.00 average score -202.40 epsilon 0.01
+episode  145 score -200.00 average score -202.32 epsilon 0.01
+episode  146 score -204.00 average score -202.36 epsilon 0.01
+episode  147 score -208.00 average score -202.44 epsilon 0.01
+episode  148 score -200.00 average score -202.44 epsilon 0.01
+episode  149 score -204.00 average score -202.44 epsilon 0.01
+episode  150 score -200.00 average score -202.44 epsilon 0.01
+episode  151 score -204.00 average score -202.44 epsilon 0.01
+episode  152 score -204.00 average score -202.48 epsilon 0.01
+episode  153 score -204.00 average score -202.48 epsilon 0.01
+episode  154 score -204.00 average score -202.48 epsilon 0.01
+episode  155 score -200.00 average score -202.48 epsilon 0.01
+episode  156 score -204.00 average score -202.52 epsilon 0.01
+episode  157 score -200.00 average score -202.52 epsilon 0.01
+episode  158 score -204.00 average score -202.56 epsilon 0.01
+episode  159 score -204.00 average score -202.60 epsilon 0.01
+episode  160 score -204.00 average score -202.60 epsilon 0.01
+episode  161 score -200.00 average score -202.60 epsilon 0.01
+episode  162 score -204.00 average score -202.56 epsilon 0.01
+episode  163 score -212.00 average score -202.64 epsilon 0.01
+episode  164 score -200.00 average score -202.64 epsilon 0.01
+episode  165 score -204.00 average score -202.64 epsilon 0.01
+episode  166 score -200.00 average score -202.64 epsilon 0.01
+episode  167 score -200.00 average score -202.64 epsilon 0.01
+episode  168 score -208.00 average score -202.72 epsilon 0.01
+episode  169 score -208.00 average score -202.72 epsilon 0.01
+episode  170 score -208.00 average score -202.80 epsilon 0.01
+episode  171 score -204.00 average score -202.80 epsilon 0.01
+episode  172 score -200.00 average score -202.80 epsilon 0.01
+episode  173 score -200.00 average score -202.80 epsilon 0.01
+episode  174 score -200.00 average score -202.76 epsilon 0.01
+episode  175 score -200.00 average score -202.72 epsilon 0.01
+episode  176 score -200.00 average score -202.72 epsilon 0.01
+episode  177 score -200.00 average score -202.72 epsilon 0.01
+episode  178 score -212.00 average score -202.84 epsilon 0.01
+episode  179 score -208.00 average score -202.88 epsilon 0.01
+episode  180 score -204.00 average score -202.88 epsilon 0.01
+episode  181 score -200.00 average score -202.88 epsilon 0.01
+episode  182 score -200.00 average score -202.84 epsilon 0.01
+episode  183 score -204.00 average score -202.88 epsilon 0.01
+episode  184 score -204.00 average score -202.88 epsilon 0.01
+episode  185 score -200.00 average score -202.84 epsilon 0.01
+episode  186 score -200.00 average score -202.80 epsilon 0.01
+episode  187 score -200.00 average score -202.80 epsilon 0.01
+episode  188 score -204.00 average score -202.84 epsilon 0.01
+episode  189 score -200.00 average score -202.76 epsilon 0.01
+episode  190 score -208.00 average score -202.84 epsilon 0.01
+episode  191 score -200.00 average score -202.84 epsilon 0.01
+episode  192 score -200.00 average score -202.84 epsilon 0.01
+episode  193 score -200.00 average score -202.84 epsilon 0.01
+episode  194 score -200.00 average score -202.84 epsilon 0.01
+episode  195 score -200.00 average score -202.80 epsilon 0.01
+episode  196 score -200.00 average score -202.80 epsilon 0.01
+episode  197 score -200.00 average score -202.80 epsilon 0.01
+episode  198 score -200.00 average score -202.72 epsilon 0.01
+episode  199 score -200.00 average score -202.72 epsilon 0.01
+episode  200 score -208.00 average score -202.80 epsilon 0.01
+episode  201 score -208.00 average score -202.84 epsilon 0.01
+episode  202 score -200.00 average score -202.84 epsilon 0.01
+episode  203 score -208.00 average score -202.84 epsilon 0.01
+episode  204 score -204.00 average score -202.84 epsilon 0.01
+episode  205 score -200.00 average score -202.84 epsilon 0.01
+episode  206 score -200.00 average score -202.72 epsilon 0.01
+episode  207 score -204.00 average score -202.76 epsilon 0.01
+episode  208 score -200.00 average score -202.76 epsilon 0.01
+episode  209 score -212.00 average score -202.84 epsilon 0.01
+episode  210 score -204.00 average score -202.88 epsilon 0.01
+episode  211 score -200.00 average score -202.84 epsilon 0.01
+episode  212 score -200.00 average score -202.80 epsilon 0.01
+episode  213 score -200.00 average score -202.80 epsilon 0.01
+episode  214 score -200.00 average score -202.80 epsilon 0.01
+episode  215 score -200.00 average score -202.80 epsilon 0.01
+episode  216 score -204.00 average score -202.84 epsilon 0.01
+episode  217 score -200.00 average score -202.80 epsilon 0.01
+episode  218 score -208.00 average score -202.84 epsilon 0.01
+episode  219 score -200.00 average score -202.84 epsilon 0.01
+episode  220 score -200.00 average score -202.84 epsilon 0.01
+episode  221 score -200.00 average score -202.84 epsilon 0.01
+episode  222 score -204.00 average score -202.84 epsilon 0.01
+episode  223 score -200.00 average score -202.80 epsilon 0.01
+episode  224 score -208.00 average score -202.84 epsilon 0.01
+episode  225 score -200.00 average score -202.84 epsilon 0.01
+episode  226 score -200.00 average score -202.84 epsilon 0.01
+episode  227 score -200.00 average score -202.76 epsilon 0.01
+episode  228 score -200.00 average score -202.72 epsilon 0.01
+episode  229 score -204.00 average score -202.72 epsilon 0.01
+episode  230 score -200.00 average score -202.68 epsilon 0.01
+episode  231 score -208.00 average score -202.72 epsilon 0.01
+episode  232 score -200.00 average score -202.68 epsilon 0.01
+episode  233 score -204.00 average score -202.68 epsilon 0.01
+episode  234 score -200.00 average score -202.64 epsilon 0.01
+episode  235 score -200.00 average score -202.64 epsilon 0.01
+episode  236 score -200.00 average score -202.60 epsilon 0.01
+episode  237 score -204.00 average score -202.64 epsilon 0.01
+episode  238 score -200.00 average score -202.60 epsilon 0.01
+episode  239 score -200.00 average score -202.56 epsilon 0.01
+episode  240 score -204.00 average score -202.60 epsilon 0.01
+episode  241 score -200.00 average score -202.52 epsilon 0.01
+episode  242 score -208.00 average score -202.56 epsilon 0.01
+episode  243 score -204.00 average score -202.52 epsilon 0.01
+episode  244 score -204.00 average score -202.52 epsilon 0.01
+episode  245 score -200.00 average score -202.52 epsilon 0.01
+episode  246 score -200.00 average score -202.48 epsilon 0.01
+episode  247 score -200.00 average score -202.40 epsilon 0.01
+episode  248 score -200.00 average score -202.40 epsilon 0.01
+episode  249 score -200.00 average score -202.36 epsilon 0.01
+episode  250 score -208.00 average score -202.44 epsilon 0.01
+episode  251 score -200.00 average score -202.40 epsilon 0.01
+episode  252 score -204.00 average score -202.40 epsilon 0.01
+episode  253 score -200.00 average score -202.36 epsilon 0.01
+episode  254 score -208.00 average score -202.40 epsilon 0.01
+episode  255 score -200.00 average score -202.40 epsilon 0.01
+episode  256 score -200.00 average score -202.36 epsilon 0.01
+episode  257 score -200.00 average score -202.36 epsilon 0.01
+episode  258 score -200.00 average score -202.32 epsilon 0.01
+episode  259 score -204.00 average score -202.32 epsilon 0.01
+episode  260 score -200.00 average score -202.28 epsilon 0.01
+episode  261 score -200.00 average score -202.28 epsilon 0.01
+episode  262 score -200.00 average score -202.24 epsilon 0.01
+episode  263 score -212.00 average score -202.24 epsilon 0.01
+episode  264 score -200.00 average score -202.24 epsilon 0.01
+episode  265 score -204.00 average score -202.24 epsilon 0.01
+episode  266 score -204.00 average score -202.28 epsilon 0.01
+episode  267 score -200.00 average score -202.28 epsilon 0.01
+episode  268 score -200.00 average score -202.20 epsilon 0.01
+episode  269 score -200.00 average score -202.12 epsilon 0.01
+episode  270 score -204.00 average score -202.08 epsilon 0.01
+episode  271 score -204.00 average score -202.08 epsilon 0.01
+episode  272 score -200.00 average score -202.08 epsilon 0.01
+episode  273 score -200.00 average score -202.08 epsilon 0.01
+episode  274 score -200.00 average score -202.08 epsilon 0.01
+episode  275 score -200.00 average score -202.08 epsilon 0.01
+episode  276 score -200.00 average score -202.08 epsilon 0.01
+episode  277 score -200.00 average score -202.08 epsilon 0.01
+episode  278 score -200.00 average score -201.96 epsilon 0.01
+episode  279 score -204.00 average score -201.92 epsilon 0.01
+episode  280 score -200.00 average score -201.88 epsilon 0.01
+episode  281 score -204.00 average score -201.92 epsilon 0.01
+episode  282 score -200.00 average score -201.92 epsilon 0.01
+episode  283 score -200.00 average score -201.88 epsilon 0.01
+episode  284 score -208.00 average score -201.92 epsilon 0.01
+episode  285 score -204.00 average score -201.96 epsilon 0.01
+episode  286 score -200.00 average score -201.96 epsilon 0.01
+episode  287 score -204.00 average score -202.00 epsilon 0.01
+episode  288 score -204.00 average score -202.00 epsilon 0.01
+episode  289 score -204.00 average score -202.04 epsilon 0.01
+episode  290 score -200.00 average score -201.96 epsilon 0.01
+episode  291 score -200.00 average score -201.96 epsilon 0.01
+episode  292 score -204.00 average score -202.00 epsilon 0.01
+episode  293 score -208.00 average score -202.08 epsilon 0.01
+episode  294 score -200.00 average score -202.08 epsilon 0.01
+episode  295 score -200.00 average score -202.08 epsilon 0.01
+episode  296 score -200.00 average score -202.08 epsilon 0.01
+episode  297 score -200.00 average score -202.08 epsilon 0.01
+episode  298 score -200.00 average score -202.08 epsilon 0.01
+episode  299 score -200.00 average score -202.08 epsilon 0.01
+episode  300 score -200.00 average score -202.00 epsilon 0.01
+episode  301 score -200.00 average score -201.92 epsilon 0.01
+episode  302 score -200.00 average score -201.92 epsilon 0.01
+episode  303 score -204.00 average score -201.88 epsilon 0.01
+episode  304 score -208.00 average score -201.92 epsilon 0.01
+episode  305 score -204.00 average score -201.96 epsilon 0.01
+episode  306 score -204.00 average score -202.00 epsilon 0.01
+episode  307 score -204.00 average score -202.00 epsilon 0.01
+episode  308 score -200.00 average score -202.00 epsilon 0.01
+episode  309 score -200.00 average score -201.88 epsilon 0.01
+episode  310 score -200.00 average score -201.84 epsilon 0.01
+episode  311 score -200.00 average score -201.84 epsilon 0.01
+episode  312 score -208.00 average score -201.92 epsilon 0.01
+episode  313 score -200.00 average score -201.92 epsilon 0.01
+episode  314 score -208.00 average score -202.00 epsilon 0.01
+episode  315 score -204.00 average score -202.04 epsilon 0.01
+episode  316 score -200.00 average score -202.00 epsilon 0.01
+episode  317 score -200.00 average score -202.00 epsilon 0.01
+episode  318 score -200.00 average score -201.92 epsilon 0.01
+episode  319 score -200.00 average score -201.92 epsilon 0.01
+episode  320 score -204.00 average score -201.96 epsilon 0.01
+episode  321 score -208.00 average score -202.04 epsilon 0.01
+episode  322 score -200.00 average score -202.00 epsilon 0.01
+episode  323 score -204.00 average score -202.04 epsilon 0.01
+episode  324 score -200.00 average score -201.96 epsilon 0.01
+episode  325 score -200.00 average score -201.96 epsilon 0.01
+episode  326 score -200.00 average score -201.96 epsilon 0.01
+episode  327 score -200.00 average score -201.96 epsilon 0.01
+episode  328 score -200.00 average score -201.96 epsilon 0.01
+episode  329 score -204.00 average score -201.96 epsilon 0.01
+episode  330 score -200.00 average score -201.96 epsilon 0.01
+episode  331 score -200.00 average score -201.88 epsilon 0.01
+episode  332 score -200.00 average score -201.88 epsilon 0.01
+episode  333 score -200.00 average score -201.84 epsilon 0.01
+episode  334 score -200.00 average score -201.84 epsilon 0.01
+episode  335 score -204.00 average score -201.88 epsilon 0.01
+episode  336 score -200.00 average score -201.88 epsilon 0.01
+episode  337 score -204.00 average score -201.88 epsilon 0.01
+episode  338 score -200.00 average score -201.88 epsilon 0.01
+episode  339 score -200.00 average score -201.88 epsilon 0.01
+episode  340 score -200.00 average score -201.84 epsilon 0.01
+episode  341 score -204.00 average score -201.88 epsilon 0.01
+episode  342 score -204.00 average score -201.84 epsilon 0.01
+episode  343 score -204.00 average score -201.84 epsilon 0.01
+episode  344 score -200.00 average score -201.80 epsilon 0.01
+episode  345 score -208.00 average score -201.88 epsilon 0.01
+episode  346 score -200.00 average score -201.88 epsilon 0.01
+episode  347 score -200.00 average score -201.88 epsilon 0.01
+episode  348 score -204.00 average score -201.92 epsilon 0.01
+episode  349 score -200.00 average score -201.92 epsilon 0.01
+episode  350 score -200.00 average score -201.84 epsilon 0.01
+episode  351 score -200.00 average score -201.84 epsilon 0.01
+episode  352 score -200.00 average score -201.80 epsilon 0.01
+episode  353 score -208.00 average score -201.88 epsilon 0.01
+episode  354 score -200.00 average score -201.80 epsilon 0.01
+episode  355 score -200.00 average score -201.80 epsilon 0.01
+episode  356 score -200.00 average score -201.80 epsilon 0.01
+episode  357 score -208.00 average score -201.88 epsilon 0.01
+episode  358 score -200.00 average score -201.88 epsilon 0.01
+episode  359 score -200.00 average score -201.84 epsilon 0.01
+episode  360 score -204.00 average score -201.88 epsilon 0.01
+episode  361 score -208.00 average score -201.96 epsilon 0.01
+episode  362 score -200.00 average score -201.96 epsilon 0.01
+episode  363 score -200.00 average score -201.84 epsilon 0.01
+episode  364 score -200.00 average score -201.84 epsilon 0.01
+episode  365 score -200.00 average score -201.80 epsilon 0.01
+episode  366 score -200.00 average score -201.76 epsilon 0.01
+episode  367 score -200.00 average score -201.76 epsilon 0.01
+episode  368 score -204.00 average score -201.80 epsilon 0.01
+episode  369 score -200.00 average score -201.80 epsilon 0.01
+episode  370 score -200.00 average score -201.76 epsilon 0.01
+episode  371 score -200.00 average score -201.72 epsilon 0.01
+episode  372 score -204.00 average score -201.76 epsilon 0.01
+episode  373 score -204.00 average score -201.80 epsilon 0.01
+episode  374 score -200.00 average score -201.80 epsilon 0.01
+episode  375 score -200.00 average score -201.80 epsilon 0.01
+episode  376 score -204.00 average score -201.84 epsilon 0.01
+episode  377 score -200.00 average score -201.84 epsilon 0.01
+episode  378 score -200.00 average score -201.84 epsilon 0.01
+episode  379 score -204.00 average score -201.84 epsilon 0.01
+episode  380 score -204.00 average score -201.88 epsilon 0.01
+episode  381 score -200.00 average score -201.84 epsilon 0.01
+episode  382 score -204.00 average score -201.88 epsilon 0.01
+episode  383 score -200.00 average score -201.88 epsilon 0.01
+episode  384 score -204.00 average score -201.84 epsilon 0.01
+episode  385 score -204.00 average score -201.84 epsilon 0.01
+episode  386 score -200.00 average score -201.84 epsilon 0.01
+episode  387 score -200.00 average score -201.80 epsilon 0.01
+episode  388 score -204.00 average score -201.80 epsilon 0.01
+episode  389 score -200.00 average score -201.76 epsilon 0.01
+episode  390 score -200.00 average score -201.76 epsilon 0.01
+episode  391 score -208.00 average score -201.84 epsilon 0.01
+episode  392 score -200.00 average score -201.80 epsilon 0.01
+episode  393 score -204.00 average score -201.76 epsilon 0.01
+episode  394 score -208.00 average score -201.84 epsilon 0.01
+episode  395 score -204.00 average score -201.88 epsilon 0.01
+episode  396 score -204.00 average score -201.92 epsilon 0.01
+episode  397 score -200.00 average score -201.92 epsilon 0.01
+episode  398 score -200.00 average score -201.92 epsilon 0.01
+episode  399 score -200.00 average score -201.92 epsilon 0.01
+episode  400 score -204.00 average score -201.96 epsilon 0.01
+episode  401 score -204.00 average score -202.00 epsilon 0.01
+episode  402 score -208.00 average score -202.08 epsilon 0.01
+episode  403 score -204.00 average score -202.08 epsilon 0.01
+episode  404 score -208.00 average score -202.08 epsilon 0.01
+episode  405 score -200.00 average score -202.04 epsilon 0.01
+episode  406 score -200.00 average score -202.00 epsilon 0.01
+episode  407 score -204.00 average score -202.00 epsilon 0.01
+episode  408 score -200.00 average score -202.00 epsilon 0.01
+episode  409 score -200.00 average score -202.00 epsilon 0.01
+episode  410 score -200.00 average score -202.00 epsilon 0.01
+episode  411 score -208.00 average score -202.08 epsilon 0.01
+episode  412 score -200.00 average score -202.00 epsilon 0.01
+episode  413 score -200.00 average score -202.00 epsilon 0.01
+episode  414 score -204.00 average score -201.96 epsilon 0.01
+episode  415 score -200.00 average score -201.92 epsilon 0.01
+episode  416 score -204.00 average score -201.96 epsilon 0.01
+episode  417 score -212.00 average score -202.08 epsilon 0.01
+episode  418 score -200.00 average score -202.08 epsilon 0.01
+episode  419 score -204.00 average score -202.12 epsilon 0.01
+episode  420 score -200.00 average score -202.08 epsilon 0.01
+episode  421 score -200.00 average score -202.00 epsilon 0.01
+episode  422 score -204.00 average score -202.04 epsilon 0.01
+episode  423 score -204.00 average score -202.04 epsilon 0.01
+episode  424 score -200.00 average score -202.04 epsilon 0.01
+episode  425 score -208.00 average score -202.12 epsilon 0.01
+episode  426 score -200.00 average score -202.12 epsilon 0.01
+episode  427 score -200.00 average score -202.12 epsilon 0.01
+episode  428 score -200.00 average score -202.12 epsilon 0.01
+episode  429 score -200.00 average score -202.08 epsilon 0.01
+episode  430 score -204.00 average score -202.12 epsilon 0.01
+episode  431 score -200.00 average score -202.12 epsilon 0.01
+episode  432 score -208.00 average score -202.20 epsilon 0.01
+episode  433 score -204.00 average score -202.24 epsilon 0.01
+episode  434 score -200.00 average score -202.24 epsilon 0.01
+episode  435 score -200.00 average score -202.20 epsilon 0.01
+episode  436 score -204.00 average score -202.24 epsilon 0.01
+episode  437 score -200.00 average score -202.20 epsilon 0.01
+episode  438 score -204.00 average score -202.24 epsilon 0.01
+episode  439 score -204.00 average score -202.28 epsilon 0.01
+episode  440 score -200.00 average score -202.28 epsilon 0.01
+episode  441 score -204.00 average score -202.28 epsilon 0.01
+episode  442 score -204.00 average score -202.28 epsilon 0.01
+episode  443 score -200.00 average score -202.24 epsilon 0.01
+episode  444 score -200.00 average score -202.24 epsilon 0.01
+episode  445 score -204.00 average score -202.20 epsilon 0.01
+episode  446 score -204.00 average score -202.24 epsilon 0.01
+episode  447 score -200.00 average score -202.24 epsilon 0.01
+episode  448 score -200.00 average score -202.20 epsilon 0.01
+episode  449 score -200.00 average score -202.20 epsilon 0.01
+episode  450 score -212.00 average score -202.32 epsilon 0.01
+episode  451 score -204.00 average score -202.36 epsilon 0.01
+episode  452 score -204.00 average score -202.40 epsilon 0.01
+episode  453 score -200.00 average score -202.32 epsilon 0.01
+episode  454 score -200.00 average score -202.32 epsilon 0.01
+episode  455 score -200.00 average score -202.32 epsilon 0.01
+episode  456 score -208.00 average score -202.40 epsilon 0.01
+episode  457 score -204.00 average score -202.36 epsilon 0.01
+episode  458 score -204.00 average score -202.40 epsilon 0.01
+episode  459 score -200.00 average score -202.40 epsilon 0.01
+episode  460 score -208.00 average score -202.44 epsilon 0.01
+episode  461 score -204.00 average score -202.40 epsilon 0.01
+episode  462 score -204.00 average score -202.44 epsilon 0.01
+episode  463 score -204.00 average score -202.48 epsilon 0.01
+episode  464 score -200.00 average score -202.48 epsilon 0.01
+episode  465 score -200.00 average score -202.48 epsilon 0.01
+episode  466 score -200.00 average score -202.48 epsilon 0.01
+episode  467 score -204.00 average score -202.52 epsilon 0.01
+episode  468 score -204.00 average score -202.52 epsilon 0.01
+episode  469 score -200.00 average score -202.52 epsilon 0.01
+episode  470 score -200.00 average score -202.52 epsilon 0.01
+episode  471 score -200.00 average score -202.52 epsilon 0.01
+episode  472 score -200.00 average score -202.48 epsilon 0.01
+episode  473 score -204.00 average score -202.48 epsilon 0.01
+episode  474 score -200.00 average score -202.48 epsilon 0.01
+episode  475 score -204.00 average score -202.52 epsilon 0.01
+episode  476 score -204.00 average score -202.52 epsilon 0.01
+episode  477 score -200.00 average score -202.52 epsilon 0.01
+episode  478 score -200.00 average score -202.52 epsilon 0.01
+episode  479 score -204.00 average score -202.52 epsilon 0.01
+episode  480 score -204.00 average score -202.52 epsilon 0.01
+episode  481 score -200.00 average score -202.52 epsilon 0.01
+episode  482 score -200.00 average score -202.48 epsilon 0.01
+episode  483 score -200.00 average score -202.48 epsilon 0.01
+episode  484 score -200.00 average score -202.44 epsilon 0.01
+episode  485 score -204.00 average score -202.44 epsilon 0.01
+episode  486 score -200.00 average score -202.44 epsilon 0.01
+episode  487 score -204.00 average score -202.48 epsilon 0.01
+episode  488 score -200.00 average score -202.44 epsilon 0.01
+episode  489 score -200.00 average score -202.44 epsilon 0.01
+episode  490 score -200.00 average score -202.44 epsilon 0.01
+episode  491 score -204.00 average score -202.40 epsilon 0.01
+episode  492 score -204.00 average score -202.44 epsilon 0.01
+episode  493 score -204.00 average score -202.44 epsilon 0.01
+episode  494 score -204.00 average score -202.40 epsilon 0.01
+episode  495 score -208.00 average score -202.44 epsilon 0.01
+episode  496 score -200.00 average score -202.40 epsilon 0.01
+episode  497 score -204.00 average score -202.44 epsilon 0.01
+episode  498 score -200.00 average score -202.44 epsilon 0.01
+episode  499 score -200.00 average score -202.44 epsilon 0.01
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+
+CYCLE DOWN: 0
+#X##X##X##X##X#
+XRXX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+#X##X##X##X##X#
+X XX XX XX XX X
+#X##X##X##X##X#
+
